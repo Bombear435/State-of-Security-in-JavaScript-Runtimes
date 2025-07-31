@@ -1,0 +1,318 @@
+ PASS  convict_6.0.0/convict.test.js
+ PASS  tiny-conf_1.1.0/tiny-conf.test.js
+ FAIL  object-path_0.11.0/object-path.test.js
+  ● prototype pollution in object-path
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: "yes"
+    Received: undefined
+
+      5 |   expect({}.polluted).toBe(undefined);
+      6 |   setPath({}, "__proto__.polluted", "yes");
+    > 7 |   expect({}.polluted).toBe("yes");
+        |                       ^
+      8 | });
+      9 |
+
+      at Object.toBe (object-path_0.11.0/object-path.test.js:7:23)
+
+ PASS  upmerge_0.1.7/upmerge.test.js
+ PASS  iniparserjs_1.0.4/iniparserjs.test.js
+  ● Console
+
+    console.log
+      After: yes
+
+      at Object.log (iniparserjs_1.0.4/iniparserjs.test.js:11:11)
+
+ PASS  nedb_1.8.0/nedb.test.js
+ PASS  mout_1.0.0/mout.test.js
+(node:305986) [JEST-01] DeprecationWarning: 'matchers' property was accessed on [Object] after it was soft deleted
+  Jest deletes objects that were set on the global scope between test files to reduce memory leaks.
+  Currently it only "soft" deletes them and emits this warning if those objects were accessed after their deletion.
+  In future versions of Jest, this behavior will change to "on", which will likely fail tests.
+  You can change the behavior in your test configuration now to reduce memory usage.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ PASS  connie_0.1.0/connie.test.js
+ PASS  grunt-util-property_0.0.2/grunt-util-property.test.js
+ PASS  style-dictionary_2.10.2/style-dictionary.test.js
+ PASS  jointjs_2.2.1/jointjs.test.js
+ PASS  json-schema_0.3.0/json-schema.test.js
+ PASS  nis-utils_0.6.10/nis-utils.test.js
+ PASS  jointjs_3.4.0/jointjs.test.js
+ PASS  safe-object2_1.0.3/safe-object2.test.js
+  ● Console
+
+    console.log
+      undefined
+
+      at safe-object2_1.0.3/node_modules/safe-object2/lib/index.js:1:1617
+          at Array.reduce (<anonymous>)
+
+ PASS  lyngs-merge_1.0.9/lyngs-merge.test.js
+ PASS  merge-deep_3.0.0/merge-deep.test.js
+ PASS  prototyped.js_2.0.0/prototyped.test.js
+  ● Console
+
+    console.log
+      Prototype before set undefined
+
+      at Object.log (prototyped.js_2.0.0/prototyped.test.js:14:11)
+
+    console.log
+      Prototype after set undefined
+
+      at Object.log (prototyped.js_2.0.0/prototyped.test.js:16:11)
+
+ PASS  utilitify_1.0.2/utilitify.test.js
+ PASS  nodee-utils_1.2.2/nodee-utils.test.js
+ PASS  tsed-core_5.62.3/tsed-core.test.js
+ PASS  worksmith_1.0.0/worksmith.test.js
+ PASS  swiper_6.5.0/swiper.test.js
+ PASS  think-helper_1.1.0/think-helper.test.js
+ PASS  vega-util_1.13.0/vega-util.test.js
+ PASS  cached-path-relative_1.0.1/cached-path-relative.test.js
+ PASS  merge-recursive_0.0.3/merge-recursive.test.js
+ PASS  lodash_4.17.15/lodash.test.js
+ PASS  fluentui-styles_0.47.15/fluentui-styles.test.js
+ PASS  set-in_1.0.0/set-in.test.js
+ PASS  algoliasearch-helper_3.6.0/algoliasearch-helper.test.js
+ PASS  component-flatten_1.0.1/component-flatten.test.js
+ PASS  confucious_0.0.12/confucious.test.js
+ PASS  locutus_2.0.11/locutus.test.js
+ PASS  lodash_4.17.10/lodash.test.js
+ PASS  json-pointer_0.6.0/json-pointer.test.js
+ PASS  predefine_0.1.2/predefine.test.js
+ PASS  confinit_0.3.0/confinit.test.js
+ PASS  set-value_3.0.0/set-value.test.js
+ PASS  linux-cmdline_1.0.0/linux-cmdline.test.js
+ PASS  phpjs_1.3.2/phpjs.test.js
+ PASS  shvl_2.0.1/shvl.test.js
+ PASS  asciitable.js_1.0.2/asciitable.test.js
+ PASS  paypal-adaptive_0.4.1/paypal-adaptive.test.js
+ PASS  mquery_3.2.1/mquery.test.js
+ PASS  deeply_3.0.0/deeply.test.js
+ PASS  tree-kit_0.6.1/tree-kit.test.js
+ PASS  keyget_2.2.0/keyget.test.js
+ PASS  deeps_1.4.5/deeps.test.js
+ PASS  utils-extend_1.0.8/utils-extend.test.js
+ PASS  aws-sdk-shared-ini-file-loader_1.0.0-rc.8/aws-sdk-shared-ini-file-loader.test.js
+ PASS  flattenizer_0.0.5/flattenizer.test.js
+(node:305925) [JEST-01] DeprecationWarning: 'matchers' property was accessed on [Object] after it was soft deleted
+  Jest deletes objects that were set on the global scope between test files to reduce memory leaks.
+  Currently it only "soft" deletes them and emits this warning if those objects were accessed after their deletion.
+  In future versions of Jest, this behavior will change to "on", which will likely fail tests.
+  You can change the behavior in your test configuration now to reduce memory usage.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ PASS  js-ini_1.2.0/js-ini.test.js
+ PASS  js-data_3.0.9/js-data.test.js
+ PASS  bodymen_1.0.0/bodymen.test.js
+ PASS  deep-defaults_1.0.5/deep-defaults.test.js
+ PASS  undefsafe_2.0.2/undefsafe.test.js
+ PASS  uifabric-utilities_7.20.2/uifabric-utilities.test.js
+ PASS  merge-deep2_3.0.5/merge-deep2.test.js
+ PASS  just-safe-set_1.0.0/just-safe-set.test.js
+ PASS  simpl-schema_1.10.0/simpl-schema.test.js
+ PASS  field_1.0.1/field.test.js
+ PASS  libnested_1.5.0/libnested.test.js
+ PASS  gammautils_0.0.81/gammautils.test.js
+ PASS  aurelia-path_1.1.7/aurelia-path.test.js
+ PASS  getobject_0.1.0/getobject.test.js
+  ● Console
+
+    console.log
+      Before  : undefined
+
+      at Object.log (getobject_0.1.0/getobject.test.js:7:11)
+
+ PASS  sahmat_1.0.0/sahmat.test.js
+ PASS  jquery_1.11.0/jquery.test.js
+(node:305921) [JEST-01] DeprecationWarning: 'matchers' property was accessed on [Object] after it was soft deleted
+  Jest deletes objects that were set on the global scope between test files to reduce memory leaks.
+  Currently it only "soft" deletes them and emits this warning if those objects were accessed after their deletion.
+  In future versions of Jest, this behavior will change to "on", which will likely fail tests.
+  You can change the behavior in your test configuration now to reduce memory usage.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ PASS  i18next_19.7.0/i18next.test.js
+/home/bombe/UniSaarland/WebSec Seminar/SecBench.js/prototype-pollution/aws-sdk-shared-ini-file-loader_1.0.0-rc.8/aws-sdk-shared-ini-file-loader.test.js:10
+    expect({}.polluted).toBe("yes");
+                        ^
+
+[JestAssertionError: expect(received).toBe(expected) // Object.is equality
+
+Expected: "yes"
+Received: "\"yes\""] {
+  matcherResult: {
+    actual: '"yes"',
+    expected: 'yes',
+    message: '\x1B[2mexpect(\x1B[22m\x1B[31mreceived\x1B[39m\x1B[2m).\x1B[22mtoBe\x1B[2m(\x1B[22m\x1B[32mexpected\x1B[39m\x1B[2m) // Object.is equality\x1B[22m\n' +
+      '\n' +
+      'Expected: \x1B[32m"yes"\x1B[39m\n' +
+      'Received: \x1B[31m"\x1B[7m\\"\x1B[27myes\x1B[7m\\"\x1B[27m"\x1B[39m',
+    name: 'toBe',
+    pass: false
+  }
+}
+ PASS  merge_2.1.0/merge.test.js
+ PASS  json8-merge-patch_1.0.1/json8-merge-patch.test.js
+
+Node.js v18.19.1
+ PASS  firebase-util_0.3.2/firebase-util.test.js
+ PASS  set-object-value_0.0.5/set-object-value.test.js
+ PASS  cookiex-deep_0.0.6/cookiex-deep.test.js
+ PASS  doc-path_2.0.0/doc-path.test.js
+ PASS  viking04-merge_1.0.0/@viking04-merge.test.js
+ PASS  jsonpointer_4.0.0/jsonpointer.test.js
+ PASS  lutils-merge_0.2.6/lutils-merge.test.js
+ PASS  node-oojs_1.4.0/node-oojs.test.js
+ PASS  fabiocaccamo-utils.js_0.17.0/fabiocaccamo-utils.test.js
+ PASS  mixin-deep_2.0.0/mixin-deep.test.js
+ PASS  class-transformer_0.1.1/class-transformer.test.js
+ PASS  controlled-merge_1.0.0/controlled-merge.test.js
+ PASS  rdf-graph-array_0.3.0/rdf-graph-array.test.js
+ PASS  deepref_1.1.1/deepref.test.js
+ PASS  madlib-object-utils_0.1.6/madlib-object-utils.test.js
+ PASS  flat_5.0.0/flat.test.js
+ PASS  nestie_1.0.0/nestie.test.js
+ PASS  merge-change_1.0.1/merge-change.test.js
+ PASS  mergify_1.0.2/mergify.test.js
+ PASS  expand-hash_1.0.1/expand-hash.test.js
+ PASS  typeorm_0.2.24/TypeORM.test.js
+ PASS  properties-reader_2.0.0/properties-reader.test.js
+ PASS  patchmerge_1.0.1/patchmerge.test.js
+ PASS  node-forge_0.9.0/node-forge.test.js
+ PASS  objutil_2.17.3/objutil.test.js
+ PASS  brikcss-merge_1.3.0/@brikcss-merge.test.js
+ PASS  dset_1.0.0/dset.test.js
+(node:305926) [JEST-01] DeprecationWarning: 'install' property was accessed on [Object] after it was soft deleted
+  Jest deletes objects that were set on the global scope between test files to reduce memory leaks.
+  Currently it only "soft" deletes them and emits this warning if those objects were accessed after their deletion.
+  In future versions of Jest, this behavior will change to "on", which will likely fail tests.
+  You can change the behavior in your test configuration now to reduce memory usage.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ PASS  total.js_3.4.6/total-js.test.js
+ PASS  mathjs_7.4.0/mathjs.test.js
+ PASS  ianwalter-merge_9.0.1/@ianwalter-merge.test.js
+ PASS  querymen_2.1.3/querymen.test.js
+ PASS  node-ini_1.0.0/node-ini.test.js
+ PASS  lodash_4.17.11/lodash.test.js
+ PASS  changeset_0.1.0/changeset.test.js
+ PASS  fast-json-patch_2.0.4/fast-json-patch.test.js
+ PASS  node-extend_1.0.0/node-extend.test.js
+ PASS  json-pointer_0.6.1/json-pointer.test.js
+ PASS  eivindfjeldstad-dot_0.0.1/eivindfjeldstad-dot.test.js
+ PASS  merge-options_1.0.0/merge-options.test.js
+ PASS  decal_2.1.3/decal.test.js
+ PASS  x-assign_0.1.4/x-assign.test.js
+ PASS  lodash_4.17.9/lodash.test.js
+ PASS  supermixer_1.0.3/supermixer.test.js
+ PASS  set-deep-prop_1.0.0/set-deep-prop.test.js
+ PASS  putil-merge_3.0.0/putil-merge.test.js
+ PASS  mootools_1.5.2/mootools.test.js
+ PASS  multi-ini_2.1.0/multi-ini.test.js
+ PASS  sds_3.2.0/sds.test.js
+ PASS  strikeentco-set_1.0.0/strikeentco.test.js
+ PASS  flat-wrap_1.0.2/flat-wrap.test.js
+ PASS  merge-objects_1.0.3/merge-objects.test.js
+ PASS  rfc6902_4.0.2/rfc6902.test.js
+ PASS  node-dig_1.0.1/node-dig.test.js
+ PASS  nconf-toml_0.0.1/nconf-toml.test.js
+ PASS  keyd_1.3.4/keyd.test.js
+ PASS  objtools_3.0.0/objtools.test.js
+(node:306009) [JEST-01] DeprecationWarning: 'matchers' property was accessed on [Object] after it was soft deleted
+  Jest deletes objects that were set on the global scope between test files to reduce memory leaks.
+  Currently it only "soft" deletes them and emits this warning if those objects were accessed after their deletion.
+  In future versions of Jest, this behavior will change to "on", which will likely fail tests.
+  You can change the behavior in your test configuration now to reduce memory usage.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ PASS  objnest_5.0.0/objnest.test.js
+ PASS  minimist_1.0.0/minimist.test.js
+ PASS  assign-deep_1.0.0/assign-deep.test.js
+ PASS  decal_2.0.0/decal.test.js
+ PASS  set-or-get_1.2.10/set-or-get.test.js
+ PASS  yargs-parser_6.0.0/yargs-parser.test.js
+ PASS  ini-parser_0.0.2/ini-parser.test.js
+ PASS  nested-object-assign_1.0.3/nested-object-assign.test.js
+ PASS  lyngs-digger_1.0.7/lyngs-digger.test.js
+ PASS  lutils_2.4.0/lutils.test.js
+ PASS  deap_1.0.0/deap.test.js
+ PASS  object-collider_1.0.3/object-collider.test.js
+ PASS  deephas_1.0.5/deephas.test.js
+ PASS  objection_2.0.0/objection.test.js
+ PASS  object-path-set_1.0.0/object-path-set.test.js
+ PASS  mithril_1.0.0/mithril.test.js
+ PASS  Templ8_0.7.0/Templ8.test.js
+ PASS  dotty_0.0.1/dotty.test.js
+ PASS  json-ptr_1.1.0/json-ptr.test.js
+ PASS  eivifj-dot_1.0.2/eivifj-dot.test.js
+ PASS  dot-object_2.1.2/dot-object.test.js
+ PASS  inireader_1.0.0/inireader.test.js
+ PASS  deep-extend_0.5.0/deep-extend.test.js
+ PASS  object-path_0.11.4/object-path.test.js
+ PASS  extend_3.0.1/extend.test.js
+ PASS  nested-property_0.0.5/nested-property.test.js
+ PASS  getsetdeep_4.15.0/getsetdeep.test.js
+ PASS  mpath_0.4.1/mpath.test.js
+ PASS  safe-obj_1.0.0/safe-obj.test.js
+ PASS  dot-notes_3.2.0/dot-notes.test.js
+ PASS  plain-object-merge_1.0.1/plain-object-merge.test.js
+ PASS  hoek_5.0.0/hoek.test.js
+ PASS  deep-set_1.0.0/deep-set.test.js
+ PASS  mixin-deep_1.3.0/mixin-deep.test.js
+ PASS  record-like-deep-assign_1.0.1/record-like-deep-assign.test.js
+ PASS  deep-override_1.0.0/deep-override.test.js
+ PASS  gedi_1.6.3/gedi.test.js
+ PASS  firebase-util_0.3.3-canary.c47ba31d0/firebase-util.test.js
+ PASS  deep-get-set_1.1.0/deep-get-set.test.js
+ PASS  promisehelpers_0.0.5/promisehelpers.test.js
+ PASS  arr-flatten-unflatten_1.1.4/arr-flatten-unflatten.test.js
+ PASS  immer_8.0.0/immer.test.js
+ PASS  ts-dot-prop_1.4.0/ts-dot-prop.test.js
+ PASS  js-extend_0.0.1/js-extend.test.js
+ PASS  bmoor_0.8.11/bmoor.test.js
+ PASS  property-expr_2.0.2/property-expr.test.js
+ PASS  dot-prop_2.0.0/dot-prop.test.js
+ PASS  101_1.0.0/101.test.js
+ PASS  smart-extend_1.7.3/smart-extend.test.js
+ PASS  copy-props_2.0.4/copy-props.test.js
+ PASS  safe-flat_2.0.0/safe-flat.test.js
+ PASS  y18n_3.2.1/y18n.test.js
+ PASS  ini_1.3.5/ini.test.js
+ PASS  extend-merge_1.0.5/extend-merge.test.js
+ PASS  deepmergefn_1.1.0/deepmergefn.test.js
+ PASS  defaults-deep_0.2.4/defaults-deep.test.js
+ PASS  ion-parser_0.5.2/ion-parser.test.js
+ PASS  defaults-deep_0.2.0/defaults-deep.test.js
+ PASS  safetydance_2.0.1/safetydance.test.js
+ PASS  think-config_1.0.0/poc.test.js
+ PASS  Proto_1.1.4/Proto.test.js
+ PASS  pathval_1.1.0/pathval.test.js
+ PASS  just-extend_3.0.0/just-extend.test.js
+ PASS  set-getter_0.1.0/set-getter.test.js
+ PASS  patchmerge_1.0.0/patchmerge.test.js
+
+Summary of all failing tests
+ FAIL  object-path_0.11.0/object-path.test.js
+  ● prototype pollution in object-path
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: "yes"
+    Received: undefined
+
+      5 |   expect({}.polluted).toBe(undefined);
+      6 |   setPath({}, "__proto__.polluted", "yes");
+    > 7 |   expect({}.polluted).toBe("yes");
+        |                       ^
+      8 | });
+      9 |
+
+      at Object.toBe (object-path_0.11.0/object-path.test.js:7:23)
+
+
+Test Suites: 1 failed, 191 passed, 192 total
+Tests:       1 failed, 192 passed, 193 total
+Snapshots:   0 total
+Time:        3.477 s
+Ran all test suites.

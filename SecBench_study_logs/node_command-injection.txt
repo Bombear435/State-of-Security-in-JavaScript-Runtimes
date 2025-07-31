@@ -1,0 +1,895 @@
+ FAIL  corenlp-js-interface_1.0.3/corenlp-js-interface.test.js
+  ● Command Injection in corenlp-js-interface
+
+    Cannot find module 'corenlp-js-interface' from 'corenlp-js-interface_1.0.3/corenlp-js-interface.test.js'
+
+    However, Jest was able to find:
+    	'./corenlp-js-interface.test.js'
+
+    You might want to include a file extension in your import, or update your 'moduleFileExtensions', which is currently ['js', 'mjs', 'cjs', 'jsx', 'ts', 'mts', 'cts', 'tsx', 'json', 'node'].
+
+    See https://jestjs.io/docs/configuration#modulefileextensions-arraystring
+
+      1 | test("Command Injection in corenlp-js-interface", () => {
+      2 |   expect.assertions(2);
+    > 3 |   const a = require("corenlp-js-interface");
+        |             ^
+      4 |   const fs = require("fs");
+      5 |   const path = "./corenlp-js-interface";
+      6 |   try {
+
+      at Resolver._throwModNotFoundError (../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (corenlp-js-interface_1.0.3/corenlp-js-interface.test.js:3:13)
+
+  ● Command Injection in corenlp-js-interface
+
+    expect.assertions(2)
+
+    Expected two assertions to be called but received zero assertion calls.
+
+      1 | test("Command Injection in corenlp-js-interface", () => {
+    > 2 |   expect.assertions(2);
+        |          ^
+      3 |   const a = require("corenlp-js-interface");
+      4 |   const fs = require("fs");
+      5 |   const path = "./corenlp-js-interface";
+
+      at Object.assertions (corenlp-js-interface_1.0.3/corenlp-js-interface.test.js:2:10)
+
+warning: You appear to have cloned an empty repository.
+ FAIL  corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js
+  ● Command Injection in corenlp-js-prefab
+
+    Cannot find module 'corenlp-js-prefab' from 'corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js'
+
+    However, Jest was able to find:
+    	'./corenlp-js-prefab.test.js'
+
+    You might want to include a file extension in your import, or update your 'moduleFileExtensions', which is currently ['js', 'mjs', 'cjs', 'jsx', 'ts', 'mts', 'cts', 'tsx', 'json', 'node'].
+
+    See https://jestjs.io/docs/configuration#modulefileextensions-arraystring
+
+      1 | test("Command Injection in corenlp-js-prefab", (done) => {
+      2 |   expect.assertions(2);
+    > 3 |   const a = require("corenlp-js-prefab");
+        |             ^
+      4 |   const fs = require("fs");
+      5 |   const path = "./corenlp-js-prefab";
+      6 |   try {
+
+      at Resolver._throwModNotFoundError (../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js:3:13)
+
+  ● Command Injection in corenlp-js-prefab
+
+    expect.assertions(2)
+
+    Expected two assertions to be called but received zero assertion calls.
+
+      1 | test("Command Injection in corenlp-js-prefab", (done) => {
+    > 2 |   expect.assertions(2);
+        |          ^
+      3 |   const a = require("corenlp-js-prefab");
+      4 |   const fs = require("fs");
+      5 |   const path = "./corenlp-js-prefab";
+
+      at Object.assertions (corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js:2:10)
+
+ FAIL  effect_1.0.4/effect.test.js
+  ● Command Injection in effect
+
+    Cannot find module 'effect' from 'effect_1.0.4/effect.test.js'
+
+    However, Jest was able to find:
+    	'./effect.test.js'
+
+    You might want to include a file extension in your import, or update your 'moduleFileExtensions', which is currently ['js', 'mjs', 'cjs', 'jsx', 'ts', 'mts', 'cts', 'tsx', 'json', 'node'].
+
+    See https://jestjs.io/docs/configuration#modulefileextensions-arraystring
+
+      1 | test("Command Injection in effect", (done) => {
+      2 |   expect.assertions(2);
+    > 3 |   const Root = require("effect");
+        |                ^
+      4 |   const fs = require("fs");
+      5 |   const path = "./effect";
+      6 |   var options = { image: "& touch effect" };
+
+      at Resolver._throwModNotFoundError (../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (effect_1.0.4/effect.test.js:3:16)
+
+  ● Command Injection in effect
+
+    expect.assertions(2)
+
+    Expected two assertions to be called but received zero assertion calls.
+
+      1 | test("Command Injection in effect", (done) => {
+    > 2 |   expect.assertions(2);
+        |          ^
+      3 |   const Root = require("effect");
+      4 |   const fs = require("fs");
+      5 |   const path = "./effect";
+
+      at Object.assertions (effect_1.0.4/effect.test.js:2:10)
+
+ PASS  lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js
+/bin/sh: 1: -type: not found
+ FAIL  gity_1.0.5/gity.test.js
+  ● Remote code execution in gity
+
+    Cannot find module 'gity' from 'gity_1.0.5/gity.test.js'
+
+    However, Jest was able to find:
+    	'./gity.test.js'
+
+    You might want to include a file extension in your import, or update your 'moduleFileExtensions', which is currently ['js', 'mjs', 'cjs', 'jsx', 'ts', 'mts', 'cts', 'tsx', 'json', 'node'].
+
+    See https://jestjs.io/docs/configuration#modulefileextensions-arraystring
+
+      1 | test("Remote code execution in gity", (done) => {
+      2 |   expect.assertions(2);
+    > 3 |   const Git = require("gity");
+        |               ^
+      4 |   const fs = require("fs");
+      5 |   const path = "./gity";
+      6 |   try {
+
+      at Resolver._throwModNotFoundError (../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (gity_1.0.5/gity.test.js:3:15)
+
+  ● Remote code execution in gity
+
+    expect.assertions(2)
+
+    Expected two assertions to be called but received zero assertion calls.
+
+      1 | test("Remote code execution in gity", (done) => {
+    > 2 |   expect.assertions(2);
+        |          ^
+      3 |   const Git = require("gity");
+      4 |   const fs = require("fs");
+      5 |   const path = "./gity";
+
+      at Object.assertions (gity_1.0.5/gity.test.js:2:10)
+
+ PASS  kill-port-process_0.0.1/kill-port-process.test.js
+  ● Console
+
+    console.log
+      here!
+
+      at log (kill-port-process_0.0.1/kill-port-process.test.js:19:15)
+
+    console.log
+      here!!!!
+
+      at log (kill-port-process_0.0.1/kill-port-process.test.js:25:15)
+
+    console.log
+      File removed!: ./kill-port-process
+
+      at log (kill-port-process_0.0.1/kill-port-process.test.js:28:17)
+
+/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/kill-port-process_0.0.1/node_modules/kill-port-process/src/index.js:48
+				log(`Successfully terminated process running on port ${input}`);
+				^
+
+[ReferenceError: log is not defined]
+
+Node.js v18.19.1
+ PASS  node-key-sender_1.0.11/node-key-sender.test.js
+ FAIL  adb-driver_0.1.8/adb-driver.test.js
+  ● Command Injection in adb-driver
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      15 |   return root.execADBCommand(" & touch adb-driver").finally(() => {
+      16 |     file_exist = fs.existsSync(path);
+    > 17 |     expect(file_exist).toBe(true);
+         |                        ^
+      18 |     fs.unlink(path, function (err) {});
+      19 |   });
+      20 | });
+
+      at toBe (adb-driver_0.1.8/adb-driver.test.js:17:24)
+
+ PASS  giting_0.0.7/giting.test.js
+ PASS  node-df_0.1.4/node-df.test.js
+ PASS  strider-git_1.0.3/strider-git.test.js
+ PASS  node-unrar_0.1.0/node-unrar.test.js
+ PASS  lsof_0.1.0/lsof.test.js
+ PASS  hot-formula-parser_3.0.0/hot-formula-parser.test.js
+ PASS  portkiller_1.0.2/portkiller.test.js
+  ● Console
+
+    console.log
+      port number is missing.
+
+      at Object.<anonymous> (portkiller_1.0.2/node_modules/portkiller/index.js:35:11)
+
+    console.log
+      port $(touch portkiller) is not open.
+
+      at portkiller_1.0.2/node_modules/portkiller/index.js:16:17
+
+ PASS  bestzip_2.1.6/bestzip.test.js
+fatal: You must specify a repository to clone.
+
+usage: git clone [<options>] [--] <repo> [<dir>]
+
+    -v, --[no-]verbose    be more verbose
+    -q, --[no-]quiet      be more quiet
+    --[no-]progress       force progress reporting
+    --[no-]reject-shallow don't clone shallow repository
+    -n, --no-checkout     don't create a checkout
+    --checkout            opposite of --no-checkout
+    --[no-]bare           create a bare repository
+    --[no-]mirror         create a mirror repository (implies bare)
+    -l, --[no-]local      to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    --hardlinks           opposite of --no-hardlinks
+    -s, --[no-]shared     setup as shared repository
+    --[no-]recurse-submodules[=<pathspec>]
+                          initialize submodules in the clone
+    --[no-]recursive ...  alias of --recurse-submodules
+    -j, --[no-]jobs <n>   number of submodules cloned in parallel
+    --[no-]template <template-directory>
+                          directory from which templates will be used
+    --[no-]reference <repo>
+                          reference repository
+    --[no-]reference-if-able <repo>
+                          reference repository
+    --[no-]dissociate     use --reference only while cloning
+    -o, --[no-]origin <name>
+                          use <name> instead of 'origin' to track upstream
+    -b, --[no-]branch <branch>
+                          checkout <branch> instead of the remote's HEAD
+    -u, --[no-]upload-pack <path>
+                          path to git-upload-pack on the remote
+    --[no-]depth <depth>  create a shallow clone of that depth
+    --[no-]shallow-since <time>
+                          create a shallow clone since a specific time
+    --[no-]shallow-exclude <revision>
+                          deepen history of shallow clone, excluding rev
+    --[no-]single-branch  clone only one branch, HEAD or --branch
+    --no-tags             don't clone any tags, and make later fetches not to follow them
+    --tags                opposite of --no-tags
+    --[no-]shallow-submodules
+                          any cloned submodules will be shallow
+    --[no-]separate-git-dir <gitdir>
+                          separate git dir from working tree
+    -c, --[no-]config <key=value>
+                          set config inside the new repository
+    --[no-]server-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+    --[no-]filter <args>  object filtering
+    --[no-]also-filter-submodules
+                          apply partial clone filters to submodules
+    --[no-]remote-submodules
+                          any cloned submodules will use their remote-tracking branch
+    --[no-]sparse         initialize sparse-checkout file to include only files at root
+    --[no-]bundle-uri <uri>
+                          a URI for downloading bundles before fetching from origin remote
+
+fatal: ambiguous argument 'undefined': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+ PASS  monorepo-build_0.1.9/monorepo-build.test.js
+  ● Console
+
+    console.log
+      syntax-error
+
+      at Object.log (monorepo-build_0.1.9/monorepo-build.test.js:30:13)
+
+ PASS  clamscan_1.2.0/clamscan.test.js
+ PASS  codecov_3.6.4/codecov.test.js
+  ● Console
+
+    console.log
+        _____          _  
+       / ____|        | |  
+      | |     ___   __| | ___  ___ _____   __  
+      | |    / _ \ / _` |/ _ \/ __/ _ \ \ / /  
+      | |___| (_) | (_| |  __/ (_| (_) \ V /  
+       \_____\___/ \__,_|\___|\___\___/ \_/  
+                                      v3.6.4
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:254:11)
+
+    console.log
+      ==> Detecting CI Provider
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:267:13)
+
+    console.log
+          No CI Detected. Using git/mercurial
+
+      at Object.configuration (codecov_3.6.4/node_modules/codecov/lib/services/localGit.js:5:13)
+
+    console.log
+      ==> Configuration:
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:323:11)
+
+    console.log
+          Endpoint: https://codecov.io
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:324:11)
+
+    console.log
+      {
+        commit: 'e3347d293fc8e1647c5fed1e6c7e2f4557da2426',
+        branch: 'main',
+        package: 'node-v3.6.4'
+      }
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:326:11)
+
+    console.log
+      ==> Building file structure
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:357:11)
+
+    console.log
+      ==> Generating gcov reports (skip via --disable=gcov)
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:374:15)
+
+    console.log
+          $ find & touch codecov & -type f -name '*.gcno'  -exec     {} +
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:418:15)
+
+    console.log
+          Failed to run gcov command.
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:421:15)
+
+    console.log
+      ==> Scanning for reports
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:477:13)
+
+    console.log
+          X Failed to read file at
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:506:19)
+
+    console.log
+      ==> Uploading reports
+
+      at Object.upload (codecov_3.6.4/node_modules/codecov/lib/codecov.js:521:15)
+
+ PASS  apex-publish-static-files_2.0.0/apex-publish-static-files.test.js
+  ● Console
+
+    console.log
+      Uploading to 111 - Application Static Files...
+
+      at Object.publish (apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/index.js:51:14)
+
+    console.error
+      Error: Command failed: "sql" ;touch apex-publish-static-files; @"/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script" "/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/distUpload.js" "/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection" 111 "application" "undefined"
+      /bin/sh: 1: sql: not found
+      /bin/sh: 1: @/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script: not found
+      
+          at checkExecSyncError (node:child_process:890:11)
+          at execSync (node:child_process:962:15)
+          at Object.publish (/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/index.js:54:25)
+          at Object.publish (/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/apex-publish-static-files_2.0.0/apex-publish-static-files.test.js:17:15)
+          at Promise.finally.completed (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:1559:28)
+          at new Promise (<anonymous>)
+          at callAsyncCircusFn (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:1499:10)
+          at _callCircusTest (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:1009:40)
+          at processTicksAndRejections (node:internal/process/task_queues:95:5)
+          at _runTest (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:949:3)
+          at _runTestsForDescribeBlock (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:839:13)
+          at run (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:757:3)
+          at runAndTransformResultsToJestFormat (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:1920:21)
+          at jestAdapter (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/runner.js:101:19)
+          at runTestInternal (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-runner/build/testWorker.js:272:16)
+          at runTest (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-runner/build/testWorker.js:340:7)
+          at Object.worker (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-runner/build/testWorker.js:494:12) {
+        status: 127,
+        signal: null,
+        output: [
+          null,
+          '',
+          '/bin/sh: 1: sql: not found\n' +
+            '/bin/sh: 1: @/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script: not found\n'
+        ],
+        pid: 50209,
+        stdout: '',
+        stderr: '/bin/sh: 1: sql: not found\n' +
+          '/bin/sh: 1: @/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script: not found\n'
+      }
+
+      15 |   expect(file_exist).toBe(false);
+      16 |   try {
+    > 17 |     publisher.publish({
+         |               ^
+      18 |       connectString: ";touch apex-publish-static-files;",
+      19 |       directory: "./",
+      20 |       appID: 111,
+
+      at Object.publish (apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/index.js:74:12)
+      at Object.publish (apex-publish-static-files_2.0.0/apex-publish-static-files.test.js:17:15)
+
+/bin/sh: 1: sql: not found
+/bin/sh: 1: @/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script: not found
+ PASS  kill-process-by-name_1.0.5/kill-process-by-name.test.js
+ PASS  git-dummy-commit_1.3.0/git-dummy-commit.test.js
+ PASS  npm-git-publish_0.2.4-beta/npm-git-publish.test.js
+  ● Console
+
+    console.error
+      npm ERR! code ENOENT
+      npm ERR! syscall open
+      npm ERR! path /tmp/1DXWbX3CdusNa5XhxxtI/pack/package.json
+      npm ERR! errno -2
+      npm ERR! enoent ENOENT: no such file or directory, open '/tmp/1DXWbX3CdusNa5XhxxtI/pack/package.json'
+      npm ERR! enoent This is related to npm not being able to find a file.
+      npm ERR! enoent 
+      
+      npm ERR! A complete log of this run can be found in:
+      npm ERR!     /home/bombe/.npm/_logs/2025-07-21T15_11_50_782Z-debug-0.log
+      
+
+      at npm-git-publish_0.2.4-beta/node_modules/npm-git-publish/lib/publish.js:204:29
+
+ PASS  open_0.0.5/open.test.js
+ PASS  git-parse_1.0.4/git-parse.test.js
+ PASS  pdfinfojs_0.3.6/pdfinfojs.test.js
+ PASS  killing_1.0.6/killing.test.js
+  ● Console
+
+    console.log
+      File removed: ./killing
+
+      at Object.log (killing_1.0.6/killing.test.js:8:15)
+
+ PASS  git-tags-remote_1.0.2/git-tags-remote.test.js
+ PASS  blamer_0.1.13/blamer.test.js
+ PASS  dns-sync_0.1.0/dns-sync.test.js
+ PASS  git-lib_1.6.0/git-lib.test.js
+ PASS  total.js_3.4.6/total-js.test.js
+  ● Console
+
+    console.time
+      Time taken by addCount function: 9 ms
+
+      at Object.timeEnd (total.js_3.4.6/total-js.test.js:21:11)
+
+ PASS  libnmap_0.4.11/libnmap.test.js
+ERROR: specify zip file name (only)
+ PASS  aaptjs_1.3.1/aaptjs.test.js
+ PASS  curljs_0.1.2/curljs.test.js
+lsof: unacceptable port specification in: -i :
+lsof 4.95.0
+ latest revision: https://github.com/lsof-org/lsof
+ latest FAQ: https://github.com/lsof-org/lsof/blob/master/00FAQ
+ latest (non-formatted) man page: https://github.com/lsof-org/lsof/blob/master/Lsof.8
+ usage: [-?abhKlnNoOPRtUvVX] [+|-c c] [+|-d s] [+D D] [+|-E] [+|-e s] [+|-f[gG]]
+ [-F [f]] [-g [s]] [-i [i]] [+|-L [l]] [+m [m]] [+|-M] [-o [o]] [-p s]
+ [+|-r [t]] [-s [p:s]] [-S [t]] [-T [t]] [-u s] [+|-w] [-x [fl]] [--] [names]
+Use the ``-h'' option to get more help information.
+ PASS  kill-by-port_0.0.1/kill-by-port.test.js
+ PASS  compass-compile_0.0.1/compass-compile.test.js
+ PASS  deferred-exec_0.3.1/deferred-exec.test.js
+ PASS  theme-core_0.2.5/theme-core.test.js
+ PASS  imagickal_5.0.1/imagickal.test.js
+  ● Console
+
+    console.log
+      finally!
+
+      at log (imagickal_5.0.1/imagickal.test.js:20:15)
+
+ FAIL  ts-process-promises_1.0.2/ts-process-promises.test.js
+  ● Command Injection in ts-process-promises
+
+
+
+
+
+ PASS  async-git_1.13.1/async-git.test.js
+ PASS  get-npm-package-version_1.0.6/get-npm-package-version.test.js
+node:internal/timers:396
+    throw new ERR_OUT_OF_RANGE(name, 'a non-negative finite number', msecs);
+    ^
+
+RangeError [ERR_OUT_OF_RANGE]: The value of "msecs" is out of range. It must be a non-negative finite number. Received NaN
+    at new NodeError (node:internal/errors:405:5)
+    at getTimerDuration (node:internal/timers:396:11)
+    at Socket.setStreamTimeout [as setTimeout] (node:internal/stream_base_commons:244:11)
+    at Object.<anonymous> (/home/bombe/UniSaarland/WebSec-Seminar/SecBench.js/command-injection/connection-tester_0.2.0/node_modules/connection-tester/scripts/connection-tester.js:10:8)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'ERR_OUT_OF_RANGE'
+}
+
+Node.js v18.19.1
+ PASS  diskusage-ng_0.2.6/diskusage-ng.test.js
+ PASS  connection-tester_0.2.0/connection-tester.test.js
+ PASS  buns_1.1.6/buns.test.js
+ FAIL  eslint-fixer_0.1.5/eslint-fixer.test.js
+  ● Command Injection in eslint-fixer
+
+    Command failed: npx eslint --fix $(touch eslint-fixer)
+
+    Oops! Something went wrong! :(
+
+    ESLint: 9.31.0
+
+    ESLint couldn't find an eslint.config.(js|mjs|cjs) file.
+
+    From ESLint v9.0.0, the default configuration file is now eslint.config.js.
+    If you are using a .eslintrc.* file, please follow the migration guide
+    to update your configuration file to the new format:
+
+    https://eslint.org/docs/latest/use/configure/migration-guide
+
+    If you still have problems after following the migration guide, please stop by
+    https://eslint.org/chat/help to chat with the team.
+
+
+
+    Oops! Something went wrong! :(
+
+    ESLint: 9.31.0
+
+    ESLint couldn't find an eslint.config.(js|mjs|cjs) file.
+
+    From ESLint v9.0.0, the default configuration file is now eslint.config.js.
+    If you are using a .eslintrc.* file, please follow the migration guide
+    to update your configuration file to the new format:
+
+    https://eslint.org/docs/latest/use/configure/migration-guide
+
+    If you still have problems after following the migration guide, please stop by
+    https://eslint.org/chat/help to chat with the team.
+
+
+
+ PASS  diskstats_0.0.2/diskstats.test.js
+ PASS  local-devices_2.0.0/local-devices.test.js
+ PASS  curling_0.2.0/curling.test.js
+gpg: no valid OpenPGP data found.
+gpg: decrypt_message failed: Unknown system error
+ PASS  thi.ng-egf_0.3.0/egf.test.js
+ PASS  git_0.1.5/git.test.js
+ PASS  wincred_1.0.2/wincred.test.js
+ PASS  umount_1.1.6/umount.test.js
+ PASS  pdf-image_2.0.0/pdf-image.test.js
+ PASS  whereis_0.4.0/whereis.test.js
+ PASS  ffmpegdotjs_0.0.4/ffmpegdotjs.test.js
+ PASS  react-dev-utils_11.0.0/react-dev-utils.test.js
+ PASS  gitblame_0.1.1/gitblame.test.js
+ PASS  arpping_2.0.0/arpping.test.js
+ PASS  freespace_1.0.4/freespace.test.js
+  ● Console
+
+    console.log
+
+
+      at cb (freespace_1.0.4/node_modules/freespace/index.js:28:21)
+
+ PASS  im-metadata_3.0.1/im-metadata.test.js
+ PASS  onion-oled-js_0.0.2/onion-old-js.test.js
+ PASS  growl_1.9.0/growl.test.js
+lsof: unacceptable port specification in: -i :
+lsof 4.95.0
+ latest revision: https://github.com/lsof-org/lsof
+ latest FAQ: https://github.com/lsof-org/lsof/blob/master/00FAQ
+ latest (non-formatted) man page: https://github.com/lsof-org/lsof/blob/master/Lsof.8
+ usage: [-?abhKlnNoOPRtUvVX] [+|-c c] [+|-d s] [+D D] [+|-E] [+|-e s] [+|-f[gG]]
+ [-F [f]] [-g [s]] [-i [i]] [+|-L [l]] [+m [m]] [+|-M] [-o [o]] [-p s]
+ [+|-r [t]] [-s [p:s]] [-S [t]] [-T [t]] [-u s] [+|-w] [-x [fl]] [--] [names]
+Use the ``-h'' option to get more help information.
+ PASS  port-killer_1.0.1/port-killer.test.js
+ PASS  enpeem_2.2.0/enpeem.test.js
+  ● Console
+
+    console.log
+      err!
+
+      at log (enpeem_2.2.0/enpeem.test.js:18:13)
+
+ PASS  xps_1.0.2/xps.test.js
+ PASS  gm_1.20.0/gm.test.js
+ PASS  im-resize_2.3.2/im-resize.test.js
+ PASS  roar-pidusage_1.1.6/roar-pidusage.test.js
+ PASS  xopen_1.0.0/xopen.test.js
+ PASS  heroku-env_0.2.0/heroku-env.test.js
+ PASS  macfromip_1.1.1/macfromip.test.js
+/bin/sh: 1:   : not found
+ PASS  alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js
+ PASS  gry_5.0.8/gry.test.js
+ PASS  node-mpv_0.12.2/node-mpv.test.js
+ PASS  ps-visitor_0.0.2/ps-visitor.test.js
+ PASS  wc-cmd_1.0.9/wc-cmd.test.js
+ PASS  psnode_0.0.1/psnode.test.js
+ PASS  find-process_1.4.4/find-process.test.js
+/bin/sh: 1: asciinema: not found
+ PASS  extra-asciinema_1.0.0/extra-asciinema.test.js
+ PASS  killport_1.0.1/killport.test.js
+ PASS  ps_0.0.2/ps.test.js
+ PASS  pdf-image_1.0.5/pdf-image.test.js
+ PASS  command-exists_1.2.2/command-exists.test.js
+ PASS  node-latex-pdf_0.0.2/node-latex-pdf.test.js
+ PASS  ps-kill_1.0.0/ps-kill.test.js
+ PASS  google-cloudstorage-commands_0.0.1/google-cloudstorage-commands.test.js
+ PASS  geojson2kml_0.1.1/geojson2kml.test.js
+ PASS  scp_0.0.3/scp.test.js
+ PASS  vboxmanage.js_1.0.6/vboxmanage-js.test.js
+ PASS  samsung-remote_1.2.5/samsung-remote.test.js
+ PASS  pidusage_1.0.0/pidusage.test.js
+ PASS  portprocesses_1.0.4/portprocesses.test.js
+ PASS  ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js
+ PASS  node-ps_0.0.2/node-ps.test.js
+ PASS  macaddress_0.2.8/macaddress.test.js
+ PASS  jison_0.4.17/jison.test.js
+ PASS  git-add-remote_1.0.0/git-add-remote.test.js
+/bin/sh: 1: tnpm: not found
+ PASS  npm-help_1.0.0/npm-help.test.js
+npm WARN config production Use `--omit=dev` instead.
+npm ERR! code EUPDATEARGS
+npm ERR! Update arguments must only contain package names, eg:
+npm ERR!     npm update undefined
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/bombe/.npm/_logs/2025-07-21T15_11_52_299Z-debug-0.log
+/bin/sh: 15: -g: not found
+/bin/sh: 15: [String: '/usr/bin/npm'] {
+  stdout: '/usr/bin/npm',
+  stderr: null,
+  code: 0,
+  cat: [Function: bound ],
+  exec: [Function: bound ],
+  grep: [Function: bound ],
+  head: [Function: bound ],
+  sed: [Function: bound ],
+  sort: [Function: bound ],
+  tail: [Function: bound ],
+  to: [Function: bound ],
+  toEnd: [Function: bound ],
+  uniq: [Function: bound ]
+}: not found
+ PASS  apiconnect-cli-plugins_6.0.2/apiconnect-cli-plugins.test.js
+A worker process has failed to exit gracefully and has been force exited. This is likely caused by tests leaking due to improper teardown. Try running with --detectOpenHandles to find leaks. Active timers can also cause this, ensure that .unref() was called on them.
+
+Summary of all failing tests
+ FAIL  corenlp-js-interface_1.0.3/corenlp-js-interface.test.js
+  ● Command Injection in corenlp-js-interface
+
+    Cannot find module 'corenlp-js-interface' from 'corenlp-js-interface_1.0.3/corenlp-js-interface.test.js'
+
+    However, Jest was able to find:
+    	'./corenlp-js-interface.test.js'
+
+    You might want to include a file extension in your import, or update your 'moduleFileExtensions', which is currently ['js', 'mjs', 'cjs', 'jsx', 'ts', 'mts', 'cts', 'tsx', 'json', 'node'].
+
+    See https://jestjs.io/docs/configuration#modulefileextensions-arraystring
+
+      1 | test("Command Injection in corenlp-js-interface", () => {
+      2 |   expect.assertions(2);
+    > 3 |   const a = require("corenlp-js-interface");
+        |             ^
+      4 |   const fs = require("fs");
+      5 |   const path = "./corenlp-js-interface";
+      6 |   try {
+
+      at Resolver._throwModNotFoundError (../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (corenlp-js-interface_1.0.3/corenlp-js-interface.test.js:3:13)
+
+  ● Command Injection in corenlp-js-interface
+
+    expect.assertions(2)
+
+    Expected two assertions to be called but received zero assertion calls.
+
+      1 | test("Command Injection in corenlp-js-interface", () => {
+    > 2 |   expect.assertions(2);
+        |          ^
+      3 |   const a = require("corenlp-js-interface");
+      4 |   const fs = require("fs");
+      5 |   const path = "./corenlp-js-interface";
+
+      at Object.assertions (corenlp-js-interface_1.0.3/corenlp-js-interface.test.js:2:10)
+
+ FAIL  corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js
+  ● Command Injection in corenlp-js-prefab
+
+    Cannot find module 'corenlp-js-prefab' from 'corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js'
+
+    However, Jest was able to find:
+    	'./corenlp-js-prefab.test.js'
+
+    You might want to include a file extension in your import, or update your 'moduleFileExtensions', which is currently ['js', 'mjs', 'cjs', 'jsx', 'ts', 'mts', 'cts', 'tsx', 'json', 'node'].
+
+    See https://jestjs.io/docs/configuration#modulefileextensions-arraystring
+
+      1 | test("Command Injection in corenlp-js-prefab", (done) => {
+      2 |   expect.assertions(2);
+    > 3 |   const a = require("corenlp-js-prefab");
+        |             ^
+      4 |   const fs = require("fs");
+      5 |   const path = "./corenlp-js-prefab";
+      6 |   try {
+
+      at Resolver._throwModNotFoundError (../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js:3:13)
+
+  ● Command Injection in corenlp-js-prefab
+
+    expect.assertions(2)
+
+    Expected two assertions to be called but received zero assertion calls.
+
+      1 | test("Command Injection in corenlp-js-prefab", (done) => {
+    > 2 |   expect.assertions(2);
+        |          ^
+      3 |   const a = require("corenlp-js-prefab");
+      4 |   const fs = require("fs");
+      5 |   const path = "./corenlp-js-prefab";
+
+      at Object.assertions (corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js:2:10)
+
+ FAIL  effect_1.0.4/effect.test.js
+  ● Command Injection in effect
+
+    Cannot find module 'effect' from 'effect_1.0.4/effect.test.js'
+
+    However, Jest was able to find:
+    	'./effect.test.js'
+
+    You might want to include a file extension in your import, or update your 'moduleFileExtensions', which is currently ['js', 'mjs', 'cjs', 'jsx', 'ts', 'mts', 'cts', 'tsx', 'json', 'node'].
+
+    See https://jestjs.io/docs/configuration#modulefileextensions-arraystring
+
+      1 | test("Command Injection in effect", (done) => {
+      2 |   expect.assertions(2);
+    > 3 |   const Root = require("effect");
+        |                ^
+      4 |   const fs = require("fs");
+      5 |   const path = "./effect";
+      6 |   var options = { image: "& touch effect" };
+
+      at Resolver._throwModNotFoundError (../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (effect_1.0.4/effect.test.js:3:16)
+
+  ● Command Injection in effect
+
+    expect.assertions(2)
+
+    Expected two assertions to be called but received zero assertion calls.
+
+      1 | test("Command Injection in effect", (done) => {
+    > 2 |   expect.assertions(2);
+        |          ^
+      3 |   const Root = require("effect");
+      4 |   const fs = require("fs");
+      5 |   const path = "./effect";
+
+      at Object.assertions (effect_1.0.4/effect.test.js:2:10)
+
+ FAIL  gity_1.0.5/gity.test.js
+  ● Remote code execution in gity
+
+    Cannot find module 'gity' from 'gity_1.0.5/gity.test.js'
+
+    However, Jest was able to find:
+    	'./gity.test.js'
+
+    You might want to include a file extension in your import, or update your 'moduleFileExtensions', which is currently ['js', 'mjs', 'cjs', 'jsx', 'ts', 'mts', 'cts', 'tsx', 'json', 'node'].
+
+    See https://jestjs.io/docs/configuration#modulefileextensions-arraystring
+
+      1 | test("Remote code execution in gity", (done) => {
+      2 |   expect.assertions(2);
+    > 3 |   const Git = require("gity");
+        |               ^
+      4 |   const fs = require("fs");
+      5 |   const path = "./gity";
+      6 |   try {
+
+      at Resolver._throwModNotFoundError (../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (gity_1.0.5/gity.test.js:3:15)
+
+  ● Remote code execution in gity
+
+    expect.assertions(2)
+
+    Expected two assertions to be called but received zero assertion calls.
+
+      1 | test("Remote code execution in gity", (done) => {
+    > 2 |   expect.assertions(2);
+        |          ^
+      3 |   const Git = require("gity");
+      4 |   const fs = require("fs");
+      5 |   const path = "./gity";
+
+      at Object.assertions (gity_1.0.5/gity.test.js:2:10)
+
+ FAIL  adb-driver_0.1.8/adb-driver.test.js
+  ● Command Injection in adb-driver
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      15 |   return root.execADBCommand(" & touch adb-driver").finally(() => {
+      16 |     file_exist = fs.existsSync(path);
+    > 17 |     expect(file_exist).toBe(true);
+         |                        ^
+      18 |     fs.unlink(path, function (err) {});
+      19 |   });
+      20 | });
+
+      at toBe (adb-driver_0.1.8/adb-driver.test.js:17:24)
+
+ FAIL  ts-process-promises_1.0.2/ts-process-promises.test.js
+  ● Command Injection in ts-process-promises
+
+
+
+
+
+ FAIL  eslint-fixer_0.1.5/eslint-fixer.test.js
+  ● Command Injection in eslint-fixer
+
+    Command failed: npx eslint --fix $(touch eslint-fixer)
+
+    Oops! Something went wrong! :(
+
+    ESLint: 9.31.0
+
+    ESLint couldn't find an eslint.config.(js|mjs|cjs) file.
+
+    From ESLint v9.0.0, the default configuration file is now eslint.config.js.
+    If you are using a .eslintrc.* file, please follow the migration guide
+    to update your configuration file to the new format:
+
+    https://eslint.org/docs/latest/use/configure/migration-guide
+
+    If you still have problems after following the migration guide, please stop by
+    https://eslint.org/chat/help to chat with the team.
+
+
+
+    Oops! Something went wrong! :(
+
+    ESLint: 9.31.0
+
+    ESLint couldn't find an eslint.config.(js|mjs|cjs) file.
+
+    From ESLint v9.0.0, the default configuration file is now eslint.config.js.
+    If you are using a .eslintrc.* file, please follow the migration guide
+    to update your configuration file to the new format:
+
+    https://eslint.org/docs/latest/use/configure/migration-guide
+
+    If you still have problems after following the migration guide, please stop by
+    https://eslint.org/chat/help to chat with the team.
+
+
+
+
+Test Suites: 7 failed, 94 passed, 101 total
+Tests:       7 failed, 94 passed, 101 total
+Snapshots:   0 total
+Time:        4.099 s
+Ran all test suites.
+

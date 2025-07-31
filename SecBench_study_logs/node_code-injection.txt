@@ -1,0 +1,559 @@
+ PASS  jsen_0.6.6/jsen.test.js
+ PASS  mixin-pro_0.6.0/mixin-pro.test.js
+ PASS  is-my-json-valid_2.20.0/is-my-json-valid.test.js
+ PASS  hot-formula-parser_3.0.0/hot-formula-parser.test.js
+ PASS  serialize-to-js_0.5.0/serialize-to-js.test.js
+  ● Console
+
+    console.log
+      {
+        file: 'touch',
+        args: [ 'touch', 'serialize-to-js' ],
+        envPairs: [
+          'LESSOPEN=| /usr/bin/lesspipe %s',
+          'HISTFILESIZE=2147450879',
+          'LANGUAGE=en_US',
+          'USER=bombe',
+          'npm_config_user_agent=npm/9.2.0 node/v18.19.1 linux x64 workspaces/false',
+          'XDG_SEAT=seat0',
+          'XDG_SESSION_TYPE=x11',
+          'npm_node_execpath=/usr/bin/node',
+          'SHLVL=1',
+          'npm_config_noproxy=',
+          'LESS=-R',
+          'HOME=/home/bombe',
+          'OLDPWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js',
+          'DESKTOP_SESSION=cinnamon',
+          'npm_package_json=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/package.json',
+          'LSCOLORS=Gxfxcxdxdxegedabagacad',
+          'GTK_MODULES=gail:atk-bridge',
+          'XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0',
+          'PAGER=less',
+          'LC_MONETARY=de_DE.UTF-8',
+          'LC_CTYPE=en_US.UTF-8',
+          'npm_config_userconfig=/home/bombe/.npmrc',
+          'npm_config_local_prefix=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus',
+          'COLORTERM=truecolor',
+          'COLOR=1',
+          'GNOME_KEYRING_CONTROL=/run/user/1000/keyring',
+          'NVM_DIR=/home/bombe/.nvm',
+          'npm_config_metrics_registry=https://registry.npmjs.org/',
+          'GTK_IM_MODULE=ibus',
+          'LOGNAME=bombe',
+          'OSH=/home/bombe/.oh-my-bash',
+          'DESKTOP_AUTOSTART_ID=1036d3494b3a997425175292675122236300000023840022',
+          '_=/usr/bin/npx',
+          'npm_config_prefix=/usr/local',
+          'XDG_SESSION_CLASS=user',
+          'TERM=xterm-256color',
+          'XDG_SESSION_ID=c2',
+          'npm_config_cache=/home/bombe/.npm',
+          'GNOME_DESKTOP_SESSION_ID=this-is-deprecated',
+          'npm_config_node_gyp=/usr/share/nodejs/node-gyp/bin/node-gyp.js',
+          'PATH=/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/node_modules/.bin:/home/bombe/UniSaarland/node_modules/.bin:/home/bombe/node_modules/.bin:/home/node_modules/.bin:/node_modules/.bin:/usr/share/nodejs/@npmcli/run-script/lib/node-gyp-bin:/home/bombe/.deno/bin:/usr/lib/ccache:/home/bombe/UniSaarland/CPSS/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/bombe/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bombe/.foundry/bin',
+          'SESSION_MANAGER=local/bombe-mint:@/tmp/.ICE-unix/2384,unix/bombe-mint:/tmp/.ICE-unix/2384',
+          'GDM_LANG=en_US',
+          'GTK3_MODULES=xapp-gtk3-module',
+          'NODE=/usr/bin/node',
+          'XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0',
+          'LC_ADDRESS=de_DE.UTF-8',
+          'GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/c6fe3b27_f893_4a33_ac73_f55e920e5686',
+          'XDG_RUNTIME_DIR=/run/user/1000',
+          'DISPLAY=:0',
+          'HISTSIZE=2147450879',
+          'LANG=en_US.UTF-8',
+          'XDG_CURRENT_DESKTOP=X-Cinnamon',
+          'LC_TELEPHONE=de_DE.UTF-8',
+          'XMODIFIERS=@im=ibus',
+          'XDG_SESSION_DESKTOP=cinnamon',
+          'XAUTHORITY=/home/bombe/.Xauthority',
+          'LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:',
+          'GNOME_TERMINAL_SERVICE=:1.121',
+          'npm_lifecycle_script=jest',
+          'SSH_AUTH_SOCK=/run/user/1000/keyring/ssh',
+          'XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/bombe',
+          'SHELL=/bin/bash',
+          'LC_NAME=de_DE.UTF-8',
+          'npm_lifecycle_event=npx',
+          'QT_ACCESSIBILITY=1',
+          'GDMSESSION=cinnamon',
+          'LESSCLOSE=/usr/bin/lesspipe %s %s',
+          'LC_MEASUREMENT=de_DE.UTF-8',
+          'GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1',
+          'LC_IDENTIFICATION=de_DE.UTF-8',
+          'QT_IM_MODULE=ibus',
+          'XDG_VTNR=7',
+          'npm_config_globalconfig=/etc/npmrc',
+          'npm_config_init_module=/home/bombe/.npm-init.js',
+          'PWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'npm_config_globalignorefile=/etc/npmignore',
+          'npm_execpath=/usr/share/nodejs/npm/bin/npx-cli.js',
+          'XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg',
+          'CLUTTER_IM_MODULE=ibus',
+          'NVM_CD_FLAGS=',
+          'XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/bombe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+          'npm_config_global_prefix=/usr/local',
+          'LC_NUMERIC=de_DE.UTF-8',
+          'npm_command=exec',
+          'LC_PAPER=de_DE.UTF-8',
+          'VTE_VERSION=7600',
+          'NVM_RC_VERSION=',
+          'INIT_CWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'EDITOR=vi',
+          'NODE_ENV=test',
+          'JEST_WORKER_ID=2',
+          'FORCE_COLOR=1'
+        ],
+        stdio: [
+          { type: 'pipe', readable: true, writable: false },
+          { type: 'pipe', readable: false, writable: true },
+          { type: 'pipe', readable: false, writable: true }
+        ]
+      }
+
+      at spawnSync (eval at deserialize (serialize-to-js_0.5.0/node_modules/serialize-to-js/lib/deserialize.js:28:11), <anonymous>:3:1008)
+
+    console.log
+      {
+        status: 0,
+        signal: null,
+        output: [ null, <Buffer >, <Buffer > ],
+        pid: 698853,
+        stdout: <Buffer >,
+        stderr: <Buffer >
+      }
+
+      at eval (eval at deserialize (serialize-to-js_0.5.0/node_modules/serialize-to-js/lib/deserialize.js:28:11), <anonymous>:3:1375)
+
+ PASS  serialize-javascript_2.0.0/serialize-javascript.test.js
+ PASS  pixl-class_1.0.0/pixl-class.test.js
+  ● Console
+
+    console.log
+      File removed: ./pixl-class
+
+      at Object.log (pixl-class_1.0.0/pixl-class.test.js:8:13)
+
+ PASS  thenify_3.3.0/thenify.test.js
+ PASS  kmc_1.2.2/kmc.test.js
+ PASS  underscore_1.13.0-0/underscore.test.js
+ PASS  node-rules_3.0.0/node-rules.test.js
+ PASS  open_0.0.5/open.test.js
+  ● Console
+
+    console.log
+      File removed: ./open
+
+      at Object.log (open_0.0.5/open.test.js:7:13)
+
+ PASS  node-serialize_0.0.3/node-serialize.test.js
+ PASS  node-extend_0.2.0/node-extend.test.js
+  ● Console
+
+    console.log
+
+
+      at extend (node-extend_0.2.0/node_modules/node-extend/lib/extend.js:30:10)
+
+ PASS  realms-shim_1.1.0/realms-shim.test.js
+ PASS  reduce-css-calc_1.2.0/reduce-css-calc.test.js
+  ● Console
+
+    console.log
+      NaN
+
+      at Object.log (reduce-css-calc_1.2.0/reduce-css-calc.test.js:9:13)
+
+    console.log
+      NaN
+
+      at Object.log (reduce-css-calc_1.2.0/reduce-css-calc.test.js:10:13)
+
+    console.log
+      NaN
+
+      at Object.log (reduce-css-calc_1.2.0/reduce-css-calc.test.js:15:13)
+
+ PASS  json-ptr_2.0.0/json-ptr.test.js
+ PASS  mol-proto_0.1.3/mol-proto.test.js
+ PASS  mongoosemask_0.0.6/mongoosemask.test.js
+ PASS  access-policy_3.1.0/access-policy.test.js
+ PASS  marsdb_0.6.11/marsdb.test.js
+ PASS  local-devices_2.0.0/local-devices.test.js
+ PASS  cd-messenger_2.7.24/poc.test.js
+  ● Console
+
+    console.log
+      ████████████████████████████████████████████████████████████████████████████████
+
+      at Chalkline.builder (cd-messenger_2.7.24/node_modules/chalkline/index.js:103:20)
+
+ PASS  m-log_0.0.1/m-log.test.js
+ PASS  djv_2.0.0/djv.test.js
+ PASS  mosc_1.0.0/mosc.test.js
+ PASS  modulify_0.1.0/modulify.test.js
+ PASS  safe-eval_0.2.0/safe-eval.test.js
+ PASS  zhaoyao91-eval-in-vm_0.0.0/zhaoyao91_eval-in-vm.test.js
+ PASS  mathjs_3.10.3/mathjs.test.js
+  ● Console
+
+    console.log
+      {
+        file: 'touch',
+        args: [ 'touch', 'mathjs' ],
+        envPairs: [
+          'LESSOPEN=| /usr/bin/lesspipe %s',
+          'HISTFILESIZE=2147450879',
+          'LANGUAGE=en_US',
+          'USER=bombe',
+          'npm_config_user_agent=npm/9.2.0 node/v18.19.1 linux x64 workspaces/false',
+          'XDG_SEAT=seat0',
+          'XDG_SESSION_TYPE=x11',
+          'npm_node_execpath=/usr/bin/node',
+          'SHLVL=1',
+          'npm_config_noproxy=',
+          'LESS=-R',
+          'HOME=/home/bombe',
+          'OLDPWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js',
+          'DESKTOP_SESSION=cinnamon',
+          'npm_package_json=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/package.json',
+          'LSCOLORS=Gxfxcxdxdxegedabagacad',
+          'GTK_MODULES=gail:atk-bridge',
+          'XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0',
+          'PAGER=less',
+          'LC_MONETARY=de_DE.UTF-8',
+          'LC_CTYPE=en_US.UTF-8',
+          'npm_config_userconfig=/home/bombe/.npmrc',
+          'npm_config_local_prefix=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus',
+          'COLORTERM=truecolor',
+          'COLOR=1',
+          'GNOME_KEYRING_CONTROL=/run/user/1000/keyring',
+          'NVM_DIR=/home/bombe/.nvm',
+          'npm_config_metrics_registry=https://registry.npmjs.org/',
+          'GTK_IM_MODULE=ibus',
+          'LOGNAME=bombe',
+          'OSH=/home/bombe/.oh-my-bash',
+          'DESKTOP_AUTOSTART_ID=1036d3494b3a997425175292675122236300000023840022',
+          '_=/usr/bin/npx',
+          'npm_config_prefix=/usr/local',
+          'XDG_SESSION_CLASS=user',
+          'TERM=xterm-256color',
+          'XDG_SESSION_ID=c2',
+          'npm_config_cache=/home/bombe/.npm',
+          'GNOME_DESKTOP_SESSION_ID=this-is-deprecated',
+          'npm_config_node_gyp=/usr/share/nodejs/node-gyp/bin/node-gyp.js',
+          'PATH=/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/node_modules/.bin:/home/bombe/UniSaarland/node_modules/.bin:/home/bombe/node_modules/.bin:/home/node_modules/.bin:/node_modules/.bin:/usr/share/nodejs/@npmcli/run-script/lib/node-gyp-bin:/home/bombe/.deno/bin:/usr/lib/ccache:/home/bombe/UniSaarland/CPSS/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/bombe/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bombe/.foundry/bin',
+          'SESSION_MANAGER=local/bombe-mint:@/tmp/.ICE-unix/2384,unix/bombe-mint:/tmp/.ICE-unix/2384',
+          'GDM_LANG=en_US',
+          'GTK3_MODULES=xapp-gtk3-module',
+          'NODE=/usr/bin/node',
+          'XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0',
+          'LC_ADDRESS=de_DE.UTF-8',
+          'GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/c6fe3b27_f893_4a33_ac73_f55e920e5686',
+          'XDG_RUNTIME_DIR=/run/user/1000',
+          'DISPLAY=:0',
+          'HISTSIZE=2147450879',
+          'LANG=en_US.UTF-8',
+          'XDG_CURRENT_DESKTOP=X-Cinnamon',
+          'LC_TELEPHONE=de_DE.UTF-8',
+          'XMODIFIERS=@im=ibus',
+          'XDG_SESSION_DESKTOP=cinnamon',
+          'XAUTHORITY=/home/bombe/.Xauthority',
+          'LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:',
+          'GNOME_TERMINAL_SERVICE=:1.121',
+          'npm_lifecycle_script=jest',
+          'SSH_AUTH_SOCK=/run/user/1000/keyring/ssh',
+          'XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/bombe',
+          'SHELL=/bin/bash',
+          'LC_NAME=de_DE.UTF-8',
+          'npm_lifecycle_event=npx',
+          'QT_ACCESSIBILITY=1',
+          'GDMSESSION=cinnamon',
+          'LESSCLOSE=/usr/bin/lesspipe %s %s',
+          'LC_MEASUREMENT=de_DE.UTF-8',
+          'GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1',
+          'LC_IDENTIFICATION=de_DE.UTF-8',
+          'QT_IM_MODULE=ibus',
+          'XDG_VTNR=7',
+          'npm_config_globalconfig=/etc/npmrc',
+          'npm_config_init_module=/home/bombe/.npm-init.js',
+          'PWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'npm_config_globalignorefile=/etc/npmignore',
+          'npm_execpath=/usr/share/nodejs/npm/bin/npx-cli.js',
+          'XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg',
+          'CLUTTER_IM_MODULE=ibus',
+          'NVM_CD_FLAGS=',
+          'XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/bombe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+          'npm_config_global_prefix=/usr/local',
+          'LC_NUMERIC=de_DE.UTF-8',
+          'npm_command=exec',
+          'LC_PAPER=de_DE.UTF-8',
+          'VTE_VERSION=7600',
+          'NVM_RC_VERSION=',
+          'INIT_CWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'EDITOR=vi',
+          'NODE_ENV=test',
+          'JEST_WORKER_ID=3',
+          'FORCE_COLOR=1'
+        ],
+        stdio: [
+          { type: 'pipe', readable: true, writable: false },
+          { type: 'pipe', readable: false, writable: true },
+          { type: 'pipe', readable: false, writable: true }
+        ]
+      }
+
+      at spawnSync (eval at <anonymous> (eval at Node.compile (mathjs_3.10.3/node_modules/mathjs/lib/expression/node/Node.js:71:19)), <anonymous>:3:984)
+
+    console.log
+      {
+        status: 0,
+        signal: null,
+        output: [ null, <Buffer >, <Buffer > ],
+        pid: 698879,
+        stdout: <Buffer >,
+        stderr: <Buffer >
+      }
+
+      at eval (eval at <anonymous> (eval at Node.compile (mathjs_3.10.3/node_modules/mathjs/lib/expression/node/Node.js:71:19)), <anonymous>:3:1351)
+
+ PASS  static-eval_1.1.1/static-eval.test.js
+ PASS  js-yaml_3.13.0/js-yaml.test.js
+ PASS  safer-eval_1.3.1/safer-eval.test.js
+ PASS  veval_1.0.0/veval.test.js
+ PASS  modjs_0.4.0/modjs.test.js
+ PASS  value-censorship_1.1.0/value-censorship.test.js
+ PASS  mathjs_3.9.0/mathjs.test.js
+  ● Console
+
+    console.log
+      {
+        file: 'touch',
+        args: [ 'touch', 'mathjs' ],
+        envPairs: [
+          'LESSOPEN=| /usr/bin/lesspipe %s',
+          'HISTFILESIZE=2147450879',
+          'LANGUAGE=en_US',
+          'USER=bombe',
+          'npm_config_user_agent=npm/9.2.0 node/v18.19.1 linux x64 workspaces/false',
+          'XDG_SEAT=seat0',
+          'XDG_SESSION_TYPE=x11',
+          'npm_node_execpath=/usr/bin/node',
+          'SHLVL=1',
+          'npm_config_noproxy=',
+          'LESS=-R',
+          'HOME=/home/bombe',
+          'OLDPWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js',
+          'DESKTOP_SESSION=cinnamon',
+          'npm_package_json=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/package.json',
+          'LSCOLORS=Gxfxcxdxdxegedabagacad',
+          'GTK_MODULES=gail:atk-bridge',
+          'XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0',
+          'PAGER=less',
+          'LC_MONETARY=de_DE.UTF-8',
+          'LC_CTYPE=en_US.UTF-8',
+          'npm_config_userconfig=/home/bombe/.npmrc',
+          'npm_config_local_prefix=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus',
+          'COLORTERM=truecolor',
+          'COLOR=1',
+          'GNOME_KEYRING_CONTROL=/run/user/1000/keyring',
+          'NVM_DIR=/home/bombe/.nvm',
+          'npm_config_metrics_registry=https://registry.npmjs.org/',
+          'GTK_IM_MODULE=ibus',
+          'LOGNAME=bombe',
+          'OSH=/home/bombe/.oh-my-bash',
+          'DESKTOP_AUTOSTART_ID=1036d3494b3a997425175292675122236300000023840022',
+          '_=/usr/bin/npx',
+          'npm_config_prefix=/usr/local',
+          'XDG_SESSION_CLASS=user',
+          'TERM=xterm-256color',
+          'XDG_SESSION_ID=c2',
+          'npm_config_cache=/home/bombe/.npm',
+          'GNOME_DESKTOP_SESSION_ID=this-is-deprecated',
+          'npm_config_node_gyp=/usr/share/nodejs/node-gyp/bin/node-gyp.js',
+          'PATH=/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/node_modules/.bin:/home/bombe/UniSaarland/Websec-Seminar/node_modules/.bin:/home/bombe/UniSaarland/node_modules/.bin:/home/bombe/node_modules/.bin:/home/node_modules/.bin:/node_modules/.bin:/usr/share/nodejs/@npmcli/run-script/lib/node-gyp-bin:/home/bombe/.deno/bin:/usr/lib/ccache:/home/bombe/UniSaarland/CPSS/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/bombe/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bombe/.foundry/bin',
+          'SESSION_MANAGER=local/bombe-mint:@/tmp/.ICE-unix/2384,unix/bombe-mint:/tmp/.ICE-unix/2384',
+          'GDM_LANG=en_US',
+          'GTK3_MODULES=xapp-gtk3-module',
+          'NODE=/usr/bin/node',
+          'XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0',
+          'LC_ADDRESS=de_DE.UTF-8',
+          'GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/c6fe3b27_f893_4a33_ac73_f55e920e5686',
+          'XDG_RUNTIME_DIR=/run/user/1000',
+          'DISPLAY=:0',
+          'HISTSIZE=2147450879',
+          'LANG=en_US.UTF-8',
+          'XDG_CURRENT_DESKTOP=X-Cinnamon',
+          'LC_TELEPHONE=de_DE.UTF-8',
+          'XMODIFIERS=@im=ibus',
+          'XDG_SESSION_DESKTOP=cinnamon',
+          'XAUTHORITY=/home/bombe/.Xauthority',
+          'LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:',
+          'GNOME_TERMINAL_SERVICE=:1.121',
+          'npm_lifecycle_script=jest',
+          'SSH_AUTH_SOCK=/run/user/1000/keyring/ssh',
+          'XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/bombe',
+          'SHELL=/bin/bash',
+          'LC_NAME=de_DE.UTF-8',
+          'npm_lifecycle_event=npx',
+          'QT_ACCESSIBILITY=1',
+          'GDMSESSION=cinnamon',
+          'LESSCLOSE=/usr/bin/lesspipe %s %s',
+          'LC_MEASUREMENT=de_DE.UTF-8',
+          'GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1',
+          'LC_IDENTIFICATION=de_DE.UTF-8',
+          'QT_IM_MODULE=ibus',
+          'XDG_VTNR=7',
+          'npm_config_globalconfig=/etc/npmrc',
+          'npm_config_init_module=/home/bombe/.npm-init.js',
+          'PWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'npm_config_globalignorefile=/etc/npmignore',
+          'npm_execpath=/usr/share/nodejs/npm/bin/npx-cli.js',
+          'XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg',
+          'CLUTTER_IM_MODULE=ibus',
+          'NVM_CD_FLAGS=',
+          'XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/bombe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+          'npm_config_global_prefix=/usr/local',
+          'LC_NUMERIC=de_DE.UTF-8',
+          'npm_command=exec',
+          'LC_PAPER=de_DE.UTF-8',
+          'VTE_VERSION=7600',
+          'NVM_RC_VERSION=',
+          'INIT_CWD=/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection',
+          'EDITOR=vi',
+          'NODE_ENV=test',
+          'JEST_WORKER_ID=4',
+          'FORCE_COLOR=1'
+        ],
+        stdio: [
+          { type: 'pipe', readable: true, writable: false },
+          { type: 'pipe', readable: false, writable: true },
+          { type: 'pipe', readable: false, writable: true }
+        ]
+      }
+
+      at spawnSync (eval at <anonymous> (eval at Node.compile (mathjs_3.9.0/node_modules/mathjs/lib/expression/node/Node.js:71:19)), <anonymous>:3:984)
+
+    console.log
+      {
+        status: 0,
+        signal: null,
+        output: [ null, <Buffer >, <Buffer > ],
+        pid: 698883,
+        stdout: <Buffer >,
+        stderr: <Buffer >
+      }
+
+      at eval (eval at <anonymous> (eval at Node.compile (mathjs_3.9.0/node_modules/mathjs/lib/expression/node/Node.js:71:19)), <anonymous>:3:1351)
+
+ PASS  mongo-parse_2.1.0/mongo-parse.test.js
+  ● Console
+
+    console.log
+      File removed: ./mongo-parse
+
+      at Object.log (mongo-parse_2.1.0/mongo-parse.test.js:9:13)
+
+ PASS  wifiscanner_1.0.1/wifiscanner.test.js
+ FAIL  mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js (5.825 s)
+  ● Console
+
+    console.log
+      Error: ENOENT: no such file or directory, open '/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/appicon_1024.png'
+          at Object.openSync (node:fs:596:3)
+          at syncFileToBuffer (/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/mobile-icon-resizer_0.4.0/node_modules/image-size/lib/index.js:64:23)
+          at module.exports (/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/mobile-icon-resizer_0.4.0/node_modules/image-size/lib/index.js:97:5)
+          at resize (/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/mobile-icon-resizer_0.4.0/node_modules/mobile-icon-resizer/lib/resize.js:157:20)
+          at Object.resize (/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:16:5)
+          at Promise.finally.completed (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:1551:26)
+          at new Promise (<anonymous>)
+          at callAsyncCircusFn (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:1499:10)
+          at _callCircusTest (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:1009:40)
+          at processTicksAndRejections (node:internal/process/task_queues:95:5)
+          at _runTest (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:949:3)
+          at _runTestsForDescribeBlock (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:839:13)
+          at run (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:757:3)
+          at runAndTransformResultsToJestFormat (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/jestAdapterInit.js:1920:21)
+          at jestAdapter (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-circus/build/runner.js:101:19)
+          at runTestInternal (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-runner/build/testWorker.js:272:16)
+          at runTest (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-runner/build/testWorker.js:340:7)
+          at Object.worker (/home/bombe/.npm/_npx/b8d86e6551a4f492/node_modules/jest-runner/build/testWorker.js:494:12) {
+        errno: -2,
+        syscall: 'open',
+        code: 'ENOENT',
+        path: '/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/code-injection/appicon_1024.png'
+      }
+
+      at Object.log (mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:17:24)
+
+  ● Arbitrary code execution in mobile-icon-resizer
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      20 |   
+      21 |   setTimeout(() => {
+    > 22 |     expect(file_exist).toBe(true);
+         |                        ^
+      23 |     fs.unlink(path, function (err) {});
+      24 |     done();
+      25 |   }, 500);
+
+      at Timeout.toBe [as _onTimeout] (mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:22:24)
+
+  ● Arbitrary code execution in mobile-icon-resizer
+
+    thrown: "Exceeded timeout of 5000 ms for a test while waiting for `done()` to be called.
+    Add a timeout value to this test to increase the timeout, if this is a long-running test. See https://jestjs.io/docs/api#testname-fn-timeout."
+
+    > 1 | test("Arbitrary code execution in mobile-icon-resizer", (done) => {
+        | ^
+      2 |   expect.assertions(2);
+      3 |   const fs = require("fs");
+      4 |   const pathM = require("path");
+
+      at Object.test (mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:1:1)
+
+Summary of all failing tests
+ FAIL  mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js (5.825 s)
+  ● Arbitrary code execution in mobile-icon-resizer
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      20 |   
+      21 |   setTimeout(() => {
+    > 22 |     expect(file_exist).toBe(true);
+         |                        ^
+      23 |     fs.unlink(path, function (err) {});
+      24 |     done();
+      25 |   }, 500);
+
+      at Timeout.toBe [as _onTimeout] (mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:22:24)
+
+  ● Arbitrary code execution in mobile-icon-resizer
+
+    thrown: "Exceeded timeout of 5000 ms for a test while waiting for `done()` to be called.
+    Add a timeout value to this test to increase the timeout, if this is a long-running test. See https://jestjs.io/docs/api#testname-fn-timeout."
+
+    > 1 | test("Arbitrary code execution in mobile-icon-resizer", (done) => {
+        | ^
+      2 |   expect.assertions(2);
+      3 |   const fs = require("fs");
+      4 |   const pathM = require("path");
+
+      at Object.test (mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:1:1)
+
+
+Test Suites: 1 failed, 39 passed, 40 total
+Tests:       1 failed, 39 passed, 40 total
+Snapshots:   0 total
+Time:        6.241 s
+Ran all test suites.

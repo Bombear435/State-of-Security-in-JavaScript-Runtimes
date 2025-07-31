@@ -1,0 +1,1653 @@
+[0m[38;5;245mrunning 2 tests from ./11xiaoli_1.1.0/11xiaoli.test.js[0m
+Path Traversal in 11xiaoli ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./11xiaoli_1.1.0/11xiaoli.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./22lixian_1.0.0/22lixian.test.js[0m
+Path Traversal in 22lixian ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./22lixian_1.0.0/22lixian.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./@vivaxy-here_3.1.0/vivaxy_here.test.js[0m
+Path Traversal in @vivaxy/here ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./@vivaxy-here_3.1.0/vivaxy_here.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./angular-http-server_1.0.0/angular-http-server.test.js[0m
+Path Traversal in angular-http-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./angular-http-server_1.0.0/angular-http-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./api-proxy_0.0.2/api-proxy.test.js[0m
+Path Traversal in api-proxy ...
+[0m[38;5;245m------- post-test output -------[0m
+server started on port:8888
+Uncaught error from ./api-proxy_0.0.2/api-proxy.test.js [0m[31mFAILED[0m
+Path Traversal in api-proxy ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./api-proxy_0.0.2/api-proxy.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./aso-server_0.4.3/aso-server.test.js[0m
+Path Traversal in aso-server ...
+Uncaught error from ./aso-server_0.4.3/aso-server.test.js [0m[31mFAILED[0m
+Path Traversal in aso-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./aso-server_0.4.3/aso-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./asset-cache_0.0.6/asset-cache.test.js[0m
+Path Traversal in asset-cache ...
+[0m[38;5;245m------- post-test output -------[0m
+	Asset server using dir /home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal
+Uncaught error from ./asset-cache_0.0.6/asset-cache.test.js [0m[31mFAILED[0m
+Path Traversal in asset-cache ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./asset-cache_0.0.6/asset-cache.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./atropa-ide_0.2.2-2/atropa-ide.test.js[0m
+Path Traversal in atropa-ide ...
+[0m[38;5;245m------- post-test output -------[0m
+Server Started on port 8884
+Press ctrl+c to quit.
+Uncaught error from ./atropa-ide_0.2.2-2/atropa-ide.test.js [0m[31mFAILED[0m
+Path Traversal in atropa-ide ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./atropa-ide_0.2.2-2/atropa-ide.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./augustine_0.2.3/augustine.test.js[0m
+Path Traversal in augustine ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./augustine_0.2.3/augustine.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./basic-static_2.0.2/basic-static.test.js[0m
+Path Traversal in basic-static ...
+Uncaught error from ./basic-static_2.0.2/basic-static.test.js [0m[31mFAILED[0m
+Path Traversal in basic-static ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./basic-static_2.0.2/basic-static.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./bitty_0.1.0/bitty.test.js[0m
+Path Traversal in bitty ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./bitty_0.1.0/bitty.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./caihong_1.0.0/caihong.test.js[0m
+Path Traversal in caihong ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./caihong_1.0.0/caihong.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./canvas-designer_1.2.1/canvas-designer.test.js[0m
+Path Traversal in canvas-designer ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./canvas-designer_1.2.1/canvas-designer.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./caolilinode1_1.0.0/caolilinode1.test.js[0m
+Path Traversal in caolilinode1 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./caolilinode1_1.0.0/caolilinode1.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./caolilinode_1.0.0/caolilinode.test.js[0m
+Path Traversal in caolilinode ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./caolilinode_1.0.0/caolilinode.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./crud-file-server_0.7.0/crud-file-server.test.js[0m
+Path Traversal in crud-file-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./crud-file-server_0.7.0/crud-file-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./cuciuci_1.1.0/cuciuci.test.js[0m
+Path Traversal in cuciuci ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./cuciuci_1.1.0/cuciuci.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./cuiaiguang_1.0.0/cuiaiguang.test.js[0m
+Path Traversal in cuiaiguang ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./cuiaiguang_1.0.0/cuiaiguang.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./cxy_1.1.0/cxy.test.js[0m
+Path Traversal in cxy ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./cxy_1.1.0/cxy.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./cyber-js_1.0.6/cyber-js.test.js[0m
+Path Traversal in cyber-js ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./cyber-js_1.0.6/cyber-js.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./cypserver_1.0.0/cypserver.test.js[0m
+Path Traversal in cypserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./cypserver_1.0.0/cypserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./datachannel-client_1.0.2/datachannel-client.test.js[0m
+Path Traversal in datachannel-client ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./datachannel-client_1.0.2/datachannel-client.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./dcdcdcdcdc_1.0.0/dcdcdcdcdc.test.js[0m
+Path Traversal in dcdcdcdcdc ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./dcdcdcdcdc_1.0.0/dcdcdcdcdc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./der-server_0.0.9/der-server.test.js[0m
+Path Traversal in der-server ...
+[0m[38;5;245m------- post-test output -------[0m
+Server running at http://127.0.0.1:8887
+the dir is: "/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal/der-server_0.0.9"
+Uncaught error from ./der-server_0.0.9/der-server.test.js [0m[31mFAILED[0m
+Path Traversal in der-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./der-server_0.0.9/der-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./dilu_0.1.3/dilu.test.js[0m
+Path Traversal in dilu ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./dilu_0.1.3/dilu.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./dylmomo_1.0.0/dylmomo.test.js[0m
+Path Traversal in dylmomo ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./dylmomo_1.0.0/dylmomo.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./easy-node-server_1.2.1/easy-node-server.test.js[0m
+Path Traversal in easy-node-server ...
+[0m[38;5;245m------- post-test output -------[0m
+服务启动成功，可以用浏览器访问：http://localhost:8895 确认
+
+Uncaught error from ./easy-node-server_1.2.1/easy-node-server.test.js [0m[31mFAILED[0m
+Path Traversal in easy-node-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./easy-node-server_1.2.1/easy-node-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./ex-http-frame_1.0.2/ex-http-frame.test.js[0m
+Path Traversal in ex-http-frame ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./ex-http-frame_1.0.2/ex-http-frame.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./express-blinker_0.0.6/express-blinker.test.js[0m
+Path Traversal in express-blinker ...
+Uncaught error from ./express-blinker_0.0.6/express-blinker.test.js [0m[31mFAILED[0m
+Path Traversal in express-blinker ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./express-blinker_0.0.6/express-blinker.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./exxxxxxxxxxx_1.0.2/exxxxxxxxxxx.test.js[0m
+Path Traversal in exxxxxxxxxxx ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./exxxxxxxxxxx_1.0.2/exxxxxxxxxxx.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./fakelearnnodejs_0.0.1/fakelearnnodejs.test.js[0m
+Path Traversal in fakelearnnodejs ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./fakelearnnodejs_0.0.1/fakelearnnodejs.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./fast-http-cli_0.0.8/fast-http-cli.test.js[0m
+Path Traversal in fast-http-cli ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./fast-http-cli_0.0.8/fast-http-cli.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./fast-http_0.1.3/fast-http.test.js[0m
+Path Traversal in fast-http ...
+[0m[38;5;245m------- post-test output -------[0m
+The server is now launch on: http://localhost:8080
+Uncaught error from ./fast-http_0.1.3/fast-http.test.js [0m[31mFAILED[0m
+Path Traversal in fast-http ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./fast-http_0.1.3/fast-http.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./fbr-client_1.0.3/fbr-client.test.js[0m
+Path Traversal in fbr-client ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./fbr-client_1.0.3/fbr-client.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./file-static-server_1.0.2/file-static-server.test.js[0m
+Path Traversal in file-static-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./file-static-server_1.0.2/file-static-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./fsk-server_0.2.1/fsk-server.test.js[0m
+Path Traversal in fsk-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./fsk-server_0.2.1/fsk-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./gamebutler_1.0.4/gamebutler.test.js[0m
+Path Traversal in gamebutler ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./gamebutler_1.0.4/gamebutler.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./gaoxiaotingtingting_1.1.0/gaoxiaotingtingting.test.js[0m
+Path Traversal in gaoxiaotingtingting ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./gaoxiaotingtingting_1.1.0/gaoxiaotingtingting.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./gaoxuyan_1.1.0/gaoxuyan.test.js[0m
+Path Traversal in gaoxuyan ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./gaoxuyan_1.1.0/gaoxuyan.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./getstats_1.0.6/getstats.test.js[0m
+Path Traversal in getstats ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./getstats_1.0.6/getstats.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./gfm-srv_1.1.2/gfm-srv.test.js[0m
+Path Traversal in gfm-srv ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./gfm-srv_1.1.2/gfm-srv.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./glance_3.0.0/glance.test.js[0m
+Path Traversal in glance ...
+Uncaught error from ./glance_3.0.0/glance.test.js [0m[31mFAILED[0m
+Path Traversal in glance ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./glance_3.0.0/glance.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./goserv_1.0.0/goserv.test.js[0m
+Path Traversal in goserv ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./goserv_1.0.0/goserv.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./gyfserver_1.0.0/gyfserver.test.js[0m
+Path Traversal in gyfserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./gyfserver_1.0.0/gyfserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./hangersteak_0.2.2/hangersteak.test.js[0m
+Path Traversal in hangersteak ...
+Uncaught error from ./hangersteak_0.2.2/hangersteak.test.js [0m[31mFAILED[0m
+Path Traversal in hangersteak ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./hangersteak_0.2.2/hangersteak.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./hdsdhhksjd_1.0.0/hdsdhhksjd.test.js[0m
+Path Traversal in hdsdhhksjd ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./hdsdhhksjd_1.0.0/hdsdhhksjd.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./hftp_0.0.6/hftp.test.js[0m
+Path Traversal in hftp ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./hftp_0.0.6/hftp.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./hostr_2.0.0/hostr.test.js[0m
+Path Traversal in hostr ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./hostr_2.0.0/hostr.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./http-file-server_0.2.6/http-file-server.test.js[0m
+Path Traversal in http-file-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./http-file-server_0.2.6/http-file-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./http-live-simulator_1.0.0/http-live-simulator.test.js[0m
+Path Traversal in http-live-simulator ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./http-live-simulator_1.0.0/http-live-simulator.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./httpea_3.0.4/httpea.test.js[0m
+Path Traversal in httpea ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./httpea_3.0.4/httpea.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./infraserver_0.0.1/infraserver.test.js[0m
+Path Traversal in infraserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./infraserver_0.0.1/infraserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./intsol-package_1.0.0/intsol-package.test.js[0m
+Path Traversal in intsol-package ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./intsol-package_1.0.0/intsol-package.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./isv-http_0.0.9/isv-http.test.js[0m
+Path Traversal in isv-http ...
+Uncaught error from ./isv-http_0.0.9/isv-http.test.js [0m[31mFAILED[0m
+Path Traversal in isv-http ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./isv-http_0.0.9/isv-http.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./lander_1.0.0/lander.test.js[0m
+Path Traversal in lander ...
+[0m[38;5;245m------- post-test output -------[0m
+server start at prot: 8988
+Uncaught error from ./lander_1.0.0/lander.test.js [0m[31mFAILED[0m
+Path Traversal in lander ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./lander_1.0.0/lander.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./lessindex_1.0.0/lessindex.test.js[0m
+Path Traversal in lessindex ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./lessindex_1.0.0/lessindex.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./lihuini_1.0.0/lihuini.test.js[0m
+Path Traversal in lihuini ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./lihuini_1.0.0/lihuini.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./liuyaserver_1.0.0/liuyaserver.test.js[0m
+Path Traversal in liuyaserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./liuyaserver_1.0.0/liuyaserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./liyujing_1.1.0/liyujing.test.js[0m
+Path Traversal in liyujing ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./liyujing_1.1.0/liyujing.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./ljjnodeserve_1.0.0/ljjnodeserve.test.js[0m
+Path Traversal in ljjnodeserve ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./ljjnodeserve_1.0.0/ljjnodeserve.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./looppake_3.0.0/looppake.test.js[0m
+Path Traversal in looppake ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./looppake_3.0.0/looppake.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./ltt.js_1.0.0/ltt_js.test.js[0m
+Path Traversal in ltt.js ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./ltt.js_1.0.0/ltt_js.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./ltt_1.1.0/ltt.test.js[0m
+Path Traversal in ltt ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./ltt_1.1.0/ltt.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./lzl123_1.1.0/lzl123.test.js[0m
+Path Traversal in lzl123 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./lzl123_1.1.0/lzl123.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./m-server_1.4.0/m-server.test.js[0m
+Path Traversal in m-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./m-server_1.4.0/m-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./mcstatic_0.0.20/mcstatic.test.js[0m
+Path Traversal in mcstatic ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./mcstatic_0.0.20/mcstatic.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./mfrs_1.0.0/mfrs.test.js[0m
+Path Traversal in mfrs ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./mfrs_1.0.0/mfrs.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./mfrserver_1.0.0/mfrserver.test.js[0m
+Path Traversal in mfrserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./mfrserver_1.0.0/mfrserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./my-sn_1.0.1/my-sn.test.js[0m
+Path Traversal in my-sn ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./my-sn_1.0.1/my-sn.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./myprolyz_1.1.0/myprolyz.test.js[0m
+Path Traversal in myprolyz ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./myprolyz_1.1.0/myprolyz.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./myserve111_1.1.2/myserve111.test.js[0m
+Path Traversal in myserve111 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./myserve111_1.1.2/myserve111.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./nitro-server_1.3.3/nitro-server.test.js[0m
+Path Traversal in nitro-server ...
+[0m[38;5;245m------- post-test output -------[0m
+[33m
+Static file server running at
+  => [39m[32mhttp://localhost:8080[39m[33m/
+CTRL + C to shutdown
+[39m
+[33mRoot directory is: [39m[32m/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal[39m
+
+Uncaught error from ./nitro-server_1.3.3/nitro-server.test.js [0m[31mFAILED[0m
+Path Traversal in nitro-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./nitro-server_1.3.3/nitro-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./node-cxc_1.0.0/node-cxc.test.js[0m
+Path Traversal in node-cxc ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./node-cxc_1.0.0/node-cxc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./node-http-server_8.1.2/node-http-server.test.js[0m
+Path Traversal in node-http-server ...
+Uncaught error from ./node-http-server_8.1.2/node-http-server.test.js [0m[31mFAILED[0m
+Path Traversal in node-http-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./node-http-server_8.1.2/node-http-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./node-simple-router_0.10.0/node-simple-router.test.js[0m
+Path Traversal in node-simple-router ...
+Uncaught error from ./node-simple-router_0.10.0/node-simple-router.test.js [0m[31mFAILED[0m
+Path Traversal in node-simple-router ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./node-simple-router_0.10.0/node-simple-router.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./node-srv_2.0.0/node-srv.test.js[0m
+Path Traversal in node-srv ...
+Uncaught error from ./node-srv_2.0.0/node-srv.test.js [0m[31mFAILED[0m
+Path Traversal in node-srv ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./node-srv_2.0.0/node-srv.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./node-static-webserver_0.0.1/node-static-webserver.test.js[0m
+Path Traversal in node-static-webserver ...
+Uncaught error from ./node-static-webserver_0.0.1/node-static-webserver.test.js [0m[31mFAILED[0m
+Path Traversal in node-static-webserver ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./node-static-webserver_0.0.1/node-static-webserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./node-staticserver_1.0.3/node-staticserver.test.js[0m
+Path Traversal in node-staticserver ... [0m[31mFAILED[0m [0m[38;5;245m(12ms)[0m
+Uncaught error from ./node-staticserver_1.0.3/node-staticserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./nodeaaaaa_1.3.0/nodeaaaaa.test.js[0m
+Path Traversal in nodeaaaaa ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./nodeaaaaa_1.3.0/nodeaaaaa.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./nodejsccc_1.0.0/nodejsccc.test.js[0m
+Path Traversal in nodejsccc ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./nodejsccc_1.0.0/nodejsccc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./nopach_0.1.1/nopach.test.js[0m
+Path Traversal in nopach ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./nopach_0.1.1/nopach.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./open-device_4.0.1/open-device.test.js[0m
+Path Traversal in open-device ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./open-device_4.0.1/open-device.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./paopao613_1.0.0/paopao613.test.js[0m
+Path Traversal in paopao613 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./paopao613_1.0.0/paopao613.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./peiserver_1.0.0/peiserver.test.js[0m
+Path Traversal in peiserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./peiserver_1.0.0/peiserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./pico-static-server_2.3.4/pico-static-server.test.js[0m
+Path Traversal in pico-static-server ...
+[0m[38;5;245m------- post-test output -------[0m
+Static server is listening on port 8982
+Uncaught error from ./pico-static-server_2.3.4/pico-static-server.test.js [0m[31mFAILED[0m
+Path Traversal in pico-static-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./pico-static-server_2.3.4/pico-static-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./proxey_0.4.2/proxey.test.js[0m
+Path Traversal in proxey ...
+[0m[38;5;245m------- post-test output -------[0m
+Running in port: 8981
+Uncaught error from ./proxey_0.4.2/proxey.test.js [0m[31mFAILED[0m
+Path Traversal in proxey ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./proxey_0.4.2/proxey.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./ptest_1.0.0/ptest.test.js[0m
+Path Traversal in ptest ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./ptest_1.0.0/ptest.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./public_0.1.2/public.test.js[0m
+Path Traversal in public ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./public_0.1.2/public.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./pytservce_1.0.0/pytservce.test.js[0m
+Path Traversal in pytservce ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./pytservce_1.0.0/pytservce.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./ritp_1.0.5/ritp.test.js[0m
+Path Traversal in ritp ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./ritp_1.0.5/ritp.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./rjpserver_1.0.0/rjpserver.test.js[0m
+Path Traversal in rjpserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./rjpserver_1.0.0/rjpserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./rollup-plugin-dev-server_0.4.3/rollup-plugin-dev-server.test.js[0m
+Path Traversal in rollup-plugin-dev-server ...
+Uncaught error from ./rollup-plugin-dev-server_0.4.3/rollup-plugin-dev-server.test.js [0m[31mFAILED[0m
+Path Traversal in rollup-plugin-dev-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./rollup-plugin-dev-server_0.4.3/rollup-plugin-dev-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./rollup-plugin-serve-favicon_0.4.2/rollup-plugin-serve-favicon.test.js[0m
+Path Traversal in  rollup-plugin-serve-favicon ...
+Uncaught error from ./rollup-plugin-serve-favicon_0.4.2/rollup-plugin-serve-favicon.test.js [0m[31mFAILED[0m
+Path Traversal in  rollup-plugin-serve-favicon ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./rollup-plugin-serve-favicon_0.4.2/rollup-plugin-serve-favicon.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./rollup-plugin-serve_0.4.2/rollup-plugin-serve.test.js[0m
+Path Traversal in rollup-plugin-serve ...
+Uncaught error from ./rollup-plugin-serve_0.4.2/rollup-plugin-serve.test.js [0m[31mFAILED[0m
+Path Traversal in rollup-plugin-serve ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./rollup-plugin-serve_0.4.2/rollup-plugin-serve.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./rollup-plugin-server_0.7.0/rollup-plugin-server.test.js[0m
+Path Traversal in rollup-plugin-server ...
+Uncaught error from ./rollup-plugin-server_0.7.0/rollup-plugin-server.test.js [0m[31mFAILED[0m
+Path Traversal in rollup-plugin-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./rollup-plugin-server_0.7.0/rollup-plugin-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./rtcmulticonnection-client_1.0.5/rtcmulticonnection-client.test.js[0m
+Path Traversal in rtcmulticonnection-client ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./rtcmulticonnection-client_1.0.5/rtcmulticonnection-client.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./run-this-place_1.0.2/run-this-place.test.js[0m
+Path Traversal in run-this-place ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./run-this-place_1.0.2/run-this-place.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./sabu_1.0.6/sabu.test.js[0m
+Path Traversal in sabu ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./sabu_1.0.6/sabu.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serve-here.js_1.1.0/serve-here_js.test.js[0m
+Path Traversal in serve-here.js ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serve-here.js_1.1.0/serve-here_js.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serve46_1.0.0/serve46.test.js[0m
+Path Traversal in serve46 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serve46_1.0.0/serve46.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./server12311_1.2.0/server12311.test.js[0m
+Path Traversal in server12311 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./server12311_1.2.0/server12311.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverabc_1.0.0/serverabc.test.js[0m
+Path Traversal in serverabc ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverabc_1.0.0/serverabc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverfff_1.1.1/serverfff.test.js[0m
+Path Traversal in serverfff ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverfff_1.1.1/serverfff.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./servergmf_1.1.0/servergmf.test.js[0m
+Path Traversal in servergmf ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./servergmf_1.1.0/servergmf.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverhuwenhui_1.1.0/serverhuwenhui.test.js[0m
+Path Traversal in serverhuwenhui ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverhuwenhui_1.1.0/serverhuwenhui.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverliujiayi1_1.1.0/serverliujiayi1.test.js[0m
+Path Traversal in serverliujiayi1 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverliujiayi1_1.1.0/serverliujiayi1.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverlyj333_1.1.0/serverlyj333.test.js[0m
+Path Traversal in serverlyj333 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverlyj333_1.1.0/serverlyj333.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverlyr_1.1.0/serverlyr.test.js[0m
+Path Traversal in serverlyr ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverlyr_1.1.0/serverlyr.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./servershuai_1.2.0/servershuai.test.js[0m
+Path Traversal in servershuai ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./servershuai_1.2.0/servershuai.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serversyysyy_1.1.0/serversyysyy.test.js[0m
+Path Traversal in serversyysyy ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serversyysyy_1.1.0/serversyysyy.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverwg_1.0.0/serverwg.test.js[0m
+Path Traversal in serverwg ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverwg_1.0.0/serverwg.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverwzl_1.3.1/serverwzl.test.js[0m
+Path Traversal in serverwzl ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverwzl_1.3.1/serverwzl.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverxh_1.0.0/serverxh.test.js[0m
+Path Traversal in serverxh ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverxh_1.0.0/serverxh.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverxxx_1.0.0/serverxxx.test.js[0m
+Path Traversal in serverxxx ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverxxx_1.0.0/serverxxx.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serveryaozeyan_1.0.4/serveryaozeyan.test.js[0m
+Path Traversal in serveryaozeyan ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serveryaozeyan_1.0.4/serveryaozeyan.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serveryyl_1.1.0/serveryyl.test.js[0m
+Path Traversal in serveryyl ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serveryyl_1.1.0/serveryyl.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serveryztyzt_1.4.0/serveryztyzt.test.js[0m
+Path Traversal in serveryztyzt ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serveryztyzt_1.4.0/serveryztyzt.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverzyqzyq_1.1.0/serverzyqzyq.test.js[0m
+Path Traversal in serverzyqzyq ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverzyqzyq_1.1.0/serverzyqzyq.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./serverzyy_1.0.0/serverzyy.test.js[0m
+Path Traversal in serverzyy ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./serverzyy_1.0.0/serverzyy.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./servewuqianqianqian_1.0.0/servewuqianqianqian.test.js[0m
+Path Traversal in servewuqianqianqian ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./servewuqianqianqian_1.0.0/servewuqianqianqian.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./servey_2.2.0/servey.test.js[0m
+Path Traversal in servey ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./servey_2.2.0/servey.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./severzlt_1.0.0/severzlt.test.js[0m
+Path Traversal in severzlt ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./severzlt_1.0.0/severzlt.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./sgqserve_1.0.0/sgqserve.test.js[0m
+Path Traversal in sgqserve ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./sgqserve_1.0.0/sgqserve.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./shenliru3_1.3.0/shenliru3.test.js[0m
+Path Traversal in shenliru3 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./shenliru3_1.3.0/shenliru3.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./shenliru_1.2.0/shenliru.test.js[0m
+Path Traversal in shenliru ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./shenliru_1.2.0/shenliru.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./shit-server_1.0.0/shit-server.test.js[0m
+Path Traversal in shit-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./shit-server_1.0.0/shit-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./simple-mock-server_0.2.1/simple-mock-server.test.js[0m
+Path Traversal in simple-mock-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./simple-mock-server_0.2.1/simple-mock-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./songcaihong_1.0.0/songcaihong.test.js[0m
+Path Traversal in songcaihong ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./songcaihong_1.0.0/songcaihong.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./srverqq_1.0.0/srverqq.test.js[0m
+Path Traversal in srverqq ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./srverqq_1.0.0/srverqq.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./starfruit_0.2.2/starfruit.test.js[0m
+Path Traversal in starfruit ... [0m[31mFAILED[0m [0m[38;5;245m(14ms)[0m
+Uncaught error from ./starfruit_0.2.2/starfruit.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./static-html-server_0.1.2/static-html-server.test.js[0m
+Path Traversal in static-html-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./static-html-server_0.1.2/static-html-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./static-server-gx_1.2.1/static-server-gx.test.js[0m
+Path Traversal in static-server-gx ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./static-server-gx_1.2.1/static-server-gx.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./statichttpserver_0.9.7/statichttpserver.test.js[0m
+Path Traversal in statichttpserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./statichttpserver_0.9.7/statichttpserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./statics-server_0.0.9/statics-server.test.js[0m
+Path Traversal in statics-server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./statics-server_0.0.9/statics-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./stattic_0.2.3/stattic.test.js[0m
+Path Traversal in stattic ...
+[0m[38;5;245m------- post-test output -------[0m
+(node:680644) [DEP0128] DeprecationWarning: Invalid 'main' field in '/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal/stattic_0.2.3/node_modules/stattic/package.json' of './stattic.js'. Please either fix that or report it to the module author
+
+Static server listening on: [34mhttp://localhost:8977[39m
+Reading files from: [34m/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal[39m
+
+Uncaught error from ./stattic_0.2.3/stattic.test.js [0m[31mFAILED[0m
+Path Traversal in stattic ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./stattic_0.2.3/stattic.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./susu-sum_1.0.0/susu-sum.test.js[0m
+Path Traversal in susu-sum ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./susu-sum_1.0.0/susu-sum.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./tinyserver2_0.5.2/tinyserver2.test.js[0m
+Path Traversal in tinyserver2 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./tinyserver2_0.5.2/tinyserver2.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./tinyserver_0.1.1/tinyserver.test.js[0m
+Path Traversal in tinyserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./tinyserver_0.1.1/tinyserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./uekw1511server_1.0.1/uekw1511server.test.js[0m
+Path Traversal in uekw1511server ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./uekw1511server_1.0.1/uekw1511server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./ussasasa_1.0.0/ussasasa.test.js[0m
+Path Traversal in ussasasa ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./ussasasa_1.0.0/ussasasa.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wangguojing123_1.3.0/wangguojing123.test.js[0m
+Path Traversal in wangguojing123 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wangguojing123_1.3.0/wangguojing123.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wangshuai_1.0.0/wangshuai.test.js[0m
+Path Traversal in wangshuai ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wangshuai_1.0.0/wangshuai.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./web-node-server_0.1.0/web-node-server.test.js[0m
+Path Traversal in web-node-server ...
+[0m[38;5;245m------- post-test output -------[0m
+server running at 9999
+Uncaught error from ./web-node-server_0.1.0/web-node-server.test.js [0m[31mFAILED[0m
+Path Traversal in web-node-server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./web-node-server_0.1.0/web-node-server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./webrepl_0.4.7/webrepl.test.js[0m
+Path Traversal in webrepl ... [0m[31mFAILED[0m [0m[38;5;245m(13ms)[0m
+Uncaught error from ./webrepl_0.4.7/webrepl.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./welcomyzt_1.1.0/welcomyzt.test.js[0m
+Path Traversal in welcomyzt ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./welcomyzt_1.1.0/welcomyzt.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wenluhong111_1.0.0/wenluhong111.test.js[0m
+Path Traversal in wenluhong111 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wenluhong111_1.0.0/wenluhong111.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wenluhong11_1.0.0/wenluhong11.test.js[0m
+Path Traversal in wenluhong11 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wenluhong11_1.0.0/wenluhong11.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wenluhong1_1.0.0/wenluhong1.test.js[0m
+Path Traversal in wenluhong1 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wenluhong1_1.0.0/wenluhong1.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wffserve_1.0.0/wffserve.test.js[0m
+Path Traversal in wffserve ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wffserve_1.0.0/wffserve.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./willvdb_test_server_0.0.0/willvdb_test_server.test.js[0m
+Path Traversal in willvdb_test_server ...
+Uncaught error from ./willvdb_test_server_0.0.0/willvdb_test_server.test.js [0m[31mFAILED[0m
+Path Traversal in willvdb_test_server ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./willvdb_test_server_0.0.0/willvdb_test_server.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wind-mvc_0.0.6/wind-mvc.test.js[0m
+Path Traversal in wind-mvc ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wind-mvc_0.0.6/wind-mvc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wintiwebdev_1.0.0/wintiwebdev.test.js[0m
+Path Traversal in wintiwebdev ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wintiwebdev_1.0.0/wintiwebdev.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./wrlc_0.2.5/wrlc.test.js[0m
+Path Traversal in wrlc ...
+Uncaught error from ./wrlc_0.2.5/wrlc.test.js [0m[31mFAILED[0m
+Path Traversal in wrlc ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./wrlc_0.2.5/wrlc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wuzhuang_1.0.0/wuzhuang.test.js[0m
+Path Traversal in wuzhuang ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wuzhuang_1.0.0/wuzhuang.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./wuzhuangserver_1.8.0/wuzhuangserver.test.js[0m
+Path Traversal in wuzhuangserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./wuzhuangserver_1.8.0/wuzhuangserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./xbhxbh_1.1.0/xbhxbh.test.js[0m
+Path Traversal in xbhxbh ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./xbhxbh_1.1.0/xbhxbh.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./xingbaohai_1.0.0/xingbaohai.test.js[0m
+Path Traversal in xingbaohai ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./xingbaohai_1.0.0/xingbaohai.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./xxf11_1.0.1/xxf11.test.js[0m
+Path Traversal in xxf11 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./xxf11_1.0.1/xxf11.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./yjmyjmyjm_1.0.0/yjmyjmyjm.test.js[0m
+Path Traversal in yjmyjmyjm ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./yjmyjmyjm_1.0.0/yjmyjmyjm.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./yxxserver_1.0.0/yxxserver.test.js[0m
+Path Traversal in yxxserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./yxxserver_1.0.0/yxxserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./yyooopack_3.0.0/yyooopack.test.js[0m
+Path Traversal in yyooopack ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./yyooopack_3.0.0/yyooopack.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./yypsulie11_1.0.0/yypsulie11.test.js[0m
+Path Traversal in yypsulie11 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./yypsulie11_1.0.0/yypsulie11.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./yzt_1.4.0/yzt.test.js[0m
+Path Traversal in yzt ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./yzt_1.4.0/yzt.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./zhanglina_1.0.0/zhanglina.test.js[0m
+Path Traversal in zhanglina ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./zhanglina_1.0.0/zhanglina.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./zhangranbigman_0.0.1/zhangranbigman.test.js[0m
+Path Traversal in zhangranbigman ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./zhangranbigman_0.0.1/zhangranbigman.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./zhaolei1111_1.1.0/zhaolei1111.test.js[0m
+Path Traversal in zhaolei1111 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./zhaolei1111_1.1.0/zhaolei1111.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./zjjserver_1.0.0/zjjserver.test.js[0m
+Path Traversal in zjjserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./zjjserver_1.0.0/zjjserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./zs123_1.0.0/zs123.test.js[0m
+Path Traversal in zs123 ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./zs123_1.0.0/zs123.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./zwserver_0.1.1/zwserver.test.js[0m
+Path Traversal in zwserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./zwserver_0.1.1/zwserver.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 2 tests from ./zxyserver_1.0.0/zxyserver.test.js[0m
+Path Traversal in zxyserver ... [0m[32mok[0m [0m[38;5;245m(2s)[0m
+Uncaught error from ./zxyserver_1.0.0/zxyserver.test.js [0m[31mFAILED[0m
+
+[0m[1m[37m[41m ERRORS [0m
+
+./11xiaoli_1.1.0/11xiaoli.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./22lixian_1.0.0/22lixian.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./@vivaxy-here_3.1.0/vivaxy_here.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./angular-http-server_1.0.0/angular-http-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./api-proxy_0.0.2/api-proxy.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./aso-server_0.4.3/aso-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./asset-cache_0.0.6/asset-cache.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./atropa-ide_0.2.2-2/atropa-ide.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./augustine_0.2.3/augustine.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./basic-static_2.0.2/basic-static.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./bitty_0.1.0/bitty.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./caihong_1.0.0/caihong.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./canvas-designer_1.2.1/canvas-designer.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./caolilinode1_1.0.0/caolilinode1.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./caolilinode_1.0.0/caolilinode.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./crud-file-server_0.7.0/crud-file-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cuciuci_1.1.0/cuciuci.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cuiaiguang_1.0.0/cuiaiguang.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cxy_1.1.0/cxy.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cyber-js_1.0.6/cyber-js.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cypserver_1.0.0/cypserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./datachannel-client_1.0.2/datachannel-client.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./dcdcdcdcdc_1.0.0/dcdcdcdcdc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./der-server_0.0.9/der-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./dilu_0.1.3/dilu.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./dylmomo_1.0.0/dylmomo.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./easy-node-server_1.2.1/easy-node-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./ex-http-frame_1.0.2/ex-http-frame.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./express-blinker_0.0.6/express-blinker.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./exxxxxxxxxxx_1.0.2/exxxxxxxxxxx.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./fakelearnnodejs_0.0.1/fakelearnnodejs.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./fast-http-cli_0.0.8/fast-http-cli.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./fast-http_0.1.3/fast-http.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./fbr-client_1.0.3/fbr-client.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./file-static-server_1.0.2/file-static-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./fsk-server_0.2.1/fsk-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./gamebutler_1.0.4/gamebutler.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./gaoxiaotingtingting_1.1.0/gaoxiaotingtingting.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./gaoxuyan_1.1.0/gaoxuyan.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./getstats_1.0.6/getstats.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./gfm-srv_1.1.2/gfm-srv.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./glance_3.0.0/glance.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./goserv_1.0.0/goserv.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./gyfserver_1.0.0/gyfserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./hangersteak_0.2.2/hangersteak.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./hdsdhhksjd_1.0.0/hdsdhhksjd.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./hftp_0.0.6/hftp.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./hostr_2.0.0/hostr.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./http-file-server_0.2.6/http-file-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./http-live-simulator_1.0.0/http-live-simulator.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./httpea_3.0.4/httpea.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./infraserver_0.0.1/infraserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./intsol-package_1.0.0/intsol-package.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./isv-http_0.0.9/isv-http.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./lander_1.0.0/lander.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./lessindex_1.0.0/lessindex.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./lihuini_1.0.0/lihuini.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./liuyaserver_1.0.0/liuyaserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./liyujing_1.1.0/liyujing.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./ljjnodeserve_1.0.0/ljjnodeserve.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./looppake_3.0.0/looppake.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./ltt.js_1.0.0/ltt_js.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./ltt_1.1.0/ltt.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./lzl123_1.1.0/lzl123.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./m-server_1.4.0/m-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./mcstatic_0.0.20/mcstatic.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./mfrs_1.0.0/mfrs.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./mfrserver_1.0.0/mfrserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./my-sn_1.0.1/my-sn.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./myprolyz_1.1.0/myprolyz.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./myserve111_1.1.2/myserve111.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./nitro-server_1.3.3/nitro-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./node-cxc_1.0.0/node-cxc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./node-http-server_8.1.2/node-http-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./node-simple-router_0.10.0/node-simple-router.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./node-srv_2.0.0/node-srv.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./node-static-webserver_0.0.1/node-static-webserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Path Traversal in node-staticserver [0m[38;5;245m=> ./node-staticserver_1.0.3/node-staticserver.test.js:12:6[0m
+[0m[1m[31merror[0m: TypeError: Cannot set properties of undefined (setting 'status')
+    at [0m[1m[3mServer.init[0m ([0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal/node-staticserver_1.0.3/node_modules/node-staticserver/lib/server.js[0m:[0m[33m45[0m:[0m[33m27[0m)
+    at [0m[1m[3mmodule.exports[0m ([0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal/node-staticserver_1.0.3/node_modules/node-staticserver/lib/server.js[0m:[0m[33m417[0m:[0m[33m12[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal/node-staticserver_1.0.3/node-staticserver.test.js[0m:[0m[33m22[0m:[0m[33m13[0m
+
+./node-staticserver_1.0.3/node-staticserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./nodeaaaaa_1.3.0/nodeaaaaa.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./nodejsccc_1.0.0/nodejsccc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./nopach_0.1.1/nopach.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./open-device_4.0.1/open-device.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./paopao613_1.0.0/paopao613.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./peiserver_1.0.0/peiserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./pico-static-server_2.3.4/pico-static-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./proxey_0.4.2/proxey.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./ptest_1.0.0/ptest.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./public_0.1.2/public.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./pytservce_1.0.0/pytservce.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./ritp_1.0.5/ritp.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./rjpserver_1.0.0/rjpserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./rollup-plugin-dev-server_0.4.3/rollup-plugin-dev-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./rollup-plugin-serve-favicon_0.4.2/rollup-plugin-serve-favicon.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./rollup-plugin-serve_0.4.2/rollup-plugin-serve.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./rollup-plugin-server_0.7.0/rollup-plugin-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./rtcmulticonnection-client_1.0.5/rtcmulticonnection-client.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./run-this-place_1.0.2/run-this-place.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./sabu_1.0.6/sabu.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serve-here.js_1.1.0/serve-here_js.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serve46_1.0.0/serve46.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./server12311_1.2.0/server12311.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverabc_1.0.0/serverabc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverfff_1.1.1/serverfff.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./servergmf_1.1.0/servergmf.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverhuwenhui_1.1.0/serverhuwenhui.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverliujiayi1_1.1.0/serverliujiayi1.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverlyj333_1.1.0/serverlyj333.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverlyr_1.1.0/serverlyr.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./servershuai_1.2.0/servershuai.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serversyysyy_1.1.0/serversyysyy.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverwg_1.0.0/serverwg.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverwzl_1.3.1/serverwzl.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverxh_1.0.0/serverxh.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverxxx_1.0.0/serverxxx.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serveryaozeyan_1.0.4/serveryaozeyan.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serveryyl_1.1.0/serveryyl.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serveryztyzt_1.4.0/serveryztyzt.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverzyqzyq_1.1.0/serverzyqzyq.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./serverzyy_1.0.0/serverzyy.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./servewuqianqianqian_1.0.0/servewuqianqianqian.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./servey_2.2.0/servey.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./severzlt_1.0.0/severzlt.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./sgqserve_1.0.0/sgqserve.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./shenliru3_1.3.0/shenliru3.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./shenliru_1.2.0/shenliru.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./shit-server_1.0.0/shit-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./simple-mock-server_0.2.1/simple-mock-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./songcaihong_1.0.0/songcaihong.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./srverqq_1.0.0/srverqq.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Path Traversal in starfruit [0m[38;5;245m=> ./starfruit_0.2.2/starfruit.test.js:12:6[0m
+[0m[1m[31merror[0m: ReferenceError: sleep is not defined
+  sleep(2);
+[0m[31m  ^[0m
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal/starfruit_0.2.2/starfruit.test.js[0m:[0m[33m24[0m:[0m[33m3[0m
+
+./starfruit_0.2.2/starfruit.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./static-html-server_0.1.2/static-html-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./static-server-gx_1.2.1/static-server-gx.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./statichttpserver_0.9.7/statichttpserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./statics-server_0.0.9/statics-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./stattic_0.2.3/stattic.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./susu-sum_1.0.0/susu-sum.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./tinyserver2_0.5.2/tinyserver2.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./tinyserver_0.1.1/tinyserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./uekw1511server_1.0.1/uekw1511server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./ussasasa_1.0.0/ussasasa.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wangguojing123_1.3.0/wangguojing123.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wangshuai_1.0.0/wangshuai.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./web-node-server_0.1.0/web-node-server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Path Traversal in webrepl [0m[38;5;245m=> ./webrepl_0.4.7/webrepl.test.js:12:6[0m
+[0m[1m[31merror[0m: Error: Not implemented: REPLServer.prototype.constructor
+    at [0m[1m[3mnotImplemented[0m ([0m[36mext:deno_node/_utils.ts[0m:[0m[33m9[0m:[0m[33m9[0m)
+    at new [0m[1m[3mREPLServer[0m ([0m[36mnode:repl[0m:[0m[33m10[0m:[0m[33m5[0m)
+    at [0m[1m[3mObject.start[0m ([0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal/webrepl_0.4.7/node_modules/webrepl/webrepl.js[0m:[0m[33m199[0m:[0m[33m14[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal/webrepl_0.4.7/webrepl.test.js[0m:[0m[33m22[0m:[0m[33m7[0m
+
+./webrepl_0.4.7/webrepl.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./welcomyzt_1.1.0/welcomyzt.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wenluhong111_1.0.0/wenluhong111.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wenluhong11_1.0.0/wenluhong11.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wenluhong1_1.0.0/wenluhong1.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wffserve_1.0.0/wffserve.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./willvdb_test_server_0.0.0/willvdb_test_server.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wind-mvc_0.0.6/wind-mvc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wintiwebdev_1.0.0/wintiwebdev.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wrlc_0.2.5/wrlc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wuzhuang_1.0.0/wuzhuang.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./wuzhuangserver_1.8.0/wuzhuangserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./xbhxbh_1.1.0/xbhxbh.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./xingbaohai_1.0.0/xingbaohai.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./xxf11_1.0.1/xxf11.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./yjmyjmyjm_1.0.0/yjmyjmyjm.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./yxxserver_1.0.0/yxxserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./yyooopack_3.0.0/yyooopack.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./yypsulie11_1.0.0/yypsulie11.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./yzt_1.4.0/yzt.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./zhanglina_1.0.0/zhanglina.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./zhangranbigman_0.0.1/zhangranbigman.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./zhaolei1111_1.1.0/zhaolei1111.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./zjjserver_1.0.0/zjjserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./zs123_1.0.0/zs123.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./zwserver_0.1.1/zwserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./zxyserver_1.0.0/zxyserver.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+[0m[1m[37m[41m FAILURES [0m
+
+./11xiaoli_1.1.0/11xiaoli.test.js (uncaught error)
+./22lixian_1.0.0/22lixian.test.js (uncaught error)
+./@vivaxy-here_3.1.0/vivaxy_here.test.js (uncaught error)
+./angular-http-server_1.0.0/angular-http-server.test.js (uncaught error)
+./api-proxy_0.0.2/api-proxy.test.js (uncaught error)
+./aso-server_0.4.3/aso-server.test.js (uncaught error)
+./asset-cache_0.0.6/asset-cache.test.js (uncaught error)
+./atropa-ide_0.2.2-2/atropa-ide.test.js (uncaught error)
+./augustine_0.2.3/augustine.test.js (uncaught error)
+./basic-static_2.0.2/basic-static.test.js (uncaught error)
+./bitty_0.1.0/bitty.test.js (uncaught error)
+./caihong_1.0.0/caihong.test.js (uncaught error)
+./canvas-designer_1.2.1/canvas-designer.test.js (uncaught error)
+./caolilinode1_1.0.0/caolilinode1.test.js (uncaught error)
+./caolilinode_1.0.0/caolilinode.test.js (uncaught error)
+./crud-file-server_0.7.0/crud-file-server.test.js (uncaught error)
+./cuciuci_1.1.0/cuciuci.test.js (uncaught error)
+./cuiaiguang_1.0.0/cuiaiguang.test.js (uncaught error)
+./cxy_1.1.0/cxy.test.js (uncaught error)
+./cyber-js_1.0.6/cyber-js.test.js (uncaught error)
+./cypserver_1.0.0/cypserver.test.js (uncaught error)
+./datachannel-client_1.0.2/datachannel-client.test.js (uncaught error)
+./dcdcdcdcdc_1.0.0/dcdcdcdcdc.test.js (uncaught error)
+./der-server_0.0.9/der-server.test.js (uncaught error)
+./dilu_0.1.3/dilu.test.js (uncaught error)
+./dylmomo_1.0.0/dylmomo.test.js (uncaught error)
+./easy-node-server_1.2.1/easy-node-server.test.js (uncaught error)
+./ex-http-frame_1.0.2/ex-http-frame.test.js (uncaught error)
+./express-blinker_0.0.6/express-blinker.test.js (uncaught error)
+./exxxxxxxxxxx_1.0.2/exxxxxxxxxxx.test.js (uncaught error)
+./fakelearnnodejs_0.0.1/fakelearnnodejs.test.js (uncaught error)
+./fast-http-cli_0.0.8/fast-http-cli.test.js (uncaught error)
+./fast-http_0.1.3/fast-http.test.js (uncaught error)
+./fbr-client_1.0.3/fbr-client.test.js (uncaught error)
+./file-static-server_1.0.2/file-static-server.test.js (uncaught error)
+./fsk-server_0.2.1/fsk-server.test.js (uncaught error)
+./gamebutler_1.0.4/gamebutler.test.js (uncaught error)
+./gaoxiaotingtingting_1.1.0/gaoxiaotingtingting.test.js (uncaught error)
+./gaoxuyan_1.1.0/gaoxuyan.test.js (uncaught error)
+./getstats_1.0.6/getstats.test.js (uncaught error)
+./gfm-srv_1.1.2/gfm-srv.test.js (uncaught error)
+./glance_3.0.0/glance.test.js (uncaught error)
+./goserv_1.0.0/goserv.test.js (uncaught error)
+./gyfserver_1.0.0/gyfserver.test.js (uncaught error)
+./hangersteak_0.2.2/hangersteak.test.js (uncaught error)
+./hdsdhhksjd_1.0.0/hdsdhhksjd.test.js (uncaught error)
+./hftp_0.0.6/hftp.test.js (uncaught error)
+./hostr_2.0.0/hostr.test.js (uncaught error)
+./http-file-server_0.2.6/http-file-server.test.js (uncaught error)
+./http-live-simulator_1.0.0/http-live-simulator.test.js (uncaught error)
+./httpea_3.0.4/httpea.test.js (uncaught error)
+./infraserver_0.0.1/infraserver.test.js (uncaught error)
+./intsol-package_1.0.0/intsol-package.test.js (uncaught error)
+./isv-http_0.0.9/isv-http.test.js (uncaught error)
+./lander_1.0.0/lander.test.js (uncaught error)
+./lessindex_1.0.0/lessindex.test.js (uncaught error)
+./lihuini_1.0.0/lihuini.test.js (uncaught error)
+./liuyaserver_1.0.0/liuyaserver.test.js (uncaught error)
+./liyujing_1.1.0/liyujing.test.js (uncaught error)
+./ljjnodeserve_1.0.0/ljjnodeserve.test.js (uncaught error)
+./looppake_3.0.0/looppake.test.js (uncaught error)
+./ltt.js_1.0.0/ltt_js.test.js (uncaught error)
+./ltt_1.1.0/ltt.test.js (uncaught error)
+./lzl123_1.1.0/lzl123.test.js (uncaught error)
+./m-server_1.4.0/m-server.test.js (uncaught error)
+./mcstatic_0.0.20/mcstatic.test.js (uncaught error)
+./mfrs_1.0.0/mfrs.test.js (uncaught error)
+./mfrserver_1.0.0/mfrserver.test.js (uncaught error)
+./my-sn_1.0.1/my-sn.test.js (uncaught error)
+./myprolyz_1.1.0/myprolyz.test.js (uncaught error)
+./myserve111_1.1.2/myserve111.test.js (uncaught error)
+./nitro-server_1.3.3/nitro-server.test.js (uncaught error)
+./node-cxc_1.0.0/node-cxc.test.js (uncaught error)
+./node-http-server_8.1.2/node-http-server.test.js (uncaught error)
+./node-simple-router_0.10.0/node-simple-router.test.js (uncaught error)
+./node-srv_2.0.0/node-srv.test.js (uncaught error)
+./node-static-webserver_0.0.1/node-static-webserver.test.js (uncaught error)
+Path Traversal in node-staticserver [0m[38;5;245m=> ./node-staticserver_1.0.3/node-staticserver.test.js:12:6[0m
+./node-staticserver_1.0.3/node-staticserver.test.js (uncaught error)
+./nodeaaaaa_1.3.0/nodeaaaaa.test.js (uncaught error)
+./nodejsccc_1.0.0/nodejsccc.test.js (uncaught error)
+./nopach_0.1.1/nopach.test.js (uncaught error)
+./open-device_4.0.1/open-device.test.js (uncaught error)
+./paopao613_1.0.0/paopao613.test.js (uncaught error)
+./peiserver_1.0.0/peiserver.test.js (uncaught error)
+./pico-static-server_2.3.4/pico-static-server.test.js (uncaught error)
+./proxey_0.4.2/proxey.test.js (uncaught error)
+./ptest_1.0.0/ptest.test.js (uncaught error)
+./public_0.1.2/public.test.js (uncaught error)
+./pytservce_1.0.0/pytservce.test.js (uncaught error)
+./ritp_1.0.5/ritp.test.js (uncaught error)
+./rjpserver_1.0.0/rjpserver.test.js (uncaught error)
+./rollup-plugin-dev-server_0.4.3/rollup-plugin-dev-server.test.js (uncaught error)
+./rollup-plugin-serve-favicon_0.4.2/rollup-plugin-serve-favicon.test.js (uncaught error)
+./rollup-plugin-serve_0.4.2/rollup-plugin-serve.test.js (uncaught error)
+./rollup-plugin-server_0.7.0/rollup-plugin-server.test.js (uncaught error)
+./rtcmulticonnection-client_1.0.5/rtcmulticonnection-client.test.js (uncaught error)
+./run-this-place_1.0.2/run-this-place.test.js (uncaught error)
+./sabu_1.0.6/sabu.test.js (uncaught error)
+./serve-here.js_1.1.0/serve-here_js.test.js (uncaught error)
+./serve46_1.0.0/serve46.test.js (uncaught error)
+./server12311_1.2.0/server12311.test.js (uncaught error)
+./serverabc_1.0.0/serverabc.test.js (uncaught error)
+./serverfff_1.1.1/serverfff.test.js (uncaught error)
+./servergmf_1.1.0/servergmf.test.js (uncaught error)
+./serverhuwenhui_1.1.0/serverhuwenhui.test.js (uncaught error)
+./serverliujiayi1_1.1.0/serverliujiayi1.test.js (uncaught error)
+./serverlyj333_1.1.0/serverlyj333.test.js (uncaught error)
+./serverlyr_1.1.0/serverlyr.test.js (uncaught error)
+./servershuai_1.2.0/servershuai.test.js (uncaught error)
+./serversyysyy_1.1.0/serversyysyy.test.js (uncaught error)
+./serverwg_1.0.0/serverwg.test.js (uncaught error)
+./serverwzl_1.3.1/serverwzl.test.js (uncaught error)
+./serverxh_1.0.0/serverxh.test.js (uncaught error)
+./serverxxx_1.0.0/serverxxx.test.js (uncaught error)
+./serveryaozeyan_1.0.4/serveryaozeyan.test.js (uncaught error)
+./serveryyl_1.1.0/serveryyl.test.js (uncaught error)
+./serveryztyzt_1.4.0/serveryztyzt.test.js (uncaught error)
+./serverzyqzyq_1.1.0/serverzyqzyq.test.js (uncaught error)
+./serverzyy_1.0.0/serverzyy.test.js (uncaught error)
+./servewuqianqianqian_1.0.0/servewuqianqianqian.test.js (uncaught error)
+./servey_2.2.0/servey.test.js (uncaught error)
+./severzlt_1.0.0/severzlt.test.js (uncaught error)
+./sgqserve_1.0.0/sgqserve.test.js (uncaught error)
+./shenliru3_1.3.0/shenliru3.test.js (uncaught error)
+./shenliru_1.2.0/shenliru.test.js (uncaught error)
+./shit-server_1.0.0/shit-server.test.js (uncaught error)
+./simple-mock-server_0.2.1/simple-mock-server.test.js (uncaught error)
+./songcaihong_1.0.0/songcaihong.test.js (uncaught error)
+./srverqq_1.0.0/srverqq.test.js (uncaught error)
+Path Traversal in starfruit [0m[38;5;245m=> ./starfruit_0.2.2/starfruit.test.js:12:6[0m
+./starfruit_0.2.2/starfruit.test.js (uncaught error)
+./static-html-server_0.1.2/static-html-server.test.js (uncaught error)
+./static-server-gx_1.2.1/static-server-gx.test.js (uncaught error)
+./statichttpserver_0.9.7/statichttpserver.test.js (uncaught error)
+./statics-server_0.0.9/statics-server.test.js (uncaught error)
+./stattic_0.2.3/stattic.test.js (uncaught error)
+./susu-sum_1.0.0/susu-sum.test.js (uncaught error)
+./tinyserver2_0.5.2/tinyserver2.test.js (uncaught error)
+./tinyserver_0.1.1/tinyserver.test.js (uncaught error)
+./uekw1511server_1.0.1/uekw1511server.test.js (uncaught error)
+./ussasasa_1.0.0/ussasasa.test.js (uncaught error)
+./wangguojing123_1.3.0/wangguojing123.test.js (uncaught error)
+./wangshuai_1.0.0/wangshuai.test.js (uncaught error)
+./web-node-server_0.1.0/web-node-server.test.js (uncaught error)
+Path Traversal in webrepl [0m[38;5;245m=> ./webrepl_0.4.7/webrepl.test.js:12:6[0m
+./webrepl_0.4.7/webrepl.test.js (uncaught error)
+./welcomyzt_1.1.0/welcomyzt.test.js (uncaught error)
+./wenluhong111_1.0.0/wenluhong111.test.js (uncaught error)
+./wenluhong11_1.0.0/wenluhong11.test.js (uncaught error)
+./wenluhong1_1.0.0/wenluhong1.test.js (uncaught error)
+./wffserve_1.0.0/wffserve.test.js (uncaught error)
+./willvdb_test_server_0.0.0/willvdb_test_server.test.js (uncaught error)
+./wind-mvc_0.0.6/wind-mvc.test.js (uncaught error)
+./wintiwebdev_1.0.0/wintiwebdev.test.js (uncaught error)
+./wrlc_0.2.5/wrlc.test.js (uncaught error)
+./wuzhuang_1.0.0/wuzhuang.test.js (uncaught error)
+./wuzhuangserver_1.8.0/wuzhuangserver.test.js (uncaught error)
+./xbhxbh_1.1.0/xbhxbh.test.js (uncaught error)
+./xingbaohai_1.0.0/xingbaohai.test.js (uncaught error)
+./xxf11_1.0.1/xxf11.test.js (uncaught error)
+./yjmyjmyjm_1.0.0/yjmyjmyjm.test.js (uncaught error)
+./yxxserver_1.0.0/yxxserver.test.js (uncaught error)
+./yyooopack_3.0.0/yyooopack.test.js (uncaught error)
+./yypsulie11_1.0.0/yypsulie11.test.js (uncaught error)
+./yzt_1.4.0/yzt.test.js (uncaught error)
+./zhanglina_1.0.0/zhanglina.test.js (uncaught error)
+./zhangranbigman_0.0.1/zhangranbigman.test.js (uncaught error)
+./zhaolei1111_1.1.0/zhaolei1111.test.js (uncaught error)
+./zjjserver_1.0.0/zjjserver.test.js (uncaught error)
+./zs123_1.0.0/zs123.test.js (uncaught error)
+./zwserver_0.1.1/zwserver.test.js (uncaught error)
+./zxyserver_1.0.0/zxyserver.test.js (uncaught error)
+
+[0m[31mFAILED[0m | 139 passed | 229 failed [0m[38;5;245m(4m53s)[0m
+

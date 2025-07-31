@@ -1,0 +1,227 @@
+ PASS  method-override_2.0.0/method-override.test.js
+(node:587042) [JEST-01] DeprecationWarning: 'matchers' property was accessed on [Object] after it was soft deleted
+  Jest deletes objects that were set on the global scope between test files to reduce memory leaks.
+  Currently it only "soft" deletes them and emits this warning if those objects were accessed after their deletion.
+  In future versions of Jest, this behavior will change to "on", which will likely fail tests.
+  You can change the behavior in your test configuration now to reduce memory usage.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ PASS  fast-csv_4.3.5/fast-csv.test.js
+ PASS  github-url-to-object_4.0.2/github-url-to-object.test.js
+ PASS  react-native_0.63.0-rc.0/react-native.test.js
+ PASS  squalcal/squalcal.test.js
+ PASS  postcss_8.0.0/postcss.test.js
+ PASS  express-validators_1.0.3/express-validators.test.js
+ PASS  simple-markdown_0.7.2/simple-markdown.test.js
+ PASS  valid-email_0.0.1/valid-email.test.js
+ PASS  ramda_0.27.1/ramda.test.js
+ PASS  htmlparser_1.7.7/htmlparser.test.js
+ PASS  remarkable_1.7.2/remarkable.test.js
+ PASS  revalidator_0.3.1/revalidator.test.js
+ PASS  validator_13.5.2/validator.test.js
+ PASS  semver-regex_3.1.1/semver-regex.test.js
+ PASS  ssri_8.0.0/ssri.test.js
+ PASS  highlight.js_10.4.0/highlight.test.js
+ PASS  ajv_5.2.2/ajv.test.js
+ PASS  checkit_0.7.0/checkit.test.js
+ PASS  path-parse_1.0.6/path-parse.test.js
+ PASS  codemirror_5.58.0/codemirror.test.js (6.61 s)
+ PASS  hosted-git-info_3.0.0/hosted-git-info.test.js
+ PASS  forwarded_0.1.0/forwarded.test.js
+ PASS  tough-cookie_2.3.2/tough-cookie.test.js
+ PASS  html-parse-stringify2_2.0.1/html-parse-stringify2.test.js
+ PASS  nth-check_2.0.0/nth-check.test.js
+ PASS  markdown-to-jsx_5.4.2/markdown-to-jsx.test.js
+ PASS  html-parse-stringify_2.0.0/html-parser-stringfy.test.js
+ PASS  truncate_2.0.0/truncate.test.js (8.189 s)
+ FAIL  prompts_2.4.0/prompts.test.js
+  ● ReDos in prompts
+
+    expect(received).toBeGreaterThan(expected)
+
+    Expected: > 1
+    Received:   0.83416951
+
+      12 |   let time = t[0] + t[1] / 1000000000;
+      13 |
+    > 14 |   expect(time).toBeGreaterThan(1);
+         |                ^
+      15 | });
+      16 |
+
+      at Object.toBeGreaterThan (prompts_2.4.0/prompts.test.js:14:16)
+
+ PASS  axios_0.21.0/axios.test.js
+ PASS  natural_5.1.0/natural.test.js
+ PASS  three_0.122.0/three.test.js
+  ● Console
+
+    console.warn
+      THREE.Color: Unknown color rgb(                                                                                                   
+       6 |   let t = measureTime(function () {
+       7 |     var Color = three.Color;
+    >  8 |     new Color(attack_str);
+         |     ^
+       9 |   });
+      10 |   let time = t[0] + t[1] / 1000000000;
+      11 |   expect(time).toBeGreaterThan(1);
+
+      at Color.setColorName (three_0.122.0/node_modules/three/build/three.js:6411:13)
+      at Color.setStyle (three_0.122.0/node_modules/three/build/three.js:6396:17)
+      at Color.set (three_0.122.0/node_modules/three/build/three.js:6275:10)
+      at new Color (three_0.122.0/node_modules/three/build/three.js:6261:17)
+      at three_0.122.0/three.test.js:8:5
+      at f (utils.js:35:3)
+      at Object.measureTime (three_0.122.0/three.test.js:6:11)
+
+ PASS  prototype_0.0.5/prototype.test.js
+ PASS  npm-user-validate_1.0.0/npm-user-validate.test.js
+ PASS  conventional-commits-parser_3.2.0/conventional-commits-parser.test.js
+ PASS  rgb2hex_0.1.0/rgb2hex.test.js (7.478 s)
+ PASS  clean-css_4.1.10/clean-css.test.js (11.802 s)
+ PASS  ethers_5.2.0/ethers.test.js
+ PASS  trim-off-newlines_1.0.0/trim-off-newlines.test.js
+ PASS  printf_0.6.0/printf.test.js
+ PASS  url-regex_5.0.0/url-regex.test.js
+ PASS  urlregex_0.5.0/urlregex.test.js (13.399 s)
+ PASS  jspdf_2.1.1/jspdf.test.js (9.302 s)
+ PASS  platform_1.3.4/platform.test.js
+ PASS  minimatch_3.0.0/minimatch.test.js
+ PASS  ua-parser-js_0.7.22/ua-parser.test.js
+ PASS  markdown_0.3.0/markdown-js.test.js (8.053 s)
+ PASS  html-dom-parser_0.1.2/html-dom-parser.test.js
+ PASS  marked_0.3.6/marked.test.js (5.64 s)
+ PASS  ducktype_1.2.0/ducktype.test.js
+  ● Console
+
+    console.log
+      false
+
+      at log (ducktype_1.2.0/ducktype.test.js:6:13)
+
+ PASS  is-svg_4.2.2/is-svg.test.js
+ PASS  mobile-detect_1.3.6/mobile-detect.test.js
+ PASS  fresh_0.5.0/fresh.test.js
+ PASS  underscore.string_3.3.4/underscore-string.test.js
+ PASS  parsejson_0.0.3/parsejson.test.js
+ PASS  sshpk_1.13.1/sshpk.test.js
+ PASS  timespan_2.3.0/timespan.test.js (5.641 s)
+ PASS  millisecond_0.1.1/millisecond.test.js
+ PASS  is-my-json-valid_2.20.1/is-my-json-valid.test.js (14.238 s)
+ PASS  color-string_1.5.4/color-string.test.js
+ PASS  normalize-url_6.0.0/normalize-url.test.js
+ PASS  browserslist_4.16.4/browserlist.test.js
+ PASS  moment_2.18.1/moment.test.js
+ PASS  sanitize_2.0.0/sanitize.test.js (5.343 s)
+ PASS  ms_0.7.0/ms.test.js
+ PASS  uri-js_2.1.1/uri-js.test.js (6.127 s)
+ PASS  ws_7.0.0/ws.test.js
+ PASS  tmpl_1.0.0/tmpl.test.js
+ PASS  ansi-regex_4.1.0/ansi-regex.test.js
+ PASS  papaparse_5.1.1/papaparse.test.js (7.27 s)
+ PASS  slug_0.9.1/slug.test.js
+ PASS  chrono-node_2.2.3/chrono-node.test.js
+ PASS  terminal-kit_2.1.0/terminal-kit.test.js
+ PASS  glob-parent_5.0.0/glob-parent.test.js (13.296 s)
+ PASS  email-existence_0.1.5/email-existence.test.js
+ PASS  is-email_1.0.0/is-email.test.js (11.507 s)
+ PASS  string_3.3.3/string.test.js
+ PASS  lodash_4.17.4/lodash.test.js
+ PASS  remove-markdown_0.3.0/remove-markdown.test.js (17.613 s)
+ FAIL  cejs_2.0.20170212/cejs.test.js
+  ● Console
+
+    console.warn
+      load_named: 載入 [........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................%] 失敗！
+
+      4 |   attack_str = ".".repeat(7000000) + "\n%";
+      5 |   let t = measureTime(function () {
+    > 6 |     c.run(attack_str);
+        |       ^
+      7 |   });
+      8 |   let time = t[0] + t[1] / 1000000000;
+      9 |   expect(time).toBeGreaterThan(1);
+
+      at Function._.<computed> [as warn] (eval at <anonymous> (cejs_2.0.20170212/node_modules/cejs/_for include/node.loader.js:115:2), <anonymous>:2087:18)
+      at load_named (eval at <anonymous> (cejs_2.0.20170212/node_modules/cejs/_for include/node.loader.js:115:2), <anonymous>:6748:25)
+      at check_and_run_run (eval at <anonymous> (cejs_2.0.20170212/node_modules/cejs/_for include/node.loader.js:115:2), <anonymous>:7564:21)
+      at Function.normal_run [as run] (eval at <anonymous> (cejs_2.0.20170212/node_modules/cejs/_for include/node.loader.js:115:2), <anonymous>:7907:19)
+      at run (cejs_2.0.20170212/cejs.test.js:6:7)
+      at f (utils.js:35:3)
+      at Object.measureTime (cejs_2.0.20170212/cejs.test.js:5:11)
+
+  ● ReDoS in cejs
+
+    expect(received).toBeGreaterThan(expected)
+
+    Expected: > 1
+    Received:   0.900548864
+
+       7 |   });
+       8 |   let time = t[0] + t[1] / 1000000000;
+    >  9 |   expect(time).toBeGreaterThan(1);
+         |                ^
+      10 | });
+      11 |
+
+      at Object.toBeGreaterThan (cejs_2.0.20170212/cejs.test.js:9:16)
+
+ PASS  colors-cli_1.0.25/colors-cli.test.js
+ PASS  date-and-time_0.14.1/date-and-time.test.js
+ PASS  content-type-parser_1.0.1/content-type-parser.test.js
+ PASS  content_3.0.5/content.test.js
+ PASS  is-url_1.2.2/is-url.test.js
+ PASS  charset_1.0.0/charset.test.js
+ PASS  trim_0.0.1/trim.test.js
+ PASS  dirty-json_0.4.0/dirty-json.test.js
+ PASS  no-case_2.3.1/no-case.test.js
+ PASS  d3-color_2.0.0/d3-color.test.js (5.941 s)
+ PASS  mime_1.4.0/mime.test.js (9.342 s)
+ PASS  amqp-match_0.0.0/amqp-match.test.js
+ PASS  brace-expansion_1.1.6/brace-expansion.test.js
+ PASS  locutus_2.0.10/locutus.test.js (23.555 s)
+ PASS  vant_2.12.11/vant.test.js (16.826 s)
+ PASS  ansi-html_0.0.7/ansi-html.test.js
+ PASS  markdown-it_9.1.0/markdown-it.test.js (11.967 s)
+
+Summary of all failing tests
+ FAIL  prompts_2.4.0/prompts.test.js
+  ● ReDos in prompts
+
+    expect(received).toBeGreaterThan(expected)
+
+    Expected: > 1
+    Received:   0.83416951
+
+      12 |   let time = t[0] + t[1] / 1000000000;
+      13 |
+    > 14 |   expect(time).toBeGreaterThan(1);
+         |                ^
+      15 | });
+      16 |
+
+      at Object.toBeGreaterThan (prompts_2.4.0/prompts.test.js:14:16)
+
+ FAIL  cejs_2.0.20170212/cejs.test.js
+  ● ReDoS in cejs
+
+    expect(received).toBeGreaterThan(expected)
+
+    Expected: > 1
+    Received:   0.900548864
+
+       7 |   });
+       8 |   let time = t[0] + t[1] / 1000000000;
+    >  9 |   expect(time).toBeGreaterThan(1);
+         |                ^
+      10 | });
+      11 |
+
+      at Object.toBeGreaterThan (cejs_2.0.20170212/cejs.test.js:9:16)
+
+
+Test Suites: 2 failed, 96 passed, 98 total
+Tests:       2 failed, 96 passed, 98 total
+Snapshots:   0 total
+Time:        39.437 s
+Ran all test suites.
+

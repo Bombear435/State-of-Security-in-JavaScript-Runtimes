@@ -1,0 +1,864 @@
+[0m[38;5;245mrunning 1 test from ./access-policy_3.1.0/access-policy.test.js[0m
+Arbitrary code execution in access-policy ... [0m[32mok[0m [0m[38;5;245m(11ms)[0m
+Uncaught error from ./access-policy_3.1.0/access-policy.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./cd-messenger_2.7.24/poc.test.js[0m
+Arbitrary code execution in cd-messenger ...
+[0m[38;5;245m------- post-test output -------[0m
+████████████████████████████████████████████████████████████████████████████████
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in cd-messenger ... [0m[32mok[0m [0m[38;5;245m(17ms)[0m
+Uncaught error from ./cd-messenger_2.7.24/poc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./djv_2.0.0/djv.test.js[0m
+Arbitrary code execution in  djv ... [0m[32mok[0m [0m[38;5;245m(15ms)[0m
+Uncaught error from ./djv_2.0.0/djv.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./hot-formula-parser_3.0.0/hot-formula-parser.test.js[0m
+Arbitrary code execution in hot-formula-parser ... [0m[32mok[0m [0m[38;5;245m(31ms)[0m
+Uncaught error from ./hot-formula-parser_3.0.0/hot-formula-parser.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./is-my-json-valid_2.20.0/is-my-json-valid.test.js[0m
+Arbitrary code execution in is-my-json-valid ... [0m[32mok[0m [0m[38;5;245m(13ms)[0m
+Uncaught error from ./is-my-json-valid_2.20.0/is-my-json-valid.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./js-yaml_3.13.0/js-yaml.test.js[0m
+Arbitrary code execution in js-yaml ... [0m[32mok[0m [0m[38;5;245m(25ms)[0m
+Uncaught error from ./js-yaml_3.13.0/js-yaml.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./jsen_0.6.6/jsen.test.js[0m
+Arbitrary code execution in jsen ... [0m[31mFAILED[0m [0m[38;5;245m(13ms)[0m
+Uncaught error from ./jsen_0.6.6/jsen.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./json-ptr_2.0.0/json-ptr.test.js[0m
+Arbitrary code execution in json-ptr ...
+[0m[38;5;245m------- post-test output -------[0m
+err===> TypeError: spawn_sync.spawn is not a function
+    at spawnSync (eval at compilePointerDereference (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/json-ptr_2.0.0/node_modules/.deno/json-ptr@2.0.0/node_modules/json-ptr/dist/util.js:159:12), <anonymous>:6:752)
+    at JsonPointer.eval (eval at compilePointerDereference (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/json-ptr_2.0.0/node_modules/.deno/json-ptr@2.0.0/node_modules/json-ptr/dist/util.js:159:12), <anonymous>:6:1089)
+    at JsonPointer.get (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/json-ptr_2.0.0/node_modules/.deno/json-ptr@2.0.0/node_modules/json-ptr/dist/pointer.js:131:26)
+    at JsonPointer.get (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/json-ptr_2.0.0/node_modules/.deno/json-ptr@2.0.0/node_modules/json-ptr/dist/pointer.js:81:24)
+    at file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/json-ptr_2.0.0/json-ptr.test.js:15:17
+    at innerWrapped (ext:cli/40_test.js:180:11)
+    at exitSanitizer (ext:cli/40_test.js:96:33)
+    at outerWrapped (ext:cli/40_test.js:123:20)
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in json-ptr ... [0m[31mFAILED[0m [0m[38;5;245m(22ms)[0m
+Uncaught error from ./json-ptr_2.0.0/json-ptr.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./kmc_1.2.2/kmc.test.js[0m
+Arbitrary code execution in kmc ... [0m[32mok[0m [0m[38;5;245m(18ms)[0m
+Uncaught error from ./kmc_1.2.2/kmc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./local-devices_2.0.0/local-devices.test.js[0m
+Arbitrary code execution in local-devices ... [0m[32mok[0m [0m[38;5;245m(60ms)[0m
+Uncaught error from ./local-devices_2.0.0/local-devices.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./m-log_0.0.1/m-log.test.js[0m
+Arbitrary code execution in m-log ... [0m[31mFAILED[0m [0m[38;5;245m(14ms)[0m
+Uncaught error from ./m-log_0.0.1/m-log.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./marsdb_0.6.11/marsdb.test.js[0m
+Arbitrary code execution in marsdb ... [0m[32mok[0m [0m[38;5;245m(30ms)[0m
+Uncaught error from ./marsdb_0.6.11/marsdb.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./mathjs_3.10.3/mathjs.test.js[0m
+Arbitrary code execution in mathjs ...
+[0m[38;5;245m------- post-test output -------[0m
+{
+  file: "touch",
+  args: [ "touch", "mathjs" ],
+  envPairs: [
+    "LANG=en_US.UTF-8",
+    "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus",
+    "DISPLAY=:0",
+    "HISTSIZE=2147450879",
+    "GTK3_MODULES=xapp-gtk3-module",
+    "QT_ACCESSIBILITY=1",
+    "LSCOLORS=Gxfxcxdxdxegedabagacad",
+    "GNOME_DESKTOP_SESSION_ID=this-is-deprecated",
+    "OSH=/home/bombe/.oh-my-bash",
+    "HOME=/home/bombe",
+    "NVM_DIR=/home/bombe/.nvm",
+    "COLORTERM=truecolor",
+    "LC_NUMERIC=de_DE.UTF-8",
+    "XDG_SESSION_DESKTOP=cinnamon",
+    "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0",
+    "XMODIFIERS=@im=ibus",
+    "LC_IDENTIFICATION=de_DE.UTF-8",
+    "GDMSESSION=cinnamon",
+    "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/bombe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop",
+    "LC_TELEPHONE=de_DE.UTF-8",
+    "VTE_VERSION=7600",
+    "LC_MEASUREMENT=de_DE.UTF-8",
+    "LOGNAME=bombe",
+    "PATH=/home/bombe/.deno/bin:/usr/lib/ccache:/home/bombe/UniSaarland/CPSS/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/bombe/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bombe/.foundry/bin",
+    "HISTFILESIZE=2147450879",
+    "PAGER=less",
+    "LC_PAPER=de_DE.UTF-8",
+    "XAUTHORITY=/home/bombe/.Xauthority",
+    "_=/home/bombe/.deno/bin/deno",
+    "XDG_SEAT=seat0",
+    "SESSION_MANAGER=local/bombe-mint:@/tmp/.ICE-unix/2384,unix/bombe-mint:/tmp/.ICE-unix/2384",
+    "TERM=xterm-256color",
+    "XDG_VTNR=7",
+    "PWD=/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection",
+    "GNOME_TERMINAL_SERVICE=:1.121",
+    "XDG_SESSION_CLASS=user",
+    "LC_NAME=de_DE.UTF-8",
+    "SSH_AUTH_SOCK=/run/user/1000/keyring/ssh",
+    "LESSCLOSE=/usr/bin/lesspipe %s %s",
+    "LESSOPEN=| /usr/bin/lesspipe %s",
+    "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0",
+    "XDG_RUNTIME_DIR=/run/user/1000",
+    "SHELL=/bin/bash",
+    "QT_IM_MODULE=ibus",
+    "GTK_MODULES=gail:atk-bridge",
+    "USER=bombe",
+    "LC_CTYPE=en_US.UTF-8",
+    "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1",
+    "XDG_SESSION_ID=c2",
+    "DESKTOP_AUTOSTART_ID=1036d3494b3a997425175292675122236300000023840022",
+    "GTK_IM_MODULE=ibus",
+    "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg",
+    "LC_ADDRESS=de_DE.UTF-8",
+    "LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:",
+    "OLDPWD=/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal",
+    "LESS=-R",
+    "XDG_SESSION_TYPE=x11",
+    "DESKTOP_SESSION=cinnamon",
+    "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/bombe",
+    "SHLVL=1",
+    "GNOME_KEYRING_CONTROL=/run/user/1000/keyring",
+    "LC_MONETARY=de_DE.UTF-8",
+    "LANGUAGE=en_US",
+    "GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/c6fe3b27_f893_4a33_ac73_f55e920e5686",
+    "CLUTTER_IM_MODULE=ibus",
+    "GDM_LANG=en_US",
+    "XDG_CURRENT_DESKTOP=X-Cinnamon"
+  ],
+  stdio: [
+    { type: "pipe", readable: true, writable: false },
+    { type: "pipe", readable: false, writable: true },
+    { type: "pipe", readable: false, writable: true }
+  ]
+}
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in mathjs ... [0m[31mFAILED[0m [0m[38;5;245m(113ms)[0m
+Uncaught error from ./mathjs_3.10.3/mathjs.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./mathjs_3.9.0/mathjs.test.js[0m
+Arbitrary code execution in mathjs ...
+[0m[38;5;245m------- post-test output -------[0m
+{
+  file: "touch",
+  args: [ "touch", "mathjs" ],
+  envPairs: [
+    "LC_NAME=de_DE.UTF-8",
+    "HISTSIZE=2147450879",
+    "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1",
+    "LESSOPEN=| /usr/bin/lesspipe %s",
+    "TERM=xterm-256color",
+    "LC_IDENTIFICATION=de_DE.UTF-8",
+    "LESS=-R",
+    "SHLVL=1",
+    "LOGNAME=bombe",
+    "PATH=/home/bombe/.deno/bin:/usr/lib/ccache:/home/bombe/UniSaarland/CPSS/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/bombe/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bombe/.foundry/bin",
+    "OLDPWD=/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal",
+    "GNOME_DESKTOP_SESSION_ID=this-is-deprecated",
+    "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/bombe",
+    "GTK3_MODULES=xapp-gtk3-module",
+    "LANG=en_US.UTF-8",
+    "XMODIFIERS=@im=ibus",
+    "XDG_SESSION_TYPE=x11",
+    "DISPLAY=:0",
+    "QT_ACCESSIBILITY=1",
+    "DESKTOP_SESSION=cinnamon",
+    "PWD=/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection",
+    "LC_NUMERIC=de_DE.UTF-8",
+    "HOME=/home/bombe",
+    "GDMSESSION=cinnamon",
+    "LC_ADDRESS=de_DE.UTF-8",
+    "GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/c6fe3b27_f893_4a33_ac73_f55e920e5686",
+    "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0",
+    "XDG_SEAT=seat0",
+    "XAUTHORITY=/home/bombe/.Xauthority",
+    "LC_MEASUREMENT=de_DE.UTF-8",
+    "HISTFILESIZE=2147450879",
+    "_=/home/bombe/.deno/bin/deno",
+    "XDG_VTNR=7",
+    "GTK_MODULES=gail:atk-bridge",
+    "LC_MONETARY=de_DE.UTF-8",
+    "LESSCLOSE=/usr/bin/lesspipe %s %s",
+    "GTK_IM_MODULE=ibus",
+    "LC_PAPER=de_DE.UTF-8",
+    "XDG_CURRENT_DESKTOP=X-Cinnamon",
+    "PAGER=less",
+    "GNOME_KEYRING_CONTROL=/run/user/1000/keyring",
+    "XDG_SESSION_ID=c2",
+    "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus",
+    "GDM_LANG=en_US",
+    "DESKTOP_AUTOSTART_ID=1036d3494b3a997425175292675122236300000023840022",
+    "SHELL=/bin/bash",
+    "USER=bombe",
+    "OSH=/home/bombe/.oh-my-bash",
+    "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0",
+    "LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:",
+    "LC_CTYPE=en_US.UTF-8",
+    "SESSION_MANAGER=local/bombe-mint:@/tmp/.ICE-unix/2384,unix/bombe-mint:/tmp/.ICE-unix/2384",
+    "CLUTTER_IM_MODULE=ibus",
+    "COLORTERM=truecolor",
+    "LANGUAGE=en_US",
+    "SSH_AUTH_SOCK=/run/user/1000/keyring/ssh",
+    "LC_TELEPHONE=de_DE.UTF-8",
+    "XDG_SESSION_DESKTOP=cinnamon",
+    "XDG_SESSION_CLASS=user",
+    "LSCOLORS=Gxfxcxdxdxegedabagacad",
+    "VTE_VERSION=7600",
+    "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg",
+    "NVM_DIR=/home/bombe/.nvm",
+    "XDG_RUNTIME_DIR=/run/user/1000",
+    "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/bombe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop",
+    "QT_IM_MODULE=ibus",
+    "GNOME_TERMINAL_SERVICE=:1.121"
+  ],
+  stdio: [
+    { type: "pipe", readable: true, writable: false },
+    { type: "pipe", readable: false, writable: true },
+    { type: "pipe", readable: false, writable: true }
+  ]
+}
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in mathjs ... [0m[31mFAILED[0m [0m[38;5;245m(109ms)[0m
+Uncaught error from ./mathjs_3.9.0/mathjs.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./mixin-pro_0.6.0/mixin-pro.test.js[0m
+Arbitrary code execution in mixin-pro ... [0m[32mok[0m [0m[38;5;245m(3ms)[0m
+Uncaught error from ./mixin-pro_0.6.0/mixin-pro.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js[0m
+Arbitrary code execution in mobile-icon-resizer ...
+[0m[38;5;245m------- post-test output -------[0m
+NotFound: No such file or directory (os error 2): open '/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/appicon_1024.png'
+    at Object.openSync (ext:deno_fs/30_fs.js:528:15)
+    at Object.openSync (ext:deno_node/_fs/_fs_open.ts:100:15)
+    at syncFileToBuffer (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mobile-icon-resizer_0.4.0/node_modules/.deno/image-size@0.2.5/node_modules/image-size/lib/index.js:64:23)
+    at module.exports (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mobile-icon-resizer_0.4.0/node_modules/.deno/image-size@0.2.5/node_modules/image-size/lib/index.js:97:5)
+    at resize (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mobile-icon-resizer_0.4.0/node_modules/.deno/mobile-icon-resizer@0.4.2/node_modules/mobile-icon-resizer/lib/resize.js:157:20)
+    at file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:20:5
+    at innerWrapped (ext:cli/40_test.js:180:11)
+    at exitSanitizer (ext:cli/40_test.js:96:33)
+    at outerWrapped (ext:cli/40_test.js:123:20) {
+  name: "NotFound",
+  code: "ENOENT"
+}
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in mobile-icon-resizer ... [0m[31mFAILED[0m [0m[38;5;245m(22ms)[0m
+Uncaught error from ./mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./modjs_0.4.0/modjs.test.js[0m
+Arbitrary code execution in modjs ...
+[0m[38;5;245m------- post-test output -------[0m
+(node:696240) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in modjs ... [0m[32mok[0m [0m[38;5;245m(76ms)[0m
+[0m[38;5;245m------- post-test output -------[0m
+[31m[39m <span style="color:red;">Error: AssertionCounter was not cleaned up: If tests are not otherwise failing, ensure `expect.hasAssertion` and `expect.assertions` are only run in bdd tests
+    at AssertionState.#ensureCleanedUp (https://jsr.io/@std/internal/1.0.9/assertion_state.ts:56:13)
+    at https://jsr.io/@std/internal/1.0.9/assertion_state.ts:32:30
+    at innerInvokeEventListeners (ext:deno_web/02_event.js:780:7)
+    at invokeEventListeners (ext:deno_web/02_event.js:823:5)
+    at dispatch (ext:deno_web/02_event.js:677:9)
+    at dispatchEvent (ext:deno_web/02_event.js:1067:12)
+    at dispatchUnloadEvent (ext:runtime_main/js/99_main.js:476:15)</span>
+[0m[38;5;245m----- post-test output end -----[0m
+[0m[38;5;245mrunning 1 test from ./modulify_0.1.0/modulify.test.js[0m
+Arbitrary code execution in modulify ... [0m[32mok[0m [0m[38;5;245m(2ms)[0m
+Uncaught error from ./modulify_0.1.0/modulify.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./mol-proto_0.1.3/mol-proto.test.js[0m
+Arbitrary code execution in mol-proto ... [0m[32mok[0m [0m[38;5;245m(17ms)[0m
+Uncaught error from ./mol-proto_0.1.3/mol-proto.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./mongo-parse_2.1.0/mongo-parse.test.js[0m
+Arbitrary code execution in mongo-parse ...
+[0m[38;5;245m------- post-test output -------[0m
+File removed: ./mongo-parse
+TypeError: Cannot read properties of undefined (reading 'require')
+    at eval (eval at parseQuery (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mongo-parse_2.1.0/node_modules/.deno/mongo-parse@2.1.0/node_modules/mongo-parse/mongoParse.js:93:34), <anonymous>:3:102)
+    at parseQuery (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mongo-parse_2.1.0/node_modules/.deno/mongo-parse@2.1.0/node_modules/mongo-parse/mongoParse.js:93:99)
+    at new Parse (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mongo-parse_2.1.0/node_modules/.deno/mongo-parse@2.1.0/node_modules/mongo-parse/mongoParse.js:10:18)
+    at Object.exports.parse (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mongo-parse_2.1.0/node_modules/.deno/mongo-parse@2.1.0/node_modules/mongo-parse/mongoParse.js:26:12)
+    at file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mongo-parse_2.1.0/mongo-parse.test.js:22:24
+    at innerWrapped (ext:cli/40_test.js:180:11)
+    at exitSanitizer (ext:cli/40_test.js:96:33)
+    at outerWrapped (ext:cli/40_test.js:123:20)
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in mongo-parse ... [0m[31mFAILED[0m [0m[38;5;245m(13ms)[0m
+Uncaught error from ./mongo-parse_2.1.0/mongo-parse.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./mongoosemask_0.0.6/mongoosemask.test.js[0m
+Arbitrary code execution in mongoosemask ... [0m[32mok[0m [0m[38;5;245m(16ms)[0m
+Uncaught error from ./mongoosemask_0.0.6/mongoosemask.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./mosc_1.0.0/mosc.test.js[0m
+Arbitrary code execution in mosc ... [0m[32mok[0m [0m[38;5;245m(2ms)[0m
+Uncaught error from ./mosc_1.0.0/mosc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./node-extend_0.2.0/node-extend.test.js[0m
+Arbitrary code execution in node-extend ...
+[0m[38;5;245m------- post-test output -------[0m
+
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in node-extend ... [0m[31mFAILED[0m [0m[38;5;245m(3ms)[0m
+Uncaught error from ./node-extend_0.2.0/node-extend.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./node-rules_3.0.0/node-rules.test.js[0m
+Arbitrary code execution in node-rules ... [0m[31mFAILED[0m [0m[38;5;245m(16ms)[0m
+Uncaught error from ./node-rules_3.0.0/node-rules.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./node-serialize_0.0.3/node-serialize.test.js[0m
+Arbitrary code execution in node-serialize ... [0m[32mok[0m [0m[38;5;245m(2ms)[0m
+Uncaught error from ./node-serialize_0.0.3/node-serialize.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./open_0.0.5/open.test.js[0m
+Arbitrary code execution in open ...
+[0m[38;5;245m------- post-test output -------[0m
+File removed: ./open
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in open ... [0m[32mok[0m [0m[38;5;245m(15ms)[0m
+Uncaught error from ./open_0.0.5/open.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./pixl-class_1.0.0/pixl-class.test.js[0m
+Arbitrary code execution in pixl-class ...
+[0m[38;5;245m------- post-test output -------[0m
+File removed: ./pixl-class
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in pixl-class ... [0m[31mFAILED[0m [0m[38;5;245m(3ms)[0m
+Uncaught error from ./pixl-class_1.0.0/pixl-class.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./realms-shim_1.1.0/realms-shim.test.js[0m
+Arbitrary code execution in realms-shim ... [0m[31mFAILED[0m [0m[38;5;245m(14ms)[0m
+Uncaught error from ./realms-shim_1.1.0/realms-shim.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./reduce-css-calc_1.2.0/reduce-css-calc.test.js[0m
+Arbitrary code execution in reduce-css-calc ...
+[0m[38;5;245m------- post-test output -------[0m
+NaN
+NaN
+NaN
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in reduce-css-calc ... [0m[32mok[0m [0m[38;5;245m(12ms)[0m
+Uncaught error from ./reduce-css-calc_1.2.0/reduce-css-calc.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./safe-eval_0.2.0/safe-eval.test.js[0m
+Arbitrary code execution in safe-eval ... [0m[32mok[0m [0m[38;5;245m(2ms)[0m
+Uncaught error from ./safe-eval_0.2.0/safe-eval.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./safer-eval_1.3.1/safer-eval.test.js[0m
+Arbitrary code execution in safer-eval ... [0m[32mok[0m [0m[38;5;245m(12ms)[0m
+Uncaught error from ./safer-eval_1.3.1/safer-eval.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./serialize-javascript_2.0.0/serialize-javascript.test.js[0m
+Arbitrary code execution in serialize-javascript ... [0m[31mFAILED[0m [0m[38;5;245m(2ms)[0m
+Uncaught error from ./serialize-javascript_2.0.0/serialize-javascript.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./serialize-to-js_0.5.0/serialize-to-js.test.js[0m
+Arbitrary code execution in serialize-to-js ...
+[0m[38;5;245m------- post-test output -------[0m
+{
+  file: "touch",
+  args: [ "touch", "serialize-to-js" ],
+  envPairs: [
+    "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1",
+    "HISTSIZE=2147450879",
+    "XDG_SESSION_CLASS=user",
+    "PAGER=less",
+    "SHLVL=1",
+    "XDG_SEAT=seat0",
+    "QT_ACCESSIBILITY=1",
+    "GDM_LANG=en_US",
+    "XDG_SESSION_ID=c2",
+    "LC_NUMERIC=de_DE.UTF-8",
+    "NVM_DIR=/home/bombe/.nvm",
+    "LC_IDENTIFICATION=de_DE.UTF-8",
+    "QT_IM_MODULE=ibus",
+    "PATH=/home/bombe/.deno/bin:/usr/lib/ccache:/home/bombe/UniSaarland/CPSS/ardupilot/Tools/autotest:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/home/bombe/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bombe/.foundry/bin",
+    "LOGNAME=bombe",
+    "LC_MEASUREMENT=de_DE.UTF-8",
+    "XDG_SESSION_DESKTOP=cinnamon",
+    "XDG_CURRENT_DESKTOP=X-Cinnamon",
+    "SHELL=/bin/bash",
+    "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg",
+    "DESKTOP_SESSION=cinnamon",
+    "LESSOPEN=| /usr/bin/lesspipe %s",
+    "OLDPWD=/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/path-traversal",
+    "LESSCLOSE=/usr/bin/lesspipe %s %s",
+    "LSCOLORS=Gxfxcxdxdxegedabagacad",
+    "XDG_RUNTIME_DIR=/run/user/1000",
+    "GNOME_TERMINAL_SERVICE=:1.121",
+    "OSH=/home/bombe/.oh-my-bash",
+    "_=/home/bombe/.deno/bin/deno",
+    "PWD=/home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection",
+    "LC_ADDRESS=de_DE.UTF-8",
+    "XDG_SESSION_TYPE=x11",
+    "USER=bombe",
+    "TERM=xterm-256color",
+    "SESSION_MANAGER=local/bombe-mint:@/tmp/.ICE-unix/2384,unix/bombe-mint:/tmp/.ICE-unix/2384",
+    "XAUTHORITY=/home/bombe/.Xauthority",
+    "DISPLAY=:0",
+    "LESS=-R",
+    "HISTFILESIZE=2147450879",
+    "DESKTOP_AUTOSTART_ID=1036d3494b3a997425175292675122236300000023840022",
+    "GTK_IM_MODULE=ibus",
+    "COLORTERM=truecolor",
+    "GNOME_KEYRING_CONTROL=/run/user/1000/keyring",
+    "GNOME_DESKTOP_SESSION_ID=this-is-deprecated",
+    "LC_NAME=de_DE.UTF-8",
+    "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/bombe",
+    "XDG_VTNR=7",
+    "LC_MONETARY=de_DE.UTF-8",
+    "LC_PAPER=de_DE.UTF-8",
+    "SSH_AUTH_SOCK=/run/user/1000/keyring/ssh",
+    "LC_CTYPE=en_US.UTF-8",
+    "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0",
+    "LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:",
+    "XMODIFIERS=@im=ibus",
+    "GTK3_MODULES=xapp-gtk3-module",
+    "LANG=en_US.UTF-8",
+    "LANGUAGE=en_US",
+    "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/bombe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop",
+    "VTE_VERSION=7600",
+    "CLUTTER_IM_MODULE=ibus",
+    "GDMSESSION=cinnamon",
+    "LC_TELEPHONE=de_DE.UTF-8",
+    "HOME=/home/bombe",
+    "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0",
+    "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus",
+    "GTK_MODULES=gail:atk-bridge",
+    "GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/c6fe3b27_f893_4a33_ac73_f55e920e5686"
+  ],
+  stdio: [
+    { type: "pipe", readable: true, writable: false },
+    { type: "pipe", readable: false, writable: true },
+    { type: "pipe", readable: false, writable: true }
+  ]
+}
+[0m[38;5;245m----- post-test output end -----[0m
+Arbitrary code execution in serialize-to-js ... [0m[31mFAILED[0m [0m[38;5;245m(17ms)[0m
+Uncaught error from ./serialize-to-js_0.5.0/serialize-to-js.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./static-eval_1.1.1/static-eval.test.js[0m
+Arbitrary code execution in static-eval ... [0m[32mok[0m [0m[38;5;245m(25ms)[0m
+Uncaught error from ./static-eval_1.1.1/static-eval.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./thenify_3.3.0/thenify.test.js[0m
+Arbitrary code execution in thenify ... [0m[32mok[0m [0m[38;5;245m(11ms)[0m
+Uncaught error from ./thenify_3.3.0/thenify.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./underscore_1.13.0-0/underscore.test.js[0m
+Arbitrary code execution in underscore ... [0m[31mFAILED[0m [0m[38;5;245m(13ms)[0m
+Uncaught error from ./underscore_1.13.0-0/underscore.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./value-censorship_1.1.0/value-censorship.test.js[0m
+Arbitrary code execution in  value-censorship ... [0m[32mok[0m [0m[38;5;245m(33ms)[0m
+Uncaught error from ./value-censorship_1.1.0/value-censorship.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./veval_1.0.0/veval.test.js[0m
+Arbitrary code execution in veval ... [0m[32mok[0m [0m[38;5;245m(3ms)[0m
+Uncaught error from ./veval_1.0.0/veval.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./wifiscanner_1.0.1/wifiscanner.test.js[0m
+Arbitrary code execution in wifiscanner ... [0m[31mFAILED[0m [0m[38;5;245m(23ms)[0m
+Uncaught error from ./wifiscanner_1.0.1/wifiscanner.test.js [0m[31mFAILED[0m
+[0m[38;5;245mrunning 1 test from ./zhaoyao91-eval-in-vm_0.0.0/zhaoyao91_eval-in-vm.test.js[0m
+Arbitrary code execution in @zhaoyao91/eval-in-vm ... [0m[32mok[0m [0m[38;5;245m(2ms)[0m
+Uncaught error from ./zhaoyao91-eval-in-vm_0.0.0/zhaoyao91_eval-in-vm.test.js [0m[31mFAILED[0m
+
+[0m[1m[37m[41m ERRORS [0m
+
+./access-policy_3.1.0/access-policy.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cd-messenger_2.7.24/poc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./djv_2.0.0/djv.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./hot-formula-parser_3.0.0/hot-formula-parser.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./is-my-json-valid_2.20.0/is-my-json-valid.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./js-yaml_3.13.0/js-yaml.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in jsen [0m[38;5;245m=> ./jsen_0.6.6/jsen.test.js:4:6[0m
+[0m[1m[31merror[0m: AssertionError: Values are not strictly equal.
+
+
+    [90m[1m[Diff][22m[39m [31m[1mActual[22m[39m / [32m[1mExpected[22m[39m
+
+
+[31m[1m-   false[22m[39m
+[32m[1m+   true[22m[39m
+
+  throw new AssertionError(message);
+[0m[31m        ^[0m
+    at [0m[1m[3massertStrictEquals[0m ([0m[36mhttps://jsr.io/@std/assert/1.0.13/strict_equals.ts[0m:[0m[33m66[0m:[0m[33m9[0m)
+    at [0m[1m[3mtoBe[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/_matchers.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at [0m[1m[3mapplyMatcher[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m223[0m:[0m[33m13[0m)
+    at [0m[1m[3mProxy.<anonymous>[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m233[0m:[0m[33m13[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/jsen_0.6.6/jsen.test.js[0m:[0m[33m29[0m:[0m[33m22[0m
+
+./jsen_0.6.6/jsen.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in json-ptr [0m[38;5;245m=> ./json-ptr_2.0.0/json-ptr.test.js:4:6[0m
+[0m[1m[31merror[0m: AssertionError: Values are not strictly equal.
+
+
+    [90m[1m[Diff][22m[39m [31m[1mActual[22m[39m / [32m[1mExpected[22m[39m
+
+
+[31m[1m-   false[22m[39m
+[32m[1m+   true[22m[39m
+
+  throw new AssertionError(message);
+[0m[31m        ^[0m
+    at [0m[1m[3massertStrictEquals[0m ([0m[36mhttps://jsr.io/@std/assert/1.0.13/strict_equals.ts[0m:[0m[33m66[0m:[0m[33m9[0m)
+    at [0m[1m[3mtoBe[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/_matchers.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at [0m[1m[3mapplyMatcher[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m223[0m:[0m[33m13[0m)
+    at [0m[1m[3mProxy.<anonymous>[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m233[0m:[0m[33m13[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/json-ptr_2.0.0/json-ptr.test.js[0m:[0m[33m23[0m:[0m[33m22[0m
+
+./json-ptr_2.0.0/json-ptr.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./kmc_1.2.2/kmc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./local-devices_2.0.0/local-devices.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in m-log [0m[38;5;245m=> ./m-log_0.0.1/m-log.test.js:4:6[0m
+[0m[1m[31merror[0m: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./m-log_0.0.1/m-log.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./marsdb_0.6.11/marsdb.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in mathjs [0m[38;5;245m=> ./mathjs_3.10.3/mathjs.test.js:4:6[0m
+[0m[1m[31merror[0m: AssertionError: Values are not strictly equal.
+
+
+    [90m[1m[Diff][22m[39m [31m[1mActual[22m[39m / [32m[1mExpected[22m[39m
+
+
+[31m[1m-   false[22m[39m
+[32m[1m+   true[22m[39m
+
+  throw new AssertionError(message);
+[0m[31m        ^[0m
+    at [0m[1m[3massertStrictEquals[0m ([0m[36mhttps://jsr.io/@std/assert/1.0.13/strict_equals.ts[0m:[0m[33m66[0m:[0m[33m9[0m)
+    at [0m[1m[3mtoBe[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/_matchers.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at [0m[1m[3mapplyMatcher[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m223[0m:[0m[33m13[0m)
+    at [0m[1m[3mProxy.<anonymous>[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m233[0m:[0m[33m13[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mathjs_3.10.3/mathjs.test.js[0m:[0m[33m19[0m:[0m[33m22[0m
+
+./mathjs_3.10.3/mathjs.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in mathjs [0m[38;5;245m=> ./mathjs_3.9.0/mathjs.test.js:4:6[0m
+[0m[1m[31merror[0m: AssertionError: Values are not strictly equal.
+
+
+    [90m[1m[Diff][22m[39m [31m[1mActual[22m[39m / [32m[1mExpected[22m[39m
+
+
+[31m[1m-   false[22m[39m
+[32m[1m+   true[22m[39m
+
+  throw new AssertionError(message);
+[0m[31m        ^[0m
+    at [0m[1m[3massertStrictEquals[0m ([0m[36mhttps://jsr.io/@std/assert/1.0.13/strict_equals.ts[0m:[0m[33m66[0m:[0m[33m9[0m)
+    at [0m[1m[3mtoBe[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/_matchers.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at [0m[1m[3mapplyMatcher[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m223[0m:[0m[33m13[0m)
+    at [0m[1m[3mProxy.<anonymous>[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m233[0m:[0m[33m13[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/mathjs_3.9.0/mathjs.test.js[0m:[0m[33m19[0m:[0m[33m22[0m
+
+./mathjs_3.9.0/mathjs.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./mixin-pro_0.6.0/mixin-pro.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in mobile-icon-resizer [0m[38;5;245m=> ./mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:4:6[0m
+[0m[1m[31merror[0m: Leaks detected:
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./modulify_0.1.0/modulify.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./mol-proto_0.1.3/mol-proto.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in mongo-parse [0m[38;5;245m=> ./mongo-parse_2.1.0/mongo-parse.test.js:4:6[0m
+[0m[1m[31merror[0m: Leaks detected:
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./mongo-parse_2.1.0/mongo-parse.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./mongoosemask_0.0.6/mongoosemask.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./mosc_1.0.0/mosc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in node-extend [0m[38;5;245m=> ./node-extend_0.2.0/node-extend.test.js:4:6[0m
+[0m[1m[31merror[0m: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./node-extend_0.2.0/node-extend.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in node-rules [0m[38;5;245m=> ./node-rules_3.0.0/node-rules.test.js:4:6[0m
+[0m[1m[31merror[0m: AssertionError: Values are not strictly equal.
+
+
+    [90m[1m[Diff][22m[39m [31m[1mActual[22m[39m / [32m[1mExpected[22m[39m
+
+
+[31m[1m-   false[22m[39m
+[32m[1m+   true[22m[39m
+
+  throw new AssertionError(message);
+[0m[31m        ^[0m
+    at [0m[1m[3massertStrictEquals[0m ([0m[36mhttps://jsr.io/@std/assert/1.0.13/strict_equals.ts[0m:[0m[33m66[0m:[0m[33m9[0m)
+    at [0m[1m[3mtoBe[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/_matchers.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at [0m[1m[3mapplyMatcher[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m223[0m:[0m[33m13[0m)
+    at [0m[1m[3mProxy.<anonymous>[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m233[0m:[0m[33m13[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/node-rules_3.0.0/node-rules.test.js[0m:[0m[33m21[0m:[0m[33m22[0m
+
+./node-rules_3.0.0/node-rules.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./node-serialize_0.0.3/node-serialize.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./open_0.0.5/open.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in pixl-class [0m[38;5;245m=> ./pixl-class_1.0.0/pixl-class.test.js:4:6[0m
+[0m[1m[31merror[0m: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./pixl-class_1.0.0/pixl-class.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in realms-shim [0m[38;5;245m=> ./realms-shim_1.1.0/realms-shim.test.js:4:6[0m
+[0m[1m[31merror[0m: AssertionError: Values are not strictly equal.
+
+
+    [90m[1m[Diff][22m[39m [31m[1mActual[22m[39m / [32m[1mExpected[22m[39m
+
+
+[31m[1m-   undefined[22m[39m
+[32m[1m+   "yes"[22m[39m
+
+  throw new AssertionError(message);
+[0m[31m        ^[0m
+    at [0m[1m[3massertStrictEquals[0m ([0m[36mhttps://jsr.io/@std/assert/1.0.13/strict_equals.ts[0m:[0m[33m66[0m:[0m[33m9[0m)
+    at [0m[1m[3mtoBe[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/_matchers.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at [0m[1m[3mapplyMatcher[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m223[0m:[0m[33m13[0m)
+    at [0m[1m[3mProxy.<anonymous>[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m233[0m:[0m[33m13[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/realms-shim_1.1.0/realms-shim.test.js[0m:[0m[33m21[0m:[0m[33m23[0m
+
+./realms-shim_1.1.0/realms-shim.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./reduce-css-calc_1.2.0/reduce-css-calc.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./safe-eval_0.2.0/safe-eval.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./safer-eval_1.3.1/safer-eval.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in serialize-javascript [0m[38;5;245m=> ./serialize-javascript_2.0.0/serialize-javascript.test.js:4:6[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'constructor')
+          this.constructor
+[0m[31m               ^[0m
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/serialize-javascript_2.0.0/serialize-javascript.test.js[0m:[0m[33m17[0m:[0m[33m16[0m
+
+./serialize-javascript_2.0.0/serialize-javascript.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in serialize-to-js [0m[38;5;245m=> ./serialize-to-js_0.5.0/serialize-to-js.test.js:4:6[0m
+[0m[1m[31merror[0m: AssertionError: Values are not strictly equal.
+
+
+    [90m[1m[Diff][22m[39m [31m[1mActual[22m[39m / [32m[1mExpected[22m[39m
+
+
+[31m[1m-   false[22m[39m
+[32m[1m+   true[22m[39m
+
+  throw new AssertionError(message);
+[0m[31m        ^[0m
+    at [0m[1m[3massertStrictEquals[0m ([0m[36mhttps://jsr.io/@std/assert/1.0.13/strict_equals.ts[0m:[0m[33m66[0m:[0m[33m9[0m)
+    at [0m[1m[3mtoBe[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/_matchers.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at [0m[1m[3mapplyMatcher[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m223[0m:[0m[33m13[0m)
+    at [0m[1m[3mProxy.<anonymous>[0m ([0m[36mhttps://jsr.io/@std/expect/1.0.16/expect.ts[0m:[0m[33m233[0m:[0m[33m13[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/serialize-to-js_0.5.0/serialize-to-js.test.js[0m:[0m[33m18[0m:[0m[33m22[0m
+
+./serialize-to-js_0.5.0/serialize-to-js.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./static-eval_1.1.1/static-eval.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./thenify_3.3.0/thenify.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in underscore [0m[38;5;245m=> ./underscore_1.13.0-0/underscore.test.js:4:6[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'require')
+    at [0m[1m[3meval[0m ([0m[36meval at template (file:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/underscore_1.13.0-0/node_modules/.deno/underscore@1.13.0-0/node_modules/underscore/underscore-node-f.cjs:906:14)[0m, [0m[36m<anonymous>[0m:[0m[33m1[0m:[0m[33m84[0m)
+    at [0m[1m[3mtemplate[0m ([0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/underscore_1.13.0-0/node_modules/.deno/underscore@1.13.0-0/node_modules/underscore/underscore-node-f.cjs[0m:[0m[33m913[0m:[0m[33m19[0m)
+    at [0m[36mfile:///home/bombe/UniSaarland/Websec-Seminar/deno-SecBench.js/code-injection/underscore_1.13.0-0/underscore.test.js[0m:[0m[33m14[0m:[0m[33m32[0m
+
+./underscore_1.13.0-0/underscore.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./value-censorship_1.1.0/value-censorship.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./veval_1.0.0/veval.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+Arbitrary code execution in wifiscanner [0m[38;5;245m=> ./wifiscanner_1.0.1/wifiscanner.test.js:8:6[0m
+[0m[1m[31merror[0m: Leaks detected:
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./wifiscanner_1.0.1/wifiscanner.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./zhaoyao91-eval-in-vm_0.0.0/zhaoyao91_eval-in-vm.test.js (uncaught error)
+[0m[1m[31merror[0m: [1mnull[22m
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+[0m[1m[37m[41m FAILURES [0m
+
+./access-policy_3.1.0/access-policy.test.js (uncaught error)
+./cd-messenger_2.7.24/poc.test.js (uncaught error)
+./djv_2.0.0/djv.test.js (uncaught error)
+./hot-formula-parser_3.0.0/hot-formula-parser.test.js (uncaught error)
+./is-my-json-valid_2.20.0/is-my-json-valid.test.js (uncaught error)
+./js-yaml_3.13.0/js-yaml.test.js (uncaught error)
+Arbitrary code execution in jsen [0m[38;5;245m=> ./jsen_0.6.6/jsen.test.js:4:6[0m
+./jsen_0.6.6/jsen.test.js (uncaught error)
+Arbitrary code execution in json-ptr [0m[38;5;245m=> ./json-ptr_2.0.0/json-ptr.test.js:4:6[0m
+./json-ptr_2.0.0/json-ptr.test.js (uncaught error)
+./kmc_1.2.2/kmc.test.js (uncaught error)
+./local-devices_2.0.0/local-devices.test.js (uncaught error)
+Arbitrary code execution in m-log [0m[38;5;245m=> ./m-log_0.0.1/m-log.test.js:4:6[0m
+./m-log_0.0.1/m-log.test.js (uncaught error)
+./marsdb_0.6.11/marsdb.test.js (uncaught error)
+Arbitrary code execution in mathjs [0m[38;5;245m=> ./mathjs_3.10.3/mathjs.test.js:4:6[0m
+./mathjs_3.10.3/mathjs.test.js (uncaught error)
+Arbitrary code execution in mathjs [0m[38;5;245m=> ./mathjs_3.9.0/mathjs.test.js:4:6[0m
+./mathjs_3.9.0/mathjs.test.js (uncaught error)
+./mixin-pro_0.6.0/mixin-pro.test.js (uncaught error)
+Arbitrary code execution in mobile-icon-resizer [0m[38;5;245m=> ./mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js:4:6[0m
+./mobile-icon-resizer_0.4.0/mobile-icon-resizer.test.js (uncaught error)
+./modulify_0.1.0/modulify.test.js (uncaught error)
+./mol-proto_0.1.3/mol-proto.test.js (uncaught error)
+Arbitrary code execution in mongo-parse [0m[38;5;245m=> ./mongo-parse_2.1.0/mongo-parse.test.js:4:6[0m
+./mongo-parse_2.1.0/mongo-parse.test.js (uncaught error)
+./mongoosemask_0.0.6/mongoosemask.test.js (uncaught error)
+./mosc_1.0.0/mosc.test.js (uncaught error)
+Arbitrary code execution in node-extend [0m[38;5;245m=> ./node-extend_0.2.0/node-extend.test.js:4:6[0m
+./node-extend_0.2.0/node-extend.test.js (uncaught error)
+Arbitrary code execution in node-rules [0m[38;5;245m=> ./node-rules_3.0.0/node-rules.test.js:4:6[0m
+./node-rules_3.0.0/node-rules.test.js (uncaught error)
+./node-serialize_0.0.3/node-serialize.test.js (uncaught error)
+./open_0.0.5/open.test.js (uncaught error)
+Arbitrary code execution in pixl-class [0m[38;5;245m=> ./pixl-class_1.0.0/pixl-class.test.js:4:6[0m
+./pixl-class_1.0.0/pixl-class.test.js (uncaught error)
+Arbitrary code execution in realms-shim [0m[38;5;245m=> ./realms-shim_1.1.0/realms-shim.test.js:4:6[0m
+./realms-shim_1.1.0/realms-shim.test.js (uncaught error)
+./reduce-css-calc_1.2.0/reduce-css-calc.test.js (uncaught error)
+./safe-eval_0.2.0/safe-eval.test.js (uncaught error)
+./safer-eval_1.3.1/safer-eval.test.js (uncaught error)
+Arbitrary code execution in serialize-javascript [0m[38;5;245m=> ./serialize-javascript_2.0.0/serialize-javascript.test.js:4:6[0m
+./serialize-javascript_2.0.0/serialize-javascript.test.js (uncaught error)
+Arbitrary code execution in serialize-to-js [0m[38;5;245m=> ./serialize-to-js_0.5.0/serialize-to-js.test.js:4:6[0m
+./serialize-to-js_0.5.0/serialize-to-js.test.js (uncaught error)
+./static-eval_1.1.1/static-eval.test.js (uncaught error)
+./thenify_3.3.0/thenify.test.js (uncaught error)
+Arbitrary code execution in underscore [0m[38;5;245m=> ./underscore_1.13.0-0/underscore.test.js:4:6[0m
+./underscore_1.13.0-0/underscore.test.js (uncaught error)
+./value-censorship_1.1.0/value-censorship.test.js (uncaught error)
+./veval_1.0.0/veval.test.js (uncaught error)
+Arbitrary code execution in wifiscanner [0m[38;5;245m=> ./wifiscanner_1.0.1/wifiscanner.test.js:8:6[0m
+./wifiscanner_1.0.1/wifiscanner.test.js (uncaught error)
+./zhaoyao91-eval-in-vm_0.0.0/zhaoyao91_eval-in-vm.test.js (uncaught error)
+
+[0m[31mFAILED[0m | 25 passed | 54 failed [0m[38;5;245m(3s)[0m
+

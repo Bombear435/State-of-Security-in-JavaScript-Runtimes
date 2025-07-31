@@ -1,0 +1,2691 @@
+
+async-git_1.13.1/async-git.test.js
+Uncaught error from ./async-git_1.13.1/async-git.test.js FAILED
+running 0 tests from ./async-git_1.13.1/async-git.test.js
+
+ ERRORS 
+
+./async-git_1.13.1/async-git.test.js (uncaught error)
+error: SyntaxError: Identifier 'file_exist' has already been declared
+  let file_exist = fs.existsSync(path);
+      ^
+    at <anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/async-git_1.13.1/async-git.test.js:24:7)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./async-git_1.13.1/async-git.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (4ms)
+
+error: Test failed
+TEST FAILED
+roar-pidusage_1.1.6/roar-pidusage.test.js
+running 1 test from ./roar-pidusage_1.1.6/roar-pidusage.test.js
+Command Injection in roar-pidusage ... ok (25ms)
+Uncaught error from ./roar-pidusage_1.1.6/roar-pidusage.test.js FAILED
+
+ ERRORS 
+
+./roar-pidusage_1.1.6/roar-pidusage.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./roar-pidusage_1.1.6/roar-pidusage.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (30ms)
+
+error: Test failed
+TEST FAILED
+gitblame_0.1.1/gitblame.test.js
+running 1 test from ./gitblame_0.1.1/gitblame.test.js
+Command Injection in gitblame ... FAILED (26ms)
+Uncaught error from ./gitblame_0.1.1/gitblame.test.js FAILED
+
+ ERRORS 
+
+Command Injection in gitblame => ./gitblame_0.1.1/gitblame.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./gitblame_0.1.1/gitblame.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in gitblame => ./gitblame_0.1.1/gitblame.test.js:6:6
+./gitblame_0.1.1/gitblame.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (33ms)
+
+error: Test failed
+TEST FAILED
+git-add-remote_1.0.0/git-add-remote.test.js
+running 1 test from ./git-add-remote_1.0.0/git-add-remote.test.js
+Command Injection in git-add-remote ... ok (21ms)
+Uncaught error from ./git-add-remote_1.0.0/git-add-remote.test.js FAILED
+
+ ERRORS 
+
+./git-add-remote_1.0.0/git-add-remote.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./git-add-remote_1.0.0/git-add-remote.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (26ms)
+
+error: Test failed
+TEST FAILED
+pdfinfojs_0.3.6/pdfinfojs.test.js
+running 1 test from ./pdfinfojs_0.3.6/pdfinfojs.test.js
+Command Injection in pdfinfojs ... FAILED (41ms)
+Uncaught error from ./pdfinfojs_0.3.6/pdfinfojs.test.js FAILED
+
+ ERRORS 
+
+Command Injection in pdfinfojs => ./pdfinfojs_0.3.6/pdfinfojs.test.js:6:6
+error: ReferenceError: pdf is not defined
+  pdf = new pdfinfo("$(touch pdfinfojs)");
+      ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/pdfinfojs_0.3.6/pdfinfojs.test.js:20:7
+
+./pdfinfojs_0.3.6/pdfinfojs.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in pdfinfojs => ./pdfinfojs_0.3.6/pdfinfojs.test.js:6:6
+./pdfinfojs_0.3.6/pdfinfojs.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (49ms)
+
+error: Test failed
+TEST FAILED
+psnode_0.0.1/psnode.test.js
+running 1 test from ./psnode_0.0.1/psnode.test.js
+Command Injection in psnode ... FAILED (21ms)
+Uncaught error from ./psnode_0.0.1/psnode.test.js FAILED
+
+ ERRORS 
+
+Command Injection in psnode => ./psnode_0.0.1/psnode.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./psnode_0.0.1/psnode.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in psnode => ./psnode_0.0.1/psnode.test.js:6:6
+./psnode_0.0.1/psnode.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (28ms)
+
+error: Test failed
+TEST FAILED
+git-tags-remote_1.0.2/git-tags-remote.test.js
+running 1 test from ./git-tags-remote_1.0.2/git-tags-remote.test.js
+Command Injection in git-tags-remote ... FAILED (393ms)
+Uncaught error from ./git-tags-remote_1.0.2/git-tags-remote.test.js FAILED
+
+ ERRORS 
+
+Command Injection in git-tags-remote => ./git-tags-remote_1.0.2/git-tags-remote.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./git-tags-remote_1.0.2/git-tags-remote.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in git-tags-remote => ./git-tags-remote_1.0.2/git-tags-remote.test.js:6:6
+./git-tags-remote_1.0.2/git-tags-remote.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (405ms)
+
+error: Test failed
+TEST FAILED
+adb-driver_0.1.8/adb-driver.test.js
+running 1 test from ./adb-driver_0.1.8/adb-driver.test.js
+Command Injection in adb-driver ... FAILED (21ms)
+Uncaught error from ./adb-driver_0.1.8/adb-driver.test.js FAILED
+
+ ERRORS 
+
+Command Injection in adb-driver => ./adb-driver_0.1.8/adb-driver.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   false
++   true
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/adb-driver_0.1.8/adb-driver.test.js:22:24
+    at <anonymous>
+
+./adb-driver_0.1.8/adb-driver.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in adb-driver => ./adb-driver_0.1.8/adb-driver.test.js:6:6
+./adb-driver_0.1.8/adb-driver.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (27ms)
+
+error: Test failed
+TEST FAILED
+im-resize_2.3.2/im-resize.test.js
+running 1 test from ./im-resize_2.3.2/im-resize.test.js
+Command Injection in im-resize ... FAILED (18ms)
+Uncaught error from ./im-resize_2.3.2/im-resize.test.js FAILED
+
+ ERRORS 
+
+Command Injection in im-resize => ./im-resize_2.3.2/im-resize.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./im-resize_2.3.2/im-resize.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in im-resize => ./im-resize_2.3.2/im-resize.test.js:6:6
+./im-resize_2.3.2/im-resize.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (23ms)
+
+error: Test failed
+TEST FAILED
+onion-oled-js_0.0.2/onion-old-js.test.js
+running 1 test from ./onion-oled-js_0.0.2/onion-old-js.test.js
+Command Injection in onion-oled-js ... ok (23ms)
+Uncaught error from ./onion-oled-js_0.0.2/onion-old-js.test.js FAILED
+
+ ERRORS 
+
+./onion-oled-js_0.0.2/onion-old-js.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./onion-oled-js_0.0.2/onion-old-js.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (28ms)
+
+error: Test failed
+TEST FAILED
+aaptjs_1.3.1/aaptjs.test.js
+running 1 test from ./aaptjs_1.3.1/aaptjs.test.js
+Remote code execution in aaptjs ...
+------- output -------
+ERROR: specify zip file name (only)
+----- output end -----
+Remote code execution in aaptjs ... FAILED (31ms)
+Uncaught error from ./aaptjs_1.3.1/aaptjs.test.js FAILED
+
+ ERRORS 
+
+Remote code execution in aaptjs => ./aaptjs_1.3.1/aaptjs.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./aaptjs_1.3.1/aaptjs.test.js (uncaught error)
+error: (in promise) TypeError: done is not a function
+        done();
+        ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/aaptjs_1.3.1/aaptjs.test.js:24:9
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Remote code execution in aaptjs => ./aaptjs_1.3.1/aaptjs.test.js:6:6
+./aaptjs_1.3.1/aaptjs.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (36ms)
+
+error: Test failed
+TEST FAILED
+umount_1.1.6/umount.test.js
+running 1 test from ./umount_1.1.6/umount.test.js
+Command Injection in umount ... FAILED (25ms)
+Uncaught error from ./umount_1.1.6/umount.test.js FAILED
+
+ ERRORS 
+
+Command Injection in umount => ./umount_1.1.6/umount.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./umount_1.1.6/umount.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in umount => ./umount_1.1.6/umount.test.js:6:6
+./umount_1.1.6/umount.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (30ms)
+
+error: Test failed
+TEST FAILED
+kill-by-port_0.0.1/kill-by-port.test.js
+running 1 test from ./kill-by-port_0.0.1/kill-by-port.test.js
+Command Injection in kill-by-port ...
+------- output -------
+lsof: unacceptable port specification in: -i :
+lsof 4.95.0
+ latest revision: https://github.com/lsof-org/lsof
+ latest FAQ: https://github.com/lsof-org/lsof/blob/master/00FAQ
+ latest (non-formatted) man page: https://github.com/lsof-org/lsof/blob/master/Lsof.8
+ usage: [-?abhKlnNoOPRtUvVX] [+|-c c] [+|-d s] [+D D] [+|-E] [+|-e s] [+|-f[gG]]
+ [-F [f]] [-g [s]] [-i [i]] [+|-L [l]] [+m [m]] [+|-M] [-o [o]] [-p s]
+ [+|-r [t]] [-s [p:s]] [-S [t]] [-T [t]] [-u s] [+|-w] [-x [fl]] [--] [names]
+Use the ``-h'' option to get more help information.
+----- output end -----
+Command Injection in kill-by-port ... ok (18ms)
+Uncaught error from ./kill-by-port_0.0.1/kill-by-port.test.js FAILED
+
+ ERRORS 
+
+./kill-by-port_0.0.1/kill-by-port.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./kill-by-port_0.0.1/kill-by-port.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (24ms)
+
+error: Test failed
+TEST FAILED
+git_0.1.5/git.test.js
+running 1 test from ./git_0.1.5/git.test.js
+Remote code execution in git ... FAILED (34ms)
+Uncaught error from ./git_0.1.5/git.test.js FAILED
+
+ ERRORS 
+
+Remote code execution in git => ./git_0.1.5/git.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./git_0.1.5/git.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Remote code execution in git => ./git_0.1.5/git.test.js:6:6
+./git_0.1.5/git.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (39ms)
+
+error: Test failed
+TEST FAILED
+node-unrar_0.1.0/node-unrar.test.js
+running 1 test from ./node-unrar_0.1.0/node-unrar.test.js
+Remote code execution in node-unrar ... FAILED (21ms)
+Uncaught error from ./node-unrar_0.1.0/node-unrar.test.js FAILED
+
+ ERRORS 
+
+Remote code execution in node-unrar => ./node-unrar_0.1.0/node-unrar.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./node-unrar_0.1.0/node-unrar.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Remote code execution in node-unrar => ./node-unrar_0.1.0/node-unrar.test.js:6:6
+./node-unrar_0.1.0/node-unrar.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (27ms)
+
+error: Test failed
+TEST FAILED
+node-ps_0.0.2/node-ps.test.js
+running 1 test from ./node-ps_0.0.2/node-ps.test.js
+Command Injection in node-ps ... FAILED (20ms)
+Uncaught error from ./node-ps_0.0.2/node-ps.test.js FAILED
+
+ ERRORS 
+
+Command Injection in node-ps => ./node-ps_0.0.2/node-ps.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./node-ps_0.0.2/node-ps.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in node-ps => ./node-ps_0.0.2/node-ps.test.js:6:6
+./node-ps_0.0.2/node-ps.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (25ms)
+
+error: Test failed
+TEST FAILED
+kill-process-by-name_1.0.5/kill-process-by-name.test.js
+running 1 test from ./kill-process-by-name_1.0.5/kill-process-by-name.test.js
+Command Injection in kill-process-by-name ... FAILED (26ms)
+Uncaught error from ./kill-process-by-name_1.0.5/kill-process-by-name.test.js FAILED
+
+ ERRORS 
+
+Command Injection in kill-process-by-name => ./kill-process-by-name_1.0.5/kill-process-by-name.test.js:6:6
+error: Leaks detected:
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./kill-process-by-name_1.0.5/kill-process-by-name.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in kill-process-by-name => ./kill-process-by-name_1.0.5/kill-process-by-name.test.js:6:6
+./kill-process-by-name_1.0.5/kill-process-by-name.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (32ms)
+
+error: Test failed
+TEST FAILED
+dns-sync_0.1.0/dns-sync.test.js
+running 1 test from ./dns-sync_0.1.0/dns-sync.test.js
+Command Injection in dns-sync ...^C
+SIGINT The following tests were pending:
+
+Command Injection in dns-sync => ./dns-sync_0.1.0/dns-sync.test.js:6:6
+
+TEST FAILED
+diskstats_0.0.2/diskstats.test.js
+running 1 test from ./diskstats_0.0.2/diskstats.test.js
+Command Injection in diskstats ... FAILED (22ms)
+Uncaught error from ./diskstats_0.0.2/diskstats.test.js FAILED
+
+ ERRORS 
+
+Command Injection in diskstats => ./diskstats_0.0.2/diskstats.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./diskstats_0.0.2/diskstats.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in diskstats => ./diskstats_0.0.2/diskstats.test.js:6:6
+./diskstats_0.0.2/diskstats.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (28ms)
+
+error: Test failed
+TEST FAILED
+corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js
+Uncaught error from ./corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js FAILED
+running 0 tests from ./corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js
+
+ ERRORS 
+
+./corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js (uncaught error)
+error: SyntaxError: Identifier 'file_exist' has already been declared
+  let file_exist = fs.existsSync(path);
+      ^
+    at <anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js:24:7)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (3ms)
+
+error: Test failed
+TEST FAILED
+node-latex-pdf_0.0.2/node-latex-pdf.test.js
+running 1 test from ./node-latex-pdf_0.0.2/node-latex-pdf.test.js
+Command Injection in node-latex-pdf ... FAILED (19ms)
+Uncaught error from ./node-latex-pdf_0.0.2/node-latex-pdf.test.js FAILED
+
+ ERRORS 
+
+Command Injection in node-latex-pdf => ./node-latex-pdf_0.0.2/node-latex-pdf.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./node-latex-pdf_0.0.2/node-latex-pdf.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in node-latex-pdf => ./node-latex-pdf_0.0.2/node-latex-pdf.test.js:6:6
+./node-latex-pdf_0.0.2/node-latex-pdf.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (25ms)
+
+error: Test failed
+TEST FAILED
+killing_1.0.6/killing.test.js
+running 1 test from ./killing_1.0.6/killing.test.js
+Command Injection in killing ... FAILED (25ms)
+
+ ERRORS 
+
+Command Injection in killing => ./killing_1.0.6/killing.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - 2 timers were started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+ FAILURES 
+
+Command Injection in killing => ./killing_1.0.6/killing.test.js:6:6
+
+FAILED | 0 passed | 1 failed (30ms)
+
+error: Test failed
+[sudo] password for bombe: TEST FAILED
+macfromip_1.1.1/macfromip.test.js
+running 1 test from ./macfromip_1.1.1/macfromip.test.js
+Command Injection in macfromip ... FAILED (17ms)
+Uncaught error from ./macfromip_1.1.1/macfromip.test.js FAILED
+
+ ERRORS 
+
+Command Injection in macfromip => ./macfromip_1.1.1/macfromip.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./macfromip_1.1.1/macfromip.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in macfromip => ./macfromip_1.1.1/macfromip.test.js:6:6
+./macfromip_1.1.1/macfromip.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (22ms)
+
+error: Test failed
+TEST FAILED
+hot-formula-parser_3.0.0/hot-formula-parser.test.js
+running 1 test from ./hot-formula-parser_3.0.0/hot-formula-parser.test.js
+Command Injection in hot-formula-parser ... ok (33ms)
+Uncaught error from ./hot-formula-parser_3.0.0/hot-formula-parser.test.js FAILED
+
+ ERRORS 
+
+./hot-formula-parser_3.0.0/hot-formula-parser.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./hot-formula-parser_3.0.0/hot-formula-parser.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (39ms)
+
+error: Test failed
+TEST FAILED
+gm_1.20.0/gm.test.js
+Uncaught error from ./gm_1.20.0/gm.test.js FAILED
+
+ ERRORS 
+
+./gm_1.20.0/gm.test.js (uncaught error)
+error: (in promise) ReferenceError: Cannot access 'require' before initialization
+const { doesNotMatch } = require("assert");
+                         ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/gm_1.20.0/gm.test.js:1:26
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./gm_1.20.0/gm.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (0ms)
+
+error: Test failed
+TEST FAILED
+im-metadata_3.0.1/im-metadata.test.js
+running 1 test from ./im-metadata_3.0.1/im-metadata.test.js
+Command Injection in im-metadata ... FAILED (17ms)
+Uncaught error from ./im-metadata_3.0.1/im-metadata.test.js FAILED
+
+ ERRORS 
+
+Command Injection in im-metadata => ./im-metadata_3.0.1/im-metadata.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./im-metadata_3.0.1/im-metadata.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in im-metadata => ./im-metadata_3.0.1/im-metadata.test.js:6:6
+./im-metadata_3.0.1/im-metadata.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (21ms)
+
+error: Test failed
+TEST FAILED
+arpping_2.0.0/arpping.test.js
+running 1 test from ./arpping_2.0.0/arpping.test.js
+Remote code execution in arpping ... ok (24ms)
+Uncaught error from ./arpping_2.0.0/arpping.test.js FAILED
+
+ ERRORS 
+
+./arpping_2.0.0/arpping.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./arpping_2.0.0/arpping.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (30ms)
+
+error: Test failed
+TEST FAILED
+clamscan_1.2.0/clamscan.test.js
+running 1 test from ./clamscan_1.2.0/clamscan.test.js
+Command Injection in clamscan ... ok (21ms)
+Uncaught error from ./clamscan_1.2.0/clamscan.test.js FAILED
+
+ ERRORS 
+
+./clamscan_1.2.0/clamscan.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./clamscan_1.2.0/clamscan.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (27ms)
+
+error: Test failed
+TEST FAILED
+find-process_1.4.4/find-process.test.js
+running 1 test from ./find-process_1.4.4/find-process.test.js
+Command Injection in find-process ... FAILED (20ms)
+Uncaught error from ./find-process_1.4.4/find-process.test.js FAILED
+
+ ERRORS 
+
+Command Injection in find-process => ./find-process_1.4.4/find-process.test.js:6:6
+error: ReferenceError: file_exist is not defined
+      file_exist = fs.existsSync(path);
+                 ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/find-process_1.4.4/find-process.test.js:14:18
+
+./find-process_1.4.4/find-process.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in find-process => ./find-process_1.4.4/find-process.test.js:6:6
+./find-process_1.4.4/find-process.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (26ms)
+
+error: Test failed
+TEST FAILED
+ts-process-promises_1.0.2/ts-process-promises.test.js
+running 1 test from ./ts-process-promises_1.0.2/ts-process-promises.test.js
+Command Injection in ts-process-promises ... ok (54ms)
+Uncaught error from ./ts-process-promises_1.0.2/ts-process-promises.test.js FAILED
+
+ ERRORS 
+
+./ts-process-promises_1.0.2/ts-process-promises.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./ts-process-promises_1.0.2/ts-process-promises.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (60ms)
+
+error: Test failed
+TEST FAILED
+thi.ng-egf_0.3.0/egf.test.js
+Uncaught error from ./thi.ng-egf_0.3.0/egf.test.js FAILED
+running 0 tests from ./thi.ng-egf_0.3.0/egf.test.js
+
+ ERRORS 
+
+./thi.ng-egf_0.3.0/egf.test.js (uncaught error)
+error: SyntaxError: Identifier 'file_exist' has already been declared
+  let file_exist = fs.existsSync(path);
+      ^
+    at <anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/thi.ng-egf_0.3.0/egf.test.js:24:7)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./thi.ng-egf_0.3.0/egf.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (3ms)
+
+error: Test failed
+TEST FAILED
+open_0.0.5/open.test.js
+running 1 test from ./open_0.0.5/open.test.js
+Command Injection in open ... FAILED (22ms)
+Uncaught error from ./open_0.0.5/open.test.js FAILED
+
+ ERRORS 
+
+Command Injection in open => ./open_0.0.5/open.test.js:6:6
+error: Leaks detected:
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./open_0.0.5/open.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in open => ./open_0.0.5/open.test.js:6:6
+./open_0.0.5/open.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (27ms)
+
+error: Test failed
+TEST FAILED
+blamer_0.1.13/blamer.test.js
+running 1 test from ./blamer_0.1.13/blamer.test.js
+Command Injection in blamer ... FAILED (34ms)
+Uncaught error from ./blamer_0.1.13/blamer.test.js FAILED
+
+ ERRORS 
+
+Command Injection in blamer => ./blamer_0.1.13/blamer.test.js:6:6
+error: ReferenceError: root is not defined
+  root = new Root("git", attack_command);
+       ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/blamer_0.1.13/blamer.test.js:21:8
+
+./blamer_0.1.13/blamer.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in blamer => ./blamer_0.1.13/blamer.test.js:6:6
+./blamer_0.1.13/blamer.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (39ms)
+
+error: Test failed
+TEST FAILED
+local-devices_2.0.0/local-devices.test.js
+running 1 test from ./local-devices_2.0.0/local-devices.test.js
+Command Injection in local-devices ... ok (90ms)
+Uncaught error from ./local-devices_2.0.0/local-devices.test.js FAILED
+
+ ERRORS 
+
+./local-devices_2.0.0/local-devices.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./local-devices_2.0.0/local-devices.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (96ms)
+
+error: Test failed
+TEST FAILED
+whereis_0.4.0/whereis.test.js
+running 1 test from ./whereis_0.4.0/whereis.test.js
+Command Injection in whereis ... FAILED (18ms)
+Uncaught error from ./whereis_0.4.0/whereis.test.js FAILED
+
+ ERRORS 
+
+Command Injection in whereis => ./whereis_0.4.0/whereis.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./whereis_0.4.0/whereis.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in whereis => ./whereis_0.4.0/whereis.test.js:6:6
+./whereis_0.4.0/whereis.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (23ms)
+
+error: Test failed
+TEST FAILED
+get-npm-package-version_1.0.6/get-npm-package-version.test.js
+running 1 test from ./get-npm-package-version_1.0.6/get-npm-package-version.test.js
+Command Injection in get-npm-package-version ... ok (496ms)
+Uncaught error from ./get-npm-package-version_1.0.6/get-npm-package-version.test.js FAILED
+
+ ERRORS 
+
+./get-npm-package-version_1.0.6/get-npm-package-version.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./get-npm-package-version_1.0.6/get-npm-package-version.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (503ms)
+
+error: Test failed
+TEST FAILED
+geojson2kml_0.1.1/geojson2kml.test.js
+running 1 test from ./geojson2kml_0.1.1/geojson2kml.test.js
+Command Injection in geojson2kml ... ok (18ms)
+Uncaught error from ./geojson2kml_0.1.1/geojson2kml.test.js FAILED
+
+ ERRORS 
+
+./geojson2kml_0.1.1/geojson2kml.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./geojson2kml_0.1.1/geojson2kml.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (24ms)
+
+error: Test failed
+TEST FAILED
+vboxmanage.js_1.0.6/vboxmanage-js.test.js
+running 1 test from ./vboxmanage.js_1.0.6/vboxmanage-js.test.js
+Command Injection in vboxmanage.js ... ok (46ms)
+Uncaught error from ./vboxmanage.js_1.0.6/vboxmanage-js.test.js FAILED
+
+ ERRORS 
+
+./vboxmanage.js_1.0.6/vboxmanage-js.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./vboxmanage.js_1.0.6/vboxmanage-js.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (58ms)
+
+error: Test failed
+TEST FAILED
+effect_1.0.4/effect.test.js
+running 1 test from ./effect_1.0.4/effect.test.js
+Command Injection in effect ... FAILED (1ms)
+Uncaught error from ./effect_1.0.4/effect.test.js FAILED
+
+ ERRORS 
+
+Command Injection in effect => ./effect_1.0.4/effect.test.js:6:6
+error: Error: Cannot find module 'effect'
+Require stack:
+- /home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/effect_1.0.4/effect.test.js
+    at Module._resolveFilename (node:module:620:15)
+    at Module._load (node:module:498:27)
+    at Module.require (node:module:682:19)
+    at require (node:module:816:16)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/effect_1.0.4/effect.test.js:8:16
+
+./effect_1.0.4/effect.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in effect => ./effect_1.0.4/effect.test.js:6:6
+./effect_1.0.4/effect.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (6ms)
+
+error: Test failed
+TEST FAILED
+eslint-fixer_0.1.5/eslint-fixer.test.js
+running 1 test from ./eslint-fixer_0.1.5/eslint-fixer.test.js
+Command Injection in eslint-fixer ... FAILED (812ms)
+Uncaught error from ./eslint-fixer_0.1.5/eslint-fixer.test.js FAILED
+
+ ERRORS 
+
+Command Injection in eslint-fixer => ./eslint-fixer_0.1.5/eslint-fixer.test.js:6:6
+error: Error: Command failed: npx eslint --fix $(touch eslint-fixer)
+
+Oops! Something went wrong! :(
+
+ESLint: 9.31.0
+
+ESLint couldn't find an eslint.config.(js|mjs|cjs) file.
+
+From ESLint v9.0.0, the default configuration file is now eslint.config.js.
+If you are using a .eslintrc.* file, please follow the migration guide
+to update your configuration file to the new format:
+
+https://eslint.org/docs/latest/use/configure/migration-guide
+
+If you still have problems after following the migration guide, please stop by
+https://eslint.org/chat/help to chat with the team.
+
+
+
+Oops! Something went wrong! :(
+
+ESLint: 9.31.0
+
+ESLint couldn't find an eslint.config.(js|mjs|cjs) file.
+
+From ESLint v9.0.0, the default configuration file is now eslint.config.js.
+If you are using a .eslintrc.* file, please follow the migration guide
+to update your configuration file to the new format:
+
+https://eslint.org/docs/latest/use/configure/migration-guide
+
+If you still have problems after following the migration guide, please stop by
+https://eslint.org/chat/help to chat with the team.
+
+
+
+    at ChildProcess.exithandler (node:child_process:291:12)
+
+./eslint-fixer_0.1.5/eslint-fixer.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in eslint-fixer => ./eslint-fixer_0.1.5/eslint-fixer.test.js:6:6
+./eslint-fixer_0.1.5/eslint-fixer.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (817ms)
+
+error: Test failed
+TEST FAILED
+portkiller_1.0.2/portkiller.test.js
+running 1 test from ./portkiller_1.0.2/portkiller.test.js
+Command Injection in portkiller ...
+------- output -------
+port number is missing.
+port $(touch portkiller) is not open.
+----- output end -----
+Command Injection in portkiller ... FAILED (28ms)
+Uncaught error from ./portkiller_1.0.2/portkiller.test.js FAILED
+
+ ERRORS 
+
+Command Injection in portkiller => ./portkiller_1.0.2/portkiller.test.js:6:6
+error: Leaks detected:
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./portkiller_1.0.2/portkiller.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in portkiller => ./portkiller_1.0.2/portkiller.test.js:6:6
+./portkiller_1.0.2/portkiller.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (34ms)
+
+error: Test failed
+TEST FAILED
+theme-core_0.2.5/theme-core.test.js
+running 1 test from ./theme-core_0.2.5/theme-core.test.js
+Command Injection in theme-core ...
+ok | 0 passed | 0 failed (44ms)
+
+error: TypeError: done is not a function
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/theme-core_0.2.5/theme-core.test.js:25:5
+    at ChildProcess.<anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/theme-core_0.2.5/node_modules/theme-core/lib/utils.js:45:35)
+    at ChildProcess.emit (ext:deno_node/_events.mjs:448:22)
+    at maybeClose (ext:deno_node/internal/child_process.ts:69:11)
+    at ext:deno_node/internal/child_process.ts:281:11
+    at Object.runMicrotasks (ext:core/01_core.js:692:26)
+    at processTicksAndRejections (ext:deno_node/_next_tick.ts:59:10)
+    at runNextTicks (ext:deno_node/_next_tick.ts:76:3)
+    at eventLoopTick (ext:core/01_core.js:185:21)
+TEST FAILED
+lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js
+running 1 test from ./lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js
+Command Injection in lycwed-spritesheetjs ... FAILED (49ms)
+Uncaught error from ./lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js FAILED
+
+ ERRORS 
+
+Command Injection in lycwed-spritesheetjs => ./lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js:6:6
+error: Leaks detected:
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in lycwed-spritesheetjs => ./lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js:6:6
+./lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (56ms)
+
+error: Test failed
+TEST FAILED
+npm-git-publish_0.2.4-beta/npm-git-publish.test.js
+running 1 test from ./npm-git-publish_0.2.4-beta/npm-git-publish.test.js
+Command Injection in npm-git-publish ...
+------- output -------
+warning: You appear to have cloned an empty repository.
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /tmp/bDg2n7bFlByA3Z3d3amW/pack/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/tmp/bDg2n7bFlByA3Z3d3amW/pack/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/bombe/.npm/_logs/2025-07-29T20_57_03_268Z-debug-0.log
+
+----- output end -----
+Command Injection in npm-git-publish ... FAILED (534ms)
+Uncaught error from ./npm-git-publish_0.2.4-beta/npm-git-publish.test.js FAILED
+
+ ERRORS 
+
+Command Injection in npm-git-publish => ./npm-git-publish_0.2.4-beta/npm-git-publish.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./npm-git-publish_0.2.4-beta/npm-git-publish.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in npm-git-publish => ./npm-git-publish_0.2.4-beta/npm-git-publish.test.js:6:6
+./npm-git-publish_0.2.4-beta/npm-git-publish.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (541ms)
+
+error: Test failed
+TEST FAILED
+scp_0.0.3/scp.test.js
+running 1 test from ./scp_0.0.3/scp.test.js
+Command Injection in scp ... FAILED (15ms)
+Uncaught error from ./scp_0.0.3/scp.test.js FAILED
+
+ ERRORS 
+
+Command Injection in scp => ./scp_0.0.3/scp.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./scp_0.0.3/scp.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in scp => ./scp_0.0.3/scp.test.js:6:6
+./scp_0.0.3/scp.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (22ms)
+
+error: Test failed
+TEST FAILED
+pdf-image_1.0.5/pdf-image.test.js
+running 1 test from ./pdf-image_1.0.5/pdf-image.test.js
+Command Injection in pdf-image ... ok (20ms)
+Uncaught error from ./pdf-image_1.0.5/pdf-image.test.js FAILED
+
+ ERRORS 
+
+./pdf-image_1.0.5/pdf-image.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./pdf-image_1.0.5/pdf-image.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (26ms)
+
+error: Test failed
+TEST FAILED
+gity_1.0.5/gity.test.js
+running 1 test from ./gity_1.0.5/gity.test.js
+Remote code execution in gity ... FAILED (1ms)
+Uncaught error from ./gity_1.0.5/gity.test.js FAILED
+
+ ERRORS 
+
+Remote code execution in gity => ./gity_1.0.5/gity.test.js:6:6
+error: Error: Cannot find module 'gity'
+Require stack:
+- /home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/gity_1.0.5/gity.test.js
+    at Module._resolveFilename (node:module:620:15)
+    at Module._load (node:module:498:27)
+    at Module.require (node:module:682:19)
+    at require (node:module:816:16)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/gity_1.0.5/gity.test.js:8:15
+
+./gity_1.0.5/gity.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Remote code execution in gity => ./gity_1.0.5/gity.test.js:6:6
+./gity_1.0.5/gity.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (7ms)
+
+error: Test failed
+TEST FAILED
+wc-cmd_1.0.9/wc-cmd.test.js
+running 1 test from ./wc-cmd_1.0.9/wc-cmd.test.js
+Command Injection in wc-cmd ... ok (20ms)
+Uncaught error from ./wc-cmd_1.0.9/wc-cmd.test.js FAILED
+
+ ERRORS 
+
+./wc-cmd_1.0.9/wc-cmd.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./wc-cmd_1.0.9/wc-cmd.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (26ms)
+
+error: Test failed
+TEST FAILED
+deferred-exec_0.3.1/deferred-exec.test.js
+running 1 test from ./deferred-exec_0.3.1/deferred-exec.test.js
+Command Injection in deferred-exec ... FAILED (45ms)
+Uncaught error from ./deferred-exec_0.3.1/deferred-exec.test.js FAILED
+
+ ERRORS 
+
+Command Injection in deferred-exec => ./deferred-exec_0.3.1/deferred-exec.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./deferred-exec_0.3.1/deferred-exec.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in deferred-exec => ./deferred-exec_0.3.1/deferred-exec.test.js:6:6
+./deferred-exec_0.3.1/deferred-exec.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (51ms)
+
+error: Test failed
+TEST FAILED
+pdf-image_2.0.0/pdf-image.test.js
+running 1 test from ./pdf-image_2.0.0/pdf-image.test.js
+Remote code execution in pdf-image ... ok (26ms)
+Uncaught error from ./pdf-image_2.0.0/pdf-image.test.js FAILED
+
+ ERRORS 
+
+./pdf-image_2.0.0/pdf-image.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./pdf-image_2.0.0/pdf-image.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (32ms)
+
+error: Test failed
+TEST FAILED
+enpeem_2.2.0/enpeem.test.js
+running 1 test from ./enpeem_2.2.0/enpeem.test.js
+Command Injection in enpeem ... FAILED (22ms)
+Uncaught error from ./enpeem_2.2.0/enpeem.test.js FAILED
+
+ ERRORS 
+
+Command Injection in enpeem => ./enpeem_2.2.0/enpeem.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./enpeem_2.2.0/enpeem.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in enpeem => ./enpeem_2.2.0/enpeem.test.js:6:6
+./enpeem_2.2.0/enpeem.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (31ms)
+
+error: Test failed
+TEST FAILED
+extra-asciinema_1.0.0/extra-asciinema.test.js
+running 1 test from ./extra-asciinema_1.0.0/extra-asciinema.test.js
+Command Injection in extra-asciinema ...
+------- output -------
+/bin/sh: 1: asciinema: not found
+----- output end -----
+Command Injection in extra-asciinema ... ok (22ms)
+Uncaught error from ./extra-asciinema_1.0.0/extra-asciinema.test.js FAILED
+
+ ERRORS 
+
+./extra-asciinema_1.0.0/extra-asciinema.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./extra-asciinema_1.0.0/extra-asciinema.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (27ms)
+
+error: Test failed
+TEST FAILED
+killport_1.0.1/killport.test.js
+running 1 test from ./killport_1.0.1/killport.test.js
+Command Injection in killport ... ok (23ms)
+Uncaught error from ./killport_1.0.1/killport.test.js FAILED
+
+ ERRORS 
+
+./killport_1.0.1/killport.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./killport_1.0.1/killport.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (29ms)
+
+error: Test failed
+TEST FAILED
+wincred_1.0.2/wincred.test.js
+running 1 test from ./wincred_1.0.2/wincred.test.js
+Command Injection in wincred ...
+------- output -------
+(node:354818) [DEP0128] DeprecationWarning: Invalid 'main' field in '/home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/wincred_1.0.2/node_modules/wincred/package.json' of 'app.js'. Please either fix that or report it to the module author
+----- output end -----
+Command Injection in wincred ... FAILED (27ms)
+Uncaught error from ./wincred_1.0.2/wincred.test.js FAILED
+
+ ERRORS 
+
+Command Injection in wincred => ./wincred_1.0.2/wincred.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./wincred_1.0.2/wincred.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in wincred => ./wincred_1.0.2/wincred.test.js:6:6
+./wincred_1.0.2/wincred.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (33ms)
+
+error: Test failed
+TEST FAILED
+node-df_0.1.4/node-df.test.js
+running 1 test from ./node-df_0.1.4/node-df.test.js
+Command Injection in node-df ... ok (29ms)
+Uncaught error from ./node-df_0.1.4/node-df.test.js FAILED
+
+ ERRORS 
+
+./node-df_0.1.4/node-df.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./node-df_0.1.4/node-df.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (41ms)
+
+error: Test failed
+TEST FAILED
+ps_0.0.2/ps.test.js
+running 1 test from ./ps_0.0.2/ps.test.js
+Command Injection in ps ... FAILED (21ms)
+Uncaught error from ./ps_0.0.2/ps.test.js FAILED
+
+ ERRORS 
+
+Command Injection in ps => ./ps_0.0.2/ps.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./ps_0.0.2/ps.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in ps => ./ps_0.0.2/ps.test.js:6:6
+./ps_0.0.2/ps.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (27ms)
+
+error: Test failed
+TEST FAILED
+xps_1.0.2/xps.test.js
+running 1 test from ./xps_1.0.2/xps.test.js
+Command Injection in xps ... FAILED (20ms)
+Uncaught error from ./xps_1.0.2/xps.test.js FAILED
+
+ ERRORS 
+
+Command Injection in xps => ./xps_1.0.2/xps.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./xps_1.0.2/xps.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in xps => ./xps_1.0.2/xps.test.js:6:6
+./xps_1.0.2/xps.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (26ms)
+
+error: Test failed
+TEST FAILED
+gry_5.0.8/gry.test.js
+running 1 test from ./gry_5.0.8/gry.test.js
+Command Injection in gry ... FAILED (22ms)
+Uncaught error from ./gry_5.0.8/gry.test.js FAILED
+
+ ERRORS 
+
+Command Injection in gry => ./gry_5.0.8/gry.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./gry_5.0.8/gry.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in gry => ./gry_5.0.8/gry.test.js:6:6
+./gry_5.0.8/gry.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (27ms)
+
+error: Test failed
+TEST FAILED
+command-exists_1.2.2/command-exists.test.js
+running 1 test from ./command-exists_1.2.2/command-exists.test.js
+Command Injection in command-exists ... ok (20ms)
+Uncaught error from ./command-exists_1.2.2/command-exists.test.js FAILED
+
+ ERRORS 
+
+./command-exists_1.2.2/command-exists.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./command-exists_1.2.2/command-exists.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (27ms)
+
+error: Test failed
+TEST FAILED
+codecov_3.6.4/codecov.test.js
+Uncaught error from ./codecov_3.6.4/codecov.test.js FAILED
+running 0 tests from ./codecov_3.6.4/codecov.test.js
+
+ ERRORS 
+
+./codecov_3.6.4/codecov.test.js (uncaught error)
+error: SyntaxError: Identifier 'file_exist' has already been declared
+  let file_exist = fs.existsSync(path);
+      ^
+    at <anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/codecov_3.6.4/codecov.test.js:40:7)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./codecov_3.6.4/codecov.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (3ms)
+
+error: Test failed
+TEST FAILED
+heroku-env_0.2.0/heroku-env.test.js
+running 1 test from ./heroku-env_0.2.0/heroku-env.test.js
+Command Injection in heroku-env ... FAILED (17ms)
+Uncaught error from ./heroku-env_0.2.0/heroku-env.test.js FAILED
+
+ ERRORS 
+
+Command Injection in heroku-env => ./heroku-env_0.2.0/heroku-env.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./heroku-env_0.2.0/heroku-env.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in heroku-env => ./heroku-env_0.2.0/heroku-env.test.js:6:6
+./heroku-env_0.2.0/heroku-env.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (23ms)
+
+error: Test failed
+TEST FAILED
+bestzip_2.1.6/bestzip.test.js
+running 1 test from ./bestzip_2.1.6/bestzip.test.js
+Command Injection in bestzip ...
+ok | 0 passed | 0 failed (65ms)
+
+error: TypeError: done is not a function
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/bestzip_2.1.6/bestzip.test.js:28:5
+    at <anonymous>
+    at Object.runMicrotasks (ext:core/01_core.js:692:26)
+    at processTicksAndRejections (ext:deno_node/_next_tick.ts:59:10)
+    at runNextTicks (ext:deno_node/_next_tick.ts:76:3)
+    at eventLoopTick (ext:core/01_core.js:185:21)
+TEST FAILED
+apex-publish-static-files_2.0.0/apex-publish-static-files.test.js
+running 1 test from ./apex-publish-static-files_2.0.0/apex-publish-static-files.test.js
+Command Injection in apex-publish-static-files ...
+------- output -------
+Uploading to 111 - Application Static Files...
+/bin/sh: 1: sql: not found
+/bin/sh: 1: @/home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script: not found
+Error: Command failed: "sql" ;touch apex-publish-static-files; @"/home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script" "/home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/distUpload.js" "/home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection" 111 "application" "undefined"
+/bin/sh: 1: sql: not found
+/bin/sh: 1: @/home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script: not found
+
+    at __node_internal_genericNodeError (ext:deno_node/internal/errors.ts:2000:15)
+    at checkExecSyncError (node:child_process:418:11)
+    at execSync (node:child_process:429:15)
+    at Object.publish (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/index.js:54:25)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/apex-publish-static-files_2.0.0/apex-publish-static-files.test.js:22:15
+    at innerWrapped (ext:cli/40_test.js:180:11)
+    at exitSanitizer (ext:cli/40_test.js:96:33)
+    at outerWrapped (ext:cli/40_test.js:123:20) {
+  status: 127,
+  signal: null,
+  stdout: "",
+  stderr: "/bin/sh: 1: sql: not found\n" +
+    "/bin/sh: 1: @/home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script: not found\n",
+  output: [
+    null,
+    "",
+    "/bin/sh: 1: sql: not found\n" +
+      "/bin/sh: 1: @/home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/apex-publish-static-files_2.0.0/node_modules/apex-publish-static-files/lib/script: not found\n"
+  ]
+}
+----- output end -----
+Command Injection in apex-publish-static-files ... ok (24ms)
+Uncaught error from ./apex-publish-static-files_2.0.0/apex-publish-static-files.test.js FAILED
+
+ ERRORS 
+
+./apex-publish-static-files_2.0.0/apex-publish-static-files.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./apex-publish-static-files_2.0.0/apex-publish-static-files.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (34ms)
+
+error: Test failed
+TEST FAILED
+git-lib_1.6.0/git-lib.test.js
+running 1 test from ./git-lib_1.6.0/git-lib.test.js
+Remote code execution in git-lib ... ok (33ms)
+Uncaught error from ./git-lib_1.6.0/git-lib.test.js FAILED
+
+ ERRORS 
+
+./git-lib_1.6.0/git-lib.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./git-lib_1.6.0/git-lib.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (41ms)
+
+error: Test failed
+TEST FAILED
+imagickal_5.0.1/imagickal.test.js
+running 1 test from ./imagickal_5.0.1/imagickal.test.js
+Remote code execution in imagickal ...
+------- output -------
+finally!
+----- output end -----
+Remote code execution in imagickal ... FAILED (33ms)
+Uncaught error from ./imagickal_5.0.1/imagickal.test.js FAILED
+
+ ERRORS 
+
+Remote code execution in imagickal => ./imagickal_5.0.1/imagickal.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./imagickal_5.0.1/imagickal.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Remote code execution in imagickal => ./imagickal_5.0.1/imagickal.test.js:6:6
+./imagickal_5.0.1/imagickal.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (39ms)
+
+error: Test failed
+TEST FAILED
+corenlp-js-interface_1.0.3/corenlp-js-interface.test.js
+running 1 test from ./corenlp-js-interface_1.0.3/corenlp-js-interface.test.js
+Command Injection in corenlp-js-interface ... FAILED (1ms)
+Uncaught error from ./corenlp-js-interface_1.0.3/corenlp-js-interface.test.js FAILED
+
+ ERRORS 
+
+Command Injection in corenlp-js-interface => ./corenlp-js-interface_1.0.3/corenlp-js-interface.test.js:6:6
+error: Error: Cannot find module 'corenlp-js-interface'
+Require stack:
+- /home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/corenlp-js-interface_1.0.3/corenlp-js-interface.test.js
+    at Module._resolveFilename (node:module:620:15)
+    at Module._load (node:module:498:27)
+    at Module.require (node:module:682:19)
+    at require (node:module:816:16)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/corenlp-js-interface_1.0.3/corenlp-js-interface.test.js:8:13
+
+./corenlp-js-interface_1.0.3/corenlp-js-interface.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in corenlp-js-interface => ./corenlp-js-interface_1.0.3/corenlp-js-interface.test.js:6:6
+./corenlp-js-interface_1.0.3/corenlp-js-interface.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (6ms)
+
+error: Test failed
+TEST FAILED
+kill-port-process_0.0.1/kill-port-process.test.js
+running 1 test from ./kill-port-process_0.0.1/kill-port-process.test.js
+Command Injection in kill-port-process ...
+------- output -------
+here!
+here!!!!
+File removed!: ./kill-port-process
+----- output end -----
+Command Injection in kill-port-process ... FAILED (23ms)
+Uncaught error from ./kill-port-process_0.0.1/kill-port-process.test.js FAILED
+
+ ERRORS 
+
+Command Injection in kill-port-process => ./kill-port-process_0.0.1/kill-port-process.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./kill-port-process_0.0.1/kill-port-process.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in kill-port-process => ./kill-port-process_0.0.1/kill-port-process.test.js:6:6
+./kill-port-process_0.0.1/kill-port-process.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (29ms)
+
+error: Test failed
+TEST FAILED
+strider-git_1.0.3/strider-git.test.js
+running 1 test from ./strider-git_1.0.3/strider-git.test.js
+Command Injection in strider-git ... FAILED (24ms)
+Uncaught error from ./strider-git_1.0.3/strider-git.test.js FAILED
+
+ ERRORS 
+
+Command Injection in strider-git => ./strider-git_1.0.3/strider-git.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./strider-git_1.0.3/strider-git.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in strider-git => ./strider-git_1.0.3/strider-git.test.js:6:6
+./strider-git_1.0.3/strider-git.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (29ms)
+
+error: Test failed
+TEST FAILED
+curling_0.2.0/curling.test.js
+running 1 test from ./curling_0.2.0/curling.test.js
+Command Injection in curling ...
+ok | 0 passed | 0 failed (23ms)
+
+error: TypeError: done is not a function
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/curling_0.2.0/curling.test.js:27:7
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/curling_0.2.0/node_modules/curling/lib/curl-transport.js:57:5
+    at ChildProcess.exithandler (node:child_process:284:7)
+    at ChildProcess.emit (ext:deno_node/_events.mjs:436:20)
+    at maybeClose (ext:deno_node/internal/child_process.ts:69:11)
+    at ext:deno_node/internal/child_process.ts:281:11
+    at Object.runMicrotasks (ext:core/01_core.js:692:26)
+    at processTicksAndRejections (ext:deno_node/_next_tick.ts:59:10)
+    at runNextTicks (ext:deno_node/_next_tick.ts:76:3)
+    at eventLoopTick (ext:core/01_core.js:185:21)
+TEST FAILED
+ffmpegdotjs_0.0.4/ffmpegdotjs.test.js
+running 1 test from ./ffmpegdotjs_0.0.4/ffmpegdotjs.test.js
+Command Injection in ffmpegdotjs ... FAILED (13ms)
+Uncaught error from ./ffmpegdotjs_0.0.4/ffmpegdotjs.test.js FAILED
+
+ ERRORS 
+
+Command Injection in ffmpegdotjs => ./ffmpegdotjs_0.0.4/ffmpegdotjs.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   false
++   true
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/ffmpegdotjs_0.0.4/ffmpegdotjs.test.js:26:26
+    at <anonymous>
+
+./ffmpegdotjs_0.0.4/ffmpegdotjs.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in ffmpegdotjs => ./ffmpegdotjs_0.0.4/ffmpegdotjs.test.js:6:6
+./ffmpegdotjs_0.0.4/ffmpegdotjs.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (19ms)
+
+error: Test failed
+TEST FAILED
+diskusage-ng_0.2.6/diskusage-ng.test.js
+running 1 test from ./diskusage-ng_0.2.6/diskusage-ng.test.js
+Command Injection in diskusage-ng ... ok (20ms)
+Uncaught error from ./diskusage-ng_0.2.6/diskusage-ng.test.js FAILED
+
+ ERRORS 
+
+./diskusage-ng_0.2.6/diskusage-ng.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./diskusage-ng_0.2.6/diskusage-ng.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (26ms)
+
+error: Test failed
+TEST FAILED
+google-cloudstorage-commands_0.0.1/google-cloudstorage-commands.test.js
+running 1 test from ./google-cloudstorage-commands_0.0.1/google-cloudstorage-commands.test.js
+Command Injection in google-cloudstorage-commands ... ok (19ms)
+Uncaught error from ./google-cloudstorage-commands_0.0.1/google-cloudstorage-commands.test.js FAILED
+
+ ERRORS 
+
+./google-cloudstorage-commands_0.0.1/google-cloudstorage-commands.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./google-cloudstorage-commands_0.0.1/google-cloudstorage-commands.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (25ms)
+
+error: Test failed
+TEST FAILED
+alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js
+running 1 test from ./alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js
+Command Injection in killing ... FAILED (32ms)
+Uncaught error from ./alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js FAILED
+
+ ERRORS 
+
+Command Injection in killing => ./alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in killing => ./alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js:6:6
+./alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (37ms)
+
+error: Test failed
+TEST FAILED
+port-killer_1.0.1/port-killer.test.js
+running 1 test from ./port-killer_1.0.1/port-killer.test.js
+Command Injection in port-killer ...
+------- output -------
+lsof: unacceptable port specification in: -i :
+lsof 4.95.0
+ latest revision: https://github.com/lsof-org/lsof
+ latest FAQ: https://github.com/lsof-org/lsof/blob/master/00FAQ
+ latest (non-formatted) man page: https://github.com/lsof-org/lsof/blob/master/Lsof.8
+ usage: [-?abhKlnNoOPRtUvVX] [+|-c c] [+|-d s] [+D D] [+|-E] [+|-e s] [+|-f[gG]]
+ [-F [f]] [-g [s]] [-i [i]] [+|-L [l]] [+m [m]] [+|-M] [-o [o]] [-p s]
+ [+|-r [t]] [-s [p:s]] [-S [t]] [-T [t]] [-u s] [+|-w] [-x [fl]] [--] [names]
+Use the ``-h'' option to get more help information.
+----- output end -----
+Command Injection in port-killer ... ok (24ms)
+Uncaught error from ./port-killer_1.0.1/port-killer.test.js FAILED
+
+ ERRORS 
+
+./port-killer_1.0.1/port-killer.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./port-killer_1.0.1/port-killer.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (31ms)
+
+error: Test failed
+TEST FAILED
+ps-visitor_0.0.2/ps-visitor.test.js
+running 1 test from ./ps-visitor_0.0.2/ps-visitor.test.js
+Command Injection in ps-visitor ... FAILED (18ms)
+Uncaught error from ./ps-visitor_0.0.2/ps-visitor.test.js FAILED
+
+ ERRORS 
+
+Command Injection in ps-visitor => ./ps-visitor_0.0.2/ps-visitor.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./ps-visitor_0.0.2/ps-visitor.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in ps-visitor => ./ps-visitor_0.0.2/ps-visitor.test.js:6:6
+./ps-visitor_0.0.2/ps-visitor.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (24ms)
+
+error: Test failed
+TEST FAILED
+macaddress_0.2.8/macaddress.test.js
+running 1 test from ./macaddress_0.2.8/macaddress.test.js
+Command Injection in macaddress ... FAILED (20ms)
+Uncaught error from ./macaddress_0.2.8/macaddress.test.js FAILED
+
+ ERRORS 
+
+Command Injection in macaddress => ./macaddress_0.2.8/macaddress.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./macaddress_0.2.8/macaddress.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in macaddress => ./macaddress_0.2.8/macaddress.test.js:6:6
+./macaddress_0.2.8/macaddress.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (26ms)
+
+error: Test failed
+TEST FAILED
+growl_1.9.0/growl.test.js
+running 1 test from ./growl_1.9.0/growl.test.js
+Command Injection in growl ... FAILED (18ms)
+Uncaught error from ./growl_1.9.0/growl.test.js FAILED
+
+ ERRORS 
+
+Command Injection in growl => ./growl_1.9.0/growl.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./growl_1.9.0/growl.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in growl => ./growl_1.9.0/growl.test.js:6:6
+./growl_1.9.0/growl.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (24ms)
+
+error: Test failed
+TEST FAILED
+git-dummy-commit_1.3.0/git-dummy-commit.test.js
+running 1 test from ./git-dummy-commit_1.3.0/git-dummy-commit.test.js
+Command Injection in git-dummy-commit ...
+------- output -------
+exec: internal error
+(node:355459) Warning: Accessing non-existent property 'cat' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'cd' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'chmod' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'cp' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'dirs' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'pushd' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'popd' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'echo' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'tempdir' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'pwd' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'exec' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'ls' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'find' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'grep' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'head' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'ln' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'mkdir' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'rm' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'mv' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'sed' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'set' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'sort' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'tail' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'test' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'to' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'toEnd' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'touch' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'uniq' of module exports inside circular dependency
+(node:355459) Warning: Accessing non-existent property 'which' of module exports inside circular dependency
+----- output end -----
+Command Injection in git-dummy-commit ... FAILED (62ms)
+Uncaught error from ./git-dummy-commit_1.3.0/git-dummy-commit.test.js FAILED
+
+ ERRORS 
+
+Command Injection in git-dummy-commit => ./git-dummy-commit_1.3.0/git-dummy-commit.test.js:6:6
+error: AssertionError: Values are not strictly equal.
+
+
+    [Diff] Actual / Expected
+
+
+-   false
++   true
+
+  throw new AssertionError(message);
+        ^
+    at assertStrictEquals (https://jsr.io/@std/assert/1.0.13/strict_equals.ts:66:9)
+    at toBe (https://jsr.io/@std/expect/1.0.16/_matchers.ts:33:5)
+    at applyMatcher (https://jsr.io/@std/expect/1.0.16/expect.ts:223:13)
+    at Proxy.<anonymous> (https://jsr.io/@std/expect/1.0.16/expect.ts:233:13)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/git-dummy-commit_1.3.0/git-dummy-commit.test.js:23:22
+
+./git-dummy-commit_1.3.0/git-dummy-commit.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in git-dummy-commit => ./git-dummy-commit_1.3.0/git-dummy-commit.test.js:6:6
+./git-dummy-commit_1.3.0/git-dummy-commit.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (70ms)
+
+error: Test failed
+TEST FAILED
+lsof_0.1.0/lsof.test.js
+Uncaught error from ./lsof_0.1.0/lsof.test.js FAILED
+
+ ERRORS 
+
+./lsof_0.1.0/lsof.test.js (uncaught error)
+error: (in promise) ReferenceError: Cannot access 'require' before initialization
+const { doesNotMatch } = require("assert");
+                         ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/lsof_0.1.0/lsof.test.js:1:26
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./lsof_0.1.0/lsof.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (0ms)
+
+error: Test failed
+TEST FAILED
+node-key-sender_1.0.11/node-key-sender.test.js
+running 1 test from ./node-key-sender_1.0.11/node-key-sender.test.js
+Command Injection in node-key-sender ... FAILED (48ms)
+Uncaught error from ./node-key-sender_1.0.11/node-key-sender.test.js FAILED
+
+ ERRORS 
+
+Command Injection in node-key-sender => ./node-key-sender_1.0.11/node-key-sender.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./node-key-sender_1.0.11/node-key-sender.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in node-key-sender => ./node-key-sender_1.0.11/node-key-sender.test.js:6:6
+./node-key-sender_1.0.11/node-key-sender.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (54ms)
+
+error: Test failed
+TEST FAILED
+total.js_3.4.6/total-js.test.js
+running 1 test from ./total.js_3.4.6/total-js.test.js
+Command Injection in total.js ...
+------- output -------
+File removed: ./total_js
+Time taken by addCount function: 2.84ms
+----- output end -----
+Command Injection in total.js ... FAILED (44ms)
+------- post-test output -------
+======= 2025-07-29 22:57:07: Error: AssertionCounter was not cleaned up: If tests are not otherwise failing, ensure `expect.hasAssertion` and `expect.assertions` are only run in bdd tests Error: AssertionCounter was not cleaned up: If tests are not otherwise failing, ensure `expect.hasAssertion` and `expect.assertions` are only run in bdd tests
+    at AssertionState.#ensureCleanedUp (https://jsr.io/@std/internal/1.0.9/assertion_state.ts:56:13)
+    at https://jsr.io/@std/internal/1.0.9/assertion_state.ts:32:30
+    at innerInvokeEventListeners (ext:deno_web/02_event.js:780:7)
+    at invokeEventListeners (ext:deno_web/02_event.js:823:5)
+    at dispatch (ext:deno_web/02_event.js:677:9)
+    at dispatchEvent (ext:deno_web/02_event.js:1067:12)
+    at dispatchUnloadEvent (ext:runtime_main/js/99_main.js:476:15)
+----- post-test output end -----
+
+ ERRORS 
+
+Command Injection in total.js => ./total.js_3.4.6/total-js.test.js:6:6
+error: Leaks detected:
+  - 2 async operations to get the next signal were started in this test, but never completed. This is often caused by not un-registering a OS signal handler.
+  - A signal listener was created during the test, but not fired/cleared during the test. Clear the signal listener by calling `Deno.removeSignalListener`.
+  - A timer was started in this test, but never completed. This is often caused by not calling `clearTimeout`.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+ FAILURES 
+
+Command Injection in total.js => ./total.js_3.4.6/total-js.test.js:6:6
+
+FAILED | 0 passed | 1 failed (51ms)
+
+error: Test failed
+TEST FAILED
+pidusage_1.0.0/pidusage.test.js
+running 1 test from ./pidusage_1.0.0/pidusage.test.js
+Command Injection in pidusage ... ok (19ms)
+Uncaught error from ./pidusage_1.0.0/pidusage.test.js FAILED
+
+ ERRORS 
+
+./pidusage_1.0.0/pidusage.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./pidusage_1.0.0/pidusage.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (24ms)
+
+error: Test failed
+TEST FAILED
+ps-kill_1.0.0/ps-kill.test.js
+running 1 test from ./ps-kill_1.0.0/ps-kill.test.js
+Command Injection in ps-kill ... FAILED (25ms)
+Uncaught error from ./ps-kill_1.0.0/ps-kill.test.js FAILED
+
+ ERRORS 
+
+Command Injection in ps-kill => ./ps-kill_1.0.0/ps-kill.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./ps-kill_1.0.0/ps-kill.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in ps-kill => ./ps-kill_1.0.0/ps-kill.test.js:6:6
+./ps-kill_1.0.0/ps-kill.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (31ms)
+
+error: Test failed
+TEST FAILED
+ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js
+running 1 test from ./ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js
+Command Injection in ffmpeg-sdk ... FAILED (16ms)
+Uncaught error from ./ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js FAILED
+
+ ERRORS 
+
+Command Injection in ffmpeg-sdk => ./ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in ffmpeg-sdk => ./ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js:6:6
+./ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (21ms)
+
+error: Test failed
+TEST FAILED
+giting_0.0.7/giting.test.js
+running 1 test from ./giting_0.0.7/giting.test.js
+Command Injection in giting ... FAILED (21ms)
+Uncaught error from ./giting_0.0.7/giting.test.js FAILED
+
+ ERRORS 
+
+Command Injection in giting => ./giting_0.0.7/giting.test.js:6:6
+error: Leaks detected:
+  - 2 async calls to op_read were started in this test, but never completed.
+  - A child process stderr was opened during the test, but not closed during the test. Close the child process stderr by calling `proc.stderr.close()` or `await child.stderr.cancel()`.
+  - A child process stdin was opened during the test, but not closed during the test. Close the child process stdin by calling `proc.stdin.close()`.
+  - A child process stdout was opened during the test, but not closed during the test. Close the child process stdout by calling `proc.stdout.close()` or `await child.stdout.cancel()`.
+  - A child process was started during the test, but not closed during the test. Close the child process by calling `proc.kill()` or `proc.close()`.
+  - An async operation to wait for a subprocess to exit was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.Process#status` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./giting_0.0.7/giting.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in giting => ./giting_0.0.7/giting.test.js:6:6
+./giting_0.0.7/giting.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (29ms)
+
+error: Test failed
+TEST FAILED
+buns_1.1.6/buns.test.js
+running 1 test from ./buns_1.1.6/buns.test.js
+Command Injection in buns ...
+SIGINT The following tests were pending:
+
+
+Command Injection in buns => ./buns_1.1.6/buns.test.js:6:6
+
+TEST FAILED
+portprocesses_1.0.4/portprocesses.test.js
+running 1 test from ./portprocesses_1.0.4/portprocesses.test.js
+Command Injection in portprocesses ... ok (21ms)
+Uncaught error from ./portprocesses_1.0.4/portprocesses.test.js FAILED
+
+ ERRORS 
+
+./portprocesses_1.0.4/portprocesses.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./portprocesses_1.0.4/portprocesses.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (30ms)
+
+error: Test failed
+TEST FAILED
+jison_0.4.17/jison.test.js
+running 1 test from ./jison_0.4.17/jison.test.js
+Command Injection in jison ... FAILED (0ms)
+Uncaught error from ./jison_0.4.17/jison.test.js FAILED
+
+ ERRORS 
+
+Command Injection in jison => ./jison_0.4.17/jison.test.js:6:6
+error: ReferenceError: exec is not defined
+  exec = require("child_process").exec;
+       ^
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/jison_0.4.17/jison.test.js:8:8
+
+./jison_0.4.17/jison.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in jison => ./jison_0.4.17/jison.test.js:6:6
+./jison_0.4.17/jison.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (6ms)
+
+error: Test failed
+TEST FAILED
+node-mpv_0.12.2/node-mpv.test.js
+Uncaught error from ./node-mpv_0.12.2/node-mpv.test.js FAILED
+running 0 tests from ./node-mpv_0.12.2/node-mpv.test.js
+
+ ERRORS 
+
+./node-mpv_0.12.2/node-mpv.test.js (uncaught error)
+error: SyntaxError: Identifier 'file_exist' has already been declared
+  let file_exist = fs.existsSync(path);
+      ^
+    at <anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/node-mpv_0.12.2/node-mpv.test.js:25:7)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./node-mpv_0.12.2/node-mpv.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (3ms)
+
+error: Test failed
+TEST FAILED
+freespace_1.0.4/freespace.test.js
+running 1 test from ./freespace_1.0.4/freespace.test.js
+Command Injection in freespace ...
+------- output -------
+
+----- output end -----
+Command Injection in freespace ... FAILED (20ms)
+Uncaught error from ./freespace_1.0.4/freespace.test.js FAILED
+
+ ERRORS 
+
+Command Injection in freespace => ./freespace_1.0.4/freespace.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./freespace_1.0.4/freespace.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in freespace => ./freespace_1.0.4/freespace.test.js:6:6
+./freespace_1.0.4/freespace.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (29ms)
+
+error: Test failed
+TEST FAILED
+apiconnect-cli-plugins_6.0.2/apiconnect-cli-plugins.test.js
+running 1 test from ./apiconnect-cli-plugins_6.0.2/apiconnect-cli-plugins.test.js
+Command Injection in apiconnect-cli-plugins ...
+------- output -------
+/bin/sh: 15: -g: not found
+/bin/sh: 15: [String: '/usr/bin/npm'] {
+  stdout: '/usr/bin/npm',
+  stderr: null,
+  code: 0,
+  cat: [Function: bound ],
+  exec: [Function: bound ],
+  grep: [Function: bound ],
+  head: [Function: bound ],
+  sed: [Function: bound ],
+  sort: [Function: bound ],
+  tail: [Function: bound ],
+  to: [Function: bound ],
+  toEnd: [Function: bound ],
+  uniq: [Function: bound ]
+}: not found
+----- output end -----
+Command Injection in apiconnect-cli-plugins ... FAILED (674ms)
+------- post-test output -------
+Error: AssertionCounter was not cleaned up: If tests are not otherwise failing, ensure `expect.hasAssertion` and `expect.assertions` are only run in bdd tests
+----- post-test output end -----
+
+ ERRORS 
+
+Command Injection in apiconnect-cli-plugins => ./apiconnect-cli-plugins_6.0.2/apiconnect-cli-plugins.test.js:6:6
+error: Leaks detected:
+  - A file was opened during the test, but not closed during the test. Close the file handle by calling `file.close()`.
+
+ FAILURES 
+
+Command Injection in apiconnect-cli-plugins => ./apiconnect-cli-plugins_6.0.2/apiconnect-cli-plugins.test.js:6:6
+
+FAILED | 0 passed | 1 failed (690ms)
+
+error: Test failed
+TEST FAILED
+connection-tester_0.2.0/connection-tester.test.js
+Uncaught error from ./connection-tester_0.2.0/connection-tester.test.js FAILED
+running 0 tests from ./connection-tester_0.2.0/connection-tester.test.js
+
+ ERRORS 
+
+./connection-tester_0.2.0/connection-tester.test.js (uncaught error)
+error: SyntaxError: Identifier 'file_exist' has already been declared
+  let file_exist = fs.existsSync(path);
+      ^
+    at <anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/connection-tester_0.2.0/connection-tester.test.js:23:7)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./connection-tester_0.2.0/connection-tester.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (4ms)
+
+error: Test failed
+TEST FAILED
+npm-help_1.0.0/npm-help.test.js
+running 1 test from ./npm-help_1.0.0/npm-help.test.js
+Command Injection in npm-help ...
+------- output -------
+/bin/sh: 1: tnpm: not found
+----- output end -----
+Command Injection in npm-help ... ok (20ms)
+Uncaught error from ./npm-help_1.0.0/npm-help.test.js FAILED
+
+ ERRORS 
+
+./npm-help_1.0.0/npm-help.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./npm-help_1.0.0/npm-help.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (30ms)
+
+error: Test failed
+TEST FAILED
+monorepo-build_0.1.9/monorepo-build.test.js
+Uncaught error from ./monorepo-build_0.1.9/monorepo-build.test.js FAILED
+running 0 tests from ./monorepo-build_0.1.9/monorepo-build.test.js
+
+ ERRORS 
+
+./monorepo-build_0.1.9/monorepo-build.test.js (uncaught error)
+error: SyntaxError: Identifier 'file_exist' has already been declared
+  let file_exist = fs.existsSync(path);
+      ^
+    at <anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/monorepo-build_0.1.9/monorepo-build.test.js:37:7)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./monorepo-build_0.1.9/monorepo-build.test.js (uncaught error)
+
+FAILED | 0 passed | 1 failed (5ms)
+
+error: Test failed
+TEST FAILED
+xopen_1.0.0/xopen.test.js
+running 1 test from ./xopen_1.0.0/xopen.test.js
+Command Injection in xopen ... ok (21ms)
+Uncaught error from ./xopen_1.0.0/xopen.test.js FAILED
+
+ ERRORS 
+
+./xopen_1.0.0/xopen.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./xopen_1.0.0/xopen.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (27ms)
+
+error: Test failed
+TEST FAILED
+curljs_0.1.2/curljs.test.js
+running 1 test from ./curljs_0.1.2/curljs.test.js
+Command Injection in curljs ... FAILED (23ms)
+Uncaught error from ./curljs_0.1.2/curljs.test.js FAILED
+
+ ERRORS 
+
+Command Injection in curljs => ./curljs_0.1.2/curljs.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./curljs_0.1.2/curljs.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in curljs => ./curljs_0.1.2/curljs.test.js:6:6
+./curljs_0.1.2/curljs.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (28ms)
+
+error: Test failed
+TEST FAILED
+libnmap_0.4.11/libnmap.test.js
+running 1 test from ./libnmap_0.4.11/libnmap.test.js
+Command Injection in libnmap ... FAILED (58ms)
+------- post-test output -------
+Trace: Error: Error: AssertionCounter was not cleaned up: If tests are not otherwise failing, ensure `expect.hasAssertion` and `expect.assertions` are only run in bdd tests
+    at Process.<anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/libnmap_0.4.11/node_modules/libnmap/lib/libnmap.js:116:17)
+    at Process.emit (ext:deno_node/_events.mjs:436:20)
+    at Process.emit (node:process:342:40)
+    at uncaughtExceptionHandler (node:process:268:11)
+    at processOnError (node:process:627:3)
+    at innerInvokeEventListeners (ext:deno_web/02_event.js:780:7)
+    at invokeEventListeners (ext:deno_web/02_event.js:823:5)
+    at dispatch (ext:deno_web/02_event.js:677:9)
+    at dispatchEvent (ext:deno_web/02_event.js:1067:12)
+    at reportException (ext:deno_web/02_event.js:1521:54)
+    at Process.<anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/libnmap_0.4.11/node_modules/libnmap/lib/libnmap.js:116:11)
+    at Process.emit (ext:deno_node/_events.mjs:436:20)
+    at Process.emit (node:process:342:40)
+    at uncaughtExceptionHandler (node:process:268:11)
+    at processOnError (node:process:627:3)
+    at innerInvokeEventListeners (ext:deno_web/02_event.js:780:7)
+    at invokeEventListeners (ext:deno_web/02_event.js:823:5)
+    at dispatch (ext:deno_web/02_event.js:677:9)
+    at dispatchEvent (ext:deno_web/02_event.js:1067:12)
+    at reportException (ext:deno_web/02_event.js:1521:54)
+Trace: Error: TypeError: done is not a function
+    at Process.<anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/libnmap_0.4.11/node_modules/libnmap/lib/libnmap.js:116:17)
+    at Process.emit (ext:deno_node/_events.mjs:436:20)
+    at Process.emit (node:process:342:40)
+    at uncaughtExceptionHandler (node:process:268:11)
+    at Object.internals.nodeProcessUnhandledRejectionCallback (node:process:650:9)
+    at processUnhandledPromiseRejection (ext:runtime_main/js/99_main.js:439:15)
+    at eventLoopTick (ext:core/01_core.js:228:25)
+    at Process.<anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/libnmap_0.4.11/node_modules/libnmap/lib/libnmap.js:116:11)
+    at Process.emit (ext:deno_node/_events.mjs:436:20)
+    at Process.emit (node:process:342:40)
+    at uncaughtExceptionHandler (node:process:268:11)
+    at Object.internals.nodeProcessUnhandledRejectionCallback (node:process:650:9)
+    at processUnhandledPromiseRejection (ext:runtime_main/js/99_main.js:439:15)
+    at eventLoopTick (ext:core/01_core.js:228:25)
+----- post-test output end -----
+
+ ERRORS 
+
+Command Injection in libnmap => ./libnmap_0.4.11/libnmap.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+ FAILURES 
+
+Command Injection in libnmap => ./libnmap_0.4.11/libnmap.test.js:6:6
+
+FAILED | 0 passed | 1 failed (65ms)
+
+error: Test failed
+TEST FAILED
+git-parse_1.0.4/git-parse.test.js
+running 1 test from ./git-parse_1.0.4/git-parse.test.js
+Command Injection in git-parse ... FAILED (19ms)
+Uncaught error from ./git-parse_1.0.4/git-parse.test.js FAILED
+
+ ERRORS 
+
+Command Injection in git-parse => ./git-parse_1.0.4/git-parse.test.js:6:6
+error: TypeError: util.promisify requires a true ES5 environment, that also supports `__proto__`
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/git-parse_1.0.4/node_modules/util.promisify/implementation.js:9:8
+    at Object.<anonymous> (file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/git-parse_1.0.4/node_modules/util.promisify/implementation.js:90:3)
+    at Module._compile (node:module:745:34)
+    at loadMaybeCjs (node:module:770:10)
+    at Object.Module._extensions..js (node:module:755:12)
+    at Module.load (node:module:663:32)
+    at Module._load (node:module:535:12)
+    at Module.require (node:module:682:19)
+    at require (node:module:816:16)
+    at file:///home/bombe/UniSaarland/WebSec-Seminar/deno-SecBench.js/command-injection/git-parse_1.0.4/node_modules/util.promisify/index.js:6:22
+
+./git-parse_1.0.4/git-parse.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in git-parse => ./git-parse_1.0.4/git-parse.test.js:6:6
+./git-parse_1.0.4/git-parse.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (27ms)
+
+error: Test failed
+TEST FAILED
+samsung-remote_1.2.5/samsung-remote.test.js
+running 1 test from ./samsung-remote_1.2.5/samsung-remote.test.js
+Command Injection in samsung-remote ... FAILED (21ms)
+Uncaught error from ./samsung-remote_1.2.5/samsung-remote.test.js FAILED
+
+ ERRORS 
+
+Command Injection in samsung-remote => ./samsung-remote_1.2.5/samsung-remote.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./samsung-remote_1.2.5/samsung-remote.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in samsung-remote => ./samsung-remote_1.2.5/samsung-remote.test.js:6:6
+./samsung-remote_1.2.5/samsung-remote.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (27ms)
+
+error: Test failed
+TEST FAILED
+compass-compile_0.0.1/compass-compile.test.js
+running 1 test from ./compass-compile_0.0.1/compass-compile.test.js
+Command Injection in compass-compile ... FAILED (24ms)
+Uncaught error from ./compass-compile_0.0.1/compass-compile.test.js FAILED
+
+ ERRORS 
+
+Command Injection in compass-compile => ./compass-compile_0.0.1/compass-compile.test.js:6:6
+error: Leaks detected:
+  - An async operation to remove a file or directory was started in this test, but never completed. This is often caused by not awaiting the result of a `Deno.remove` call.
+To get more details where leaks occurred, run again with the --trace-leaks flag.
+
+./compass-compile_0.0.1/compass-compile.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+Command Injection in compass-compile => ./compass-compile_0.0.1/compass-compile.test.js:6:6
+./compass-compile_0.0.1/compass-compile.test.js (uncaught error)
+
+FAILED | 0 passed | 2 failed (30ms)
+
+error: Test failed
+TEST FAILED
+react-dev-utils_11.0.0/react-dev-utils.test.js
+running 1 test from ./react-dev-utils_11.0.0/react-dev-utils.test.js
+Command Injection in react-dev-utils ... ok (65ms)
+Uncaught error from ./react-dev-utils_11.0.0/react-dev-utils.test.js FAILED
+
+ ERRORS 
+
+./react-dev-utils_11.0.0/react-dev-utils.test.js (uncaught error)
+error: null
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+ FAILURES 
+
+./react-dev-utils_11.0.0/react-dev-utils.test.js (uncaught error)
+
+FAILED | 1 passed | 1 failed (71ms)
+
+error: Test failed
+TEST FAILED
+******************************************SUMMARY******************************************
+-------------------------------------------------------------------------------------------
+20.81608533859253 seconds
+TOTAL PASSED =  29 / 72
+TOTAL FAILED =  101
+Failed Tests=====================>
+['async-git_1.13.1/async-git.test.js', 'roar-pidusage_1.1.6/roar-pidusage.test.js', 'gitblame_0.1.1/gitblame.test.js', 'git-add-remote_1.0.0/git-add-remote.test.js', 'pdfinfojs_0.3.6/pdfinfojs.test.js', 'psnode_0.0.1/psnode.test.js', 'git-tags-remote_1.0.2/git-tags-remote.test.js', 'adb-driver_0.1.8/adb-driver.test.js', 'im-resize_2.3.2/im-resize.test.js', 'onion-oled-js_0.0.2/onion-old-js.test.js', 'aaptjs_1.3.1/aaptjs.test.js', 'umount_1.1.6/umount.test.js', 'kill-by-port_0.0.1/kill-by-port.test.js', 'git_0.1.5/git.test.js', 'node-unrar_0.1.0/node-unrar.test.js', 'node-ps_0.0.2/node-ps.test.js', 'kill-process-by-name_1.0.5/kill-process-by-name.test.js', 'dns-sync_0.1.0/dns-sync.test.js', 'diskstats_0.0.2/diskstats.test.js', 'corenlp-js-prefab_1.0.1/corenlp-js-prefab.test.js', 'node-latex-pdf_0.0.2/node-latex-pdf.test.js', 'killing_1.0.6/killing.test.js', 'macfromip_1.1.1/macfromip.test.js', 'hot-formula-parser_3.0.0/hot-formula-parser.test.js', 'gm_1.20.0/gm.test.js', 'im-metadata_3.0.1/im-metadata.test.js', 'arpping_2.0.0/arpping.test.js', 'clamscan_1.2.0/clamscan.test.js', 'find-process_1.4.4/find-process.test.js', 'ts-process-promises_1.0.2/ts-process-promises.test.js', 'thi.ng-egf_0.3.0/egf.test.js', 'open_0.0.5/open.test.js', 'blamer_0.1.13/blamer.test.js', 'local-devices_2.0.0/local-devices.test.js', 'whereis_0.4.0/whereis.test.js', 'get-npm-package-version_1.0.6/get-npm-package-version.test.js', 'geojson2kml_0.1.1/geojson2kml.test.js', 'vboxmanage.js_1.0.6/vboxmanage-js.test.js', 'effect_1.0.4/effect.test.js', 'eslint-fixer_0.1.5/eslint-fixer.test.js', 'portkiller_1.0.2/portkiller.test.js', 'theme-core_0.2.5/theme-core.test.js', 'lycwed-spritesheetjs_1.2.5/lycwed-spritesheetjs.test.js', 'npm-git-publish_0.2.4-beta/npm-git-publish.test.js', 'scp_0.0.3/scp.test.js', 'pdf-image_1.0.5/pdf-image.test.js', 'gity_1.0.5/gity.test.js', 'wc-cmd_1.0.9/wc-cmd.test.js', 'deferred-exec_0.3.1/deferred-exec.test.js', 'pdf-image_2.0.0/pdf-image.test.js', 'enpeem_2.2.0/enpeem.test.js', 'extra-asciinema_1.0.0/extra-asciinema.test.js', 'killport_1.0.1/killport.test.js', 'wincred_1.0.2/wincred.test.js', 'node-df_0.1.4/node-df.test.js', 'ps_0.0.2/ps.test.js', 'xps_1.0.2/xps.test.js', 'gry_5.0.8/gry.test.js', 'command-exists_1.2.2/command-exists.test.js', 'codecov_3.6.4/codecov.test.js', 'heroku-env_0.2.0/heroku-env.test.js', 'bestzip_2.1.6/bestzip.test.js', 'apex-publish-static-files_2.0.0/apex-publish-static-files.test.js', 'git-lib_1.6.0/git-lib.test.js', 'imagickal_5.0.1/imagickal.test.js', 'corenlp-js-interface_1.0.3/corenlp-js-interface.test.js', 'kill-port-process_0.0.1/kill-port-process.test.js', 'strider-git_1.0.3/strider-git.test.js', 'curling_0.2.0/curling.test.js', 'ffmpegdotjs_0.0.4/ffmpegdotjs.test.js', 'diskusage-ng_0.2.6/diskusage-ng.test.js', 'google-cloudstorage-commands_0.0.1/google-cloudstorage-commands.test.js', 'alfred-workflow-nodejs_2.0.1/alfred-workflow-nodejs.test.js', 'port-killer_1.0.1/port-killer.test.js', 'ps-visitor_0.0.2/ps-visitor.test.js', 'macaddress_0.2.8/macaddress.test.js', 'growl_1.9.0/growl.test.js', 'git-dummy-commit_1.3.0/git-dummy-commit.test.js', 'lsof_0.1.0/lsof.test.js', 'node-key-sender_1.0.11/node-key-sender.test.js', 'total.js_3.4.6/total-js.test.js', 'pidusage_1.0.0/pidusage.test.js', 'ps-kill_1.0.0/ps-kill.test.js', 'ffmpeg-sdk_0.0.5/ffmpeg-sdk.test.js', 'giting_0.0.7/giting.test.js', 'buns_1.1.6/buns.test.js', 'portprocesses_1.0.4/portprocesses.test.js', 'jison_0.4.17/jison.test.js', 'node-mpv_0.12.2/node-mpv.test.js', 'freespace_1.0.4/freespace.test.js', 'apiconnect-cli-plugins_6.0.2/apiconnect-cli-plugins.test.js', 'connection-tester_0.2.0/connection-tester.test.js', 'npm-help_1.0.0/npm-help.test.js', 'monorepo-build_0.1.9/monorepo-build.test.js', 'xopen_1.0.0/xopen.test.js', 'curljs_0.1.2/curljs.test.js', 'libnmap_0.4.11/libnmap.test.js', 'git-parse_1.0.4/git-parse.test.js', 'samsung-remote_1.2.5/samsung-remote.test.js', 'compass-compile_0.0.1/compass-compile.test.js', 'react-dev-utils_11.0.0/react-dev-utils.test.js']
