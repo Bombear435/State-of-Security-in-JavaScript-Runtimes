@@ -1,0 +1,121 @@
+[
+	{
+		"date": "July 4 2025",
+		"domains_down": [
+			{
+				"domain": "x.nest.land",
+				"error": "Error code: 503 Service Unavailable"
+			},
+			{
+				"domain": "cdn.pagic.org",
+				"error": "error sending request for url (https://cdn.pagic.org/react): client error (Connect): invalid peer certificate: Expired"
+			},
+			{
+				"domain": "cdn.dreg.dev",
+				"error": "error sending request for url (https://cdn.dreg.dev/lodash@4.17.21/index.js): client error (Connect): dns error: failed to lookup address information"
+			}
+		]
+	},
+	{
+		"date": "July 5 2025",
+		"domains_down": [
+			{
+				"domain": "x.nest.land",
+				"error": "Error code: 503 Service Unavailable"
+			},
+			{
+				"domain": "cdn.pagic.org",
+				"error": "invalid peer certificate: Expired"
+			},
+			{
+				"domain": "cdn.dreg.dev",
+				"error": "dns error: failed to lookup address information"
+			}
+		]
+	},
+    {
+		"date": "July 6 2025",
+		"domains_down": [
+			{
+				"domain": "x.nest.land",
+				"error": "Error code: 503 Service Unavailable"
+			},
+			{
+				"domain": "cdn.pagic.org",
+				"error": "invalid peer certificate: Expired"
+			},
+			{
+				"domain": "cdn.dreg.dev",
+				"error": "dns error: failed to lookup address information"
+			}
+		]
+	},
+    {
+		"date": "July 7 2025",
+		"domains_down": [
+			{
+				"domain": "x.nest.land",
+				"error": "Error code: 503 Service Unavailable"
+			},
+			{
+				"domain": "cdn.pagic.org",
+				"error": "invalid peer certificate: Expired"
+			},
+			{
+				"domain": "cdn.dreg.dev",
+				"error": "dns error: failed to lookup address information"
+			}
+		]
+	},    
+    {
+		"date": "July 8 2025",
+		"domains_down": [
+			{
+				"domain": "x.nest.land",
+				"error": "Error code: 503 Service Unavailable"
+			},
+			{
+				"domain": "cdn.pagic.org",
+				"error": "invalid peer certificate: Expired"
+			},
+			{
+				"domain": "cdn.dreg.dev",
+				"error": "dns error: failed to lookup address information"
+			}
+		]
+	},    
+    {
+		"date": "July 9 2025",
+		"domains_down": [
+			{
+				"domain": "x.nest.land",
+				"error": "Error code: 503 Service Unavailable"
+			},
+			{
+				"domain": "cdn.pagic.org",
+				"error": "invalid peer certificate: Expired"
+			},
+			{
+				"domain": "cdn.dreg.dev",
+				"error": "dns error: failed to lookup address information"
+			}
+		]
+	},
+    {
+		"date": "July 10 2025",
+		"domains_down": [
+			{
+				"domain": "x.nest.land",
+				"error": "Error code: 503 Service Unavailable"
+			},
+			{
+				"domain": "cdn.pagic.org",
+				"error": "invalid peer certificate: Expired"
+			},
+			{
+				"domain": "cdn.dreg.dev",
+				"error": "dns error: failed to lookup address information"
+			}
+		]
+	}
+]
